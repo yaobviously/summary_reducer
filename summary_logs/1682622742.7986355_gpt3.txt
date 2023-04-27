@@ -1,0 +1,17 @@
+PROMPT:
+
+Write a general summary or overview of the following.
+
+
+In April 1882, Captain Morstan disappeared and four years later, Major Sholto, the only person in London he could have visited, died. Shortly after his death, Captain Morstan's daughter receives a valuable present every year, culminating in a letter describing her as a wronged woman. Sherlock Holmes and Miss Morstan embark on an expedition to solve the mystery. During the expedition, Miss Morstan reveals that Major Sholto was a particular friend of her father's and she has brought a paper found in her father's desk that no one can understand. The paper appears to be a plan of part of a large building with numerous halls, corridors, and passages. There is a small cross in red ink with the words '3.37 from left' written beside it and a hieroglyphic in the left-hand corner.
+On a dreary September evening, Miss Morstan and two companions meet a small, dark, brisk man at the Lyceum Theatre. They are taken in a four-wheeler to their rendezvous, and the man inquires if either of the companions is a police-officer. Miss Morstan assures him they are not, and the man leads them away. Throughout their journey, Sherlock Holmes remains silent and contemplative, jotting down figures in his notebook by the light of his pocket-lantern. The streets are crowded with people of all kinds, and the yellow shop-window light casts a murky radiance across the thoroughfare.
+Sherlock Holmes and Miss Morstan are on a mysterious errand, driving to an unknown place. They pass through the foggy streets at a furious pace, and eventually arrive in a questionable and forbidding neighborhood. They knock on the door of a third-rate suburban dwelling-house, and are let in by an Indian servant. Inside, they are met by a high-pitched voice from an inner room, which leads them further into the house.
+
+
+GENERAL SUMMARY OR OVERVIEW:
+
+==========
+
+RESPONSE:
+
+Sherlock Holmes and Miss Morstan embark on an expedition to solve the mystery of Captain Morstan's disappearance four years earlier. After receiving a valuable present every year, Miss Morstan is led to a mysterious rendezvous point. There, she and two companions are taken by a small, dark, brisk man to a third-rate suburban dwelling-house, where they are met by a high-pitched voice from an inner room. On this mysterious errand, they pass through foggy streets at a furious pace, eventually arriving at their destination.

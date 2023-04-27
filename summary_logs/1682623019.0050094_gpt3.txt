@@ -1,0 +1,17 @@
+PROMPT:
+
+Write a general summary or overview of the following.
+
+
+Sherlock Holmes and Dr. Watson are on the hunt for a criminal that has knowledge of buried treasure. Along their journey, they observe the hustle and bustle of everyday life in London and come across a small pocket pouch and a dog named Toby that help them track the criminal. They eventually find the criminals, Jonathan Small and an associate, who had planned to take revenge on Major Sholto for wronging him. After discovering that the suspect has escaped, Holmes must decide between his love for Miss Morstan and his sense of honor and fairness towards her.
+Sherlock Holmes and Dr. Watson are investigating a series of mysterious cases, including the disappearance of a steam launch called the Aurora, a burglary at Pondicherry Lodge in Upper Norwood, and a man named Jonathan Small and his companion. Holmes and Watson use their skills of deduction and observation to uncover clues, and eventually come to the conclusion that the aborigines of the Andaman Islands may be involved in the case. Holmes then leaves Watson to act on his own judgement if any news should come in while he is away.
+The Upper Norwood tragedy is proving to be more mysterious than originally thought, and Scotland Yard is searching for clues regarding the real culprits. Sherlock Holmes has placed an advertisement in the agony column offering a reward for information on the whereabouts of Mordecai Smith and the launch Aurora. When an elderly man arrives with important information, Sherlock Holmes reveals his true identity and is offered a cigar. He and Inspector Jones then set out on a mission to find Jonathan Small, a suspect in the Norwood tragedy who is believed to have stolen a valuable treasure. After a dinner of oysters and grouse, they set out on their mission. They eventually catch up to the Aurora in the Thames River, but the criminals escape.
+
+
+GENERAL SUMMARY OR OVERVIEW:
+
+==========
+
+RESPONSE:
+
+Sherlock Holmes and Dr. Watson are on the hunt for a criminal with knowledge of buried treasure. Along their journey, they observe the hustle and bustle of everyday life in London and come across a small pocket pouch and a dog named Toby that help them track the criminal. They eventually find Jonathan Small, the suspect in the Norwood tragedy, and his companion who had planned to take revenge on Major Sholto. However, they escape and Holmes must decide between his love for Miss Morstan and his sense of honor and fairness towards her. Scotland Yard is searching for clues regarding the real culprits, and Sherlock Holmes has placed an advertisement in the agony column offering a reward for information on the whereabouts of Mordecai Smith and the launch Aurora. After a dinner of oysters and grouse, they set out on their mission and eventually catch up to the Aurora in the Thames River, but the criminals escape.

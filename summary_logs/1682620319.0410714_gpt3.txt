@@ -1,0 +1,16 @@
+PROMPT:
+
+Write an executive summary of the following:
+
+
+While Gradual is the most practical and satisfying of the books under review, it is worth considering, as the authors do not, the cases in which an incrementalist view might fail us. Do we wish the architects of the Manhattan Project to have been incrementalist in their outlook? And what about Abraham Lincoln, who was at first an incrementalist on the slavery issue, but then realized that circumstances required something quite different? Where does a truly incrementalist society find the moral and emotional capital to support its revolutionaries in the times when those revolutionaries are needed? It may be that incrementalism requires a dose of the Fisher view, and its obsession with the longue dure, but how can a society manage that integration without giving up its beneficial incrementalist tendencies?
+All things considered, achieving the consilience of long- and short-term considerations may not be so easy. Our temporal perspectives depend critically on norms and individual world-views. But what if different spheres of society require different ethics of urgency and complacency, and of long- and short-term thinking? If only social norms were so flexible on a sector-by-sector, era-by-era basis.
+
+
+EXECUTIVE SUMMARY:
+
+==========
+
+RESPONSE:
+
+Gradual: The Path to Lasting Change is a book that explores the benefits of an incrementalist approach to social and economic change. However, while this approach may be practical and satisfying in many cases, it may not be the best option in certain circumstances. This book examines the potential pitfalls of an incrementalist view, such as its inability to provide moral and emotional capital for revolutionaries when needed. It also considers the difficulty of achieving a balance between long-term and short-term considerations, as well as the need for different ethics of urgency and complacency in different sectors of society.

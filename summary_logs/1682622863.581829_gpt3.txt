@@ -1,0 +1,17 @@
+PROMPT:
+
+Write a general summary or overview of the following.
+
+
+Sherlock Holmes and Athelney Jones agree to work together to capture Jonathan Small, who is suspected of stealing a valuable treasure. Holmes arranges for a fast police-boat to be at Westminster Stairs at seven o'clock and for two strong men to be available in case of resistance. He also suggests that the treasure be given to the rightful owner, a young lady, when they capture Small. The trio then enjoy a dinner of oysters and grouse before setting out on their mission.
+Sherlock Holmes, Dr. Watson and Inspector Jones take a launch down the river in pursuit of the criminal Small. Holmes had been frustrated in his attempts to find Small and had taken a break from the case by doing a chemical analysis. He then returned to the case and figured out that Small was likely still in London and would need some time to arrange his affairs before leaving. They eventually catch up to the Aurora, a clipper launch, but it is unclear if they will be able to apprehend Small.
+Sherlock Holmes is trying to solve a Norwood tragedy and has deduced that the culprits, Jonathan Small and his companion, likely did not go far from their headquarters due to the time of night. He believes that they would have wanted to get back before it was light, so he reasons that they must have paid someone to keep quiet about their escape and hurried back to their lodgings with the treasure. He then comes up with a plan to find the launch they used, which is to find a boat-builder or repairer who they may have given the launch to with instructions to make a minor change. After visiting numerous yards, he finds the launch at Jacobson's and sees Mordecai Smith, the missing owner, who had been paid well by the culprits to have the launch ready at 8 o'clock sharp. Holmes then sends one of his boys as a sentry to watch the launch.
+
+
+GENERAL SUMMARY OR OVERVIEW:
+
+==========
+
+RESPONSE:
+
+Sherlock Holmes and Inspector Jones team up to find Jonathan Small, a suspect in a Norwood tragedy, who is believed to have stolen a valuable treasure. After a dinner of oysters and grouse, they set out on their mission. Holmes deduces that Small is still in London and has arranged for a fast police-boat to be at Westminster Stairs at seven o'clock, as well as two strong men in case of resistance. Eventually, they catch up to the Aurora, a clipper launch, but it is unclear if they will be able to apprehend Small. Holmes then visits numerous boat-yards until he finds the launch at Jacobson's with Mordecai Smith, the missing owner. He sends one of his boys as a sentry to watch the launch.

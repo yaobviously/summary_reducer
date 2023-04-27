@@ -1,0 +1,17 @@
+PROMPT:
+
+Write a general summary or overview of the following.
+
+
+Sherlock Holmes and Dr. Watson are investigating the disappearance of a woman's father, which leads them to a sequence of events involving the death of Captain Morstan, the sending of pearls, an advertisement and letter, the Indian treasure, Major Sholto's death, and the rediscovery of the treasure. Holmes tasks Watson with escorting the woman home while he investigates further with Mrs. Bernstone and the Indian servant who sleeps in the next garret. In the end, Holmes must decide between his love for Miss Morstan and his sense of honor and fairness towards her.
+Sherlock Holmes and Dr. Watson are on the hunt for a criminal, and they use a small pocket pouch and a dog named Toby to help them. They follow the trail of the criminal, eventually finding a corner of the boundary wall with loose bricks and a handprint with a smudge of blood. They then travel to Pinchin Lane, where they purchase a dog from Mr. Sherman and return to Pondicherry Lodge. Upon their arrival, they discover that McMurdo and Sholto have been arrested as accessories to the crime. Holmes notices some unusual footprints, climbs up to the attic, and discovers that the suspect has escaped.
+Sherlock Holmes and his companion are tracking two criminals who have knowledge of buried treasure. Along the way, they observe the hustle and bustle of everyday life in London. Holmes remarks on the smallness of human ambition in comparison to nature's great elemental forces. The criminals are led by a dog named Toby, who is running back and forth, seemingly unable to make up his mind as to which direction to take. They eventually discover that the criminals are Jonathan Small and an associate, who had planned to take revenge on Major Sholto for wronging him. Jonathan Small had left a record in case he killed the Major, and he followed the treasure-box out when it was found.
+
+
+GENERAL SUMMARY OR OVERVIEW:
+
+==========
+
+RESPONSE:
+
+Sherlock Holmes and Dr. Watson are on the hunt for a criminal that has knowledge of buried treasure. Along their journey, they observe the hustle and bustle of everyday life in London and come across a small pocket pouch and a dog named Toby that help them track the criminal. They eventually find the criminals, Jonathan Small and an associate, who had planned to take revenge on Major Sholto for wronging him. After discovering that the suspect has escaped, Holmes must decide between his love for Miss Morstan and his sense of honor and fairness towards her.

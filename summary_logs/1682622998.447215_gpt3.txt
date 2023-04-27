@@ -1,0 +1,17 @@
+PROMPT:
+
+Write a general summary or overview of the following.
+
+
+The narrator and two Sikhs are discussing a plan to steal a treasure belonging to a Rajah in the northern provinces. The Rajah had sent the jewels to Agra for safekeeping. The Sikhs have arranged for a merchant and his companion to arrive at the fort's side-postern and the narrator agrees to join them in exchange for a quarter of the treasure. They plan to take the merchant's treasure while the narrator stays on guard. The merchant is described as a small, fat, round man with a yellow turban and his companion is an enormous man with a black beard.
+The narrator tells a story of how he and two others encountered a merchant named Achmet who was travelling across Rajpootana. The narrator and two Sikhs escorted Achmet to the main guard, but he managed to escape. The Sikh then buried his knife in Achmet's side, killing him. It is revealed that Achmet was carrying an iron box which contained a great quantity of precious gems. The four men were arrested for the murder and were sentenced to life in prison, but none of them revealed the secret of their treasure, which remains buried in a hall near the fort.
+The narrator, a convict on Blair Island in the Andamans, overhears a conversation between Major Sholto and Captain Morstan about a hidden treasure worth half a million. They agree to look into it further if they can agree on terms and eventually come to an agreement that Major Sholto will go to India to test the truth of the story. If he finds the box, he will leave it there, send out a yacht, and meet them at Agra. Captain Morstan will apply for leave of absence and they will divide the treasure between them. They seal the agreement with solemn oaths and Abdullah Khan prepares two charts of the Agra fort.
+
+
+GENERAL SUMMARY OR OVERVIEW:
+
+==========
+
+RESPONSE:
+
+The narrator and two Sikhs are discussing a plan to steal a treasure belonging to a Rajah in the northern provinces. They have arranged for a merchant and his companion to arrive at the fort's side-postern, and the narrator agrees to join them in exchange for a quarter of the treasure. The narrator tells a story of how he and two others encountered a merchant named Achmet who was carrying an iron box containing precious gems, but they killed him and were sentenced to life in prison. Major Sholto and Captain Morstan then agree to look into the story of a hidden treasure worth half a million, and they seal the agreement with solemn oaths.

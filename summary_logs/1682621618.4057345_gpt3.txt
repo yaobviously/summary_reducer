@@ -1,0 +1,17 @@
+PROMPT:
+
+Write a general summary or overview of the following.
+
+
+The counter-argument runs thus: even if we fear advances in immunology, is it not better for non-rogue actors to have the greatest understanding possible? Would it not, more simply, be better for the West to be ahead of China and Russia in this field? Might the West not need superior immunology to fend off a terror attack one day? And what of those potential rogue actors who are not ceasing their own research? Above all, what would it be like to have a government that banned an entire scientific field? And might science as a whole then stagnate, stifling our ability to divert that large asteroid heading towards the planet? (A version of this debate recently erupted when more than 1,000 artificial-intelligence experts and investors, including Elon Musk, signed an open letter calling on scientists to pause their work on large-language AI models such as ChatGPT-4 for six months. They wrote: Powerful AI systems should be developed only once we are confident that their effects will be positive and their risks will be manageable.)
+The layers of argumentation pile up, and that particular question will probably never be settled. Nonetheless, the consilience approach carries one strong trump card: human beings are impatient and will probably never succeed in thinking purely about the long term. So the best we can hope to achieve, practically speaking, is to tie the long run to the short and medium runs as closely as possible. Even if consilience isnt perfect, it is perhaps the best we are going to achieve. The longtermists ought to pocket that win, knowing that they will not get much further, at least not any time soon.
+In this view long-term thinking is important, but primarily because it helps us to think more clearly about the short and medium term. Most of all, we need to look for agendas where there is considerable overlap when it comes to what is best across varied time horizons. But dangers lurk in this move as well. Ive already mentioned that ostensibly long-termist agendas are often, in reality, primarily concerned with short-term political priorities. If the consilience versions of longtermism are those most likely to survive in the world of ideas, that will make it all the easier for longtermism to evolve into cloaked forms for shorter-term ambitions, dressed up in the proper analytical, rationalist language.
+
+
+GENERAL SUMMARY OR OVERVIEW:
+
+==========
+
+RESPONSE:
+
+This debate considers whether advances in immunology should be pursued, even if there is fear of potential rogue actors exploiting the knowledge. It is argued that the West should stay ahead of China and Russia in this field, and that a government banning an entire scientific field would lead to stagnation. The consilience approach is proposed as an alternative, where long-term thinking is important to help think more clearly about the short and medium term, but can be dangerous if it is used to mask short-term political ambitions.

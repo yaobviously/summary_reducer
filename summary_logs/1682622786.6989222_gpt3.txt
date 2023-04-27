@@ -1,0 +1,17 @@
+PROMPT:
+
+Write a general summary or overview of the following.
+
+
+Sherlock Holmes and his companion have come to a room with no apparent way out. Holmes suggests that they use a rope to climb out of the window, and explains that the previous inhabitant of the room must have had an ally to help him escape. He then discovers a trapdoor that leads to the roof, which is the way the previous inhabitant must have escaped. Holmes and his companion then explore the secret room in which the treasure was found.
+In this passage, Sherlock Holmes and Watson are investigating a crime scene. Holmes notices the footprints of a small child on the floor and concludes that the child is responsible for the crime. He explains that a specially trained hound could track the pungent scent of the creosote that the child had stepped in. Before the police arrive, Holmes has Watson feel the muscles of the deceased which are in an extreme state of contraction. He also notes a strange "Hippocratic smile" on the face of the deceased.
+Sherlock Holmes is called to investigate a mysterious death in which the man was found with drawn muscles on his face. Upon examining the scene, Holmes finds a thorn with a glazed look near the point as though some gummy substance had dried on it. He theorizes that the man died from a powerful vegetable alkaloid, like strychnine, which was administered through the thorn. He is then joined by Inspector Athelney Jones and Thaddeus Sholto, and they discuss the case and possible theories.
+
+
+GENERAL SUMMARY OR OVERVIEW:
+
+==========
+
+RESPONSE:
+
+Sherlock Holmes is called to investigate a mysterious death. Upon examining the scene, he finds a thorn with a glazed look near the point and theorizes that the man died from a vegetable alkaloid, like strychnine. He is then joined by Inspector Athelney Jones and Thaddeus Sholto, and they discuss the case and possible theories. Holmes also notices the footprints of a small child on the floor and explains that a specially trained hound could track the pungent scent of the creosote that the child had stepped in. Holmes then discovers a trapdoor that leads to the roof, which is the way the previous inhabitant must have escaped. He and his companion explore the secret room in which the treasure was found.

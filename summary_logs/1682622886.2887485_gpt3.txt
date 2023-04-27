@@ -1,0 +1,17 @@
+PROMPT:
+
+Write a general summary or overview of the following.
+
+
+Dr. Watson brings a box of treasure to Mrs. Forrester, telling her it is the great Agra treasure and that she and Thaddeus Sholto will each receive two hundred thousand pounds. After unlocking the box with Mrs. Forrester's poker, they discover it is empty. They are both astonished by the discovery and must find out what happened to the treasure.
+In this story, a treasure is found to be empty, and the protagonist is relieved to have the "golden barrier" between him and his love removed. The inspector and detective are disappointed to find the treasure gone, but the thief, Jonathan Small, is triumphant. He reveals that the treasure belonged to three convicts in the Andaman convict-barracks and himself, and that they would have wanted him to throw it away rather than let it go to anyone related to Sholto or Morstan.
+Small is a former convict who has spent twenty years in a fever-ridden swamp, working under a mangrove tree and being bullied by police officers. He has earned the Agra treasure and is angry that someone else may enjoy it instead of him. He tells his story to Holmes and Jones, revealing that he had put the loot away in a safe place when he saw that their launch was catching up with them. He expresses his frustration at the idea of justice, asking why he should give up the treasure to those who have never earned it. He speaks passionately about his experience, and Holmes and Jones understand why Major Sholto was so terrified when he learned that the injured convict was after him.
+
+
+GENERAL SUMMARY OR OVERVIEW:
+
+==========
+
+RESPONSE:
+
+Dr. Watson, Mrs. Forrester and Thaddeus Sholto are shocked to find that the box of treasure they have opened is empty. They must investigate to find out what happened to the treasure and why it is gone. Jonathan Small, a former convict, reveals that he had earned the Agra treasure and had put it away in a safe place when he saw their launch was catching up with them. He expresses his frustration at the idea of justice and speaks passionately about his experience, which Holmes and Jones understand as to why Major Sholto was so terrified when he learned that the injured convict was after him.

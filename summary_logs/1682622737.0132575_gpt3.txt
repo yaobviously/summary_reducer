@@ -1,0 +1,17 @@
+PROMPT:
+
+Write a general summary or overview of the following.
+
+
+Mary Morstan is the daughter of an Indian regiment officer who sent her home when she was a child. In 1878, her father obtained a year's leave and came to London, staying at the Langham Hotel. He went out one night and never returned. Mary communicated with the police but there were no leads. Six years later, an advertisement appeared in the Times asking for Mary's address and stating that it would be to her advantage to come forward. When she did, she received a small box containing a large pearl. Every year from then on, Mary has received a similar box with a pearl inside, but no clues as to who is sending them.
+Miss Morstan visits Sherlock Holmes and Dr. Watson to discuss a mysterious letter she received that day. The letter instructs her to meet at the Lyceum Theatre at seven o'clock that evening, with two friends if she is distrustful. Holmes and Watson agree to accompany her and Holmes examines the letter and envelope for clues. He notices the particular quality of paper and the lack of an address, and comments on the handwriting being similar to that of Miss Morstan's father. They agree to meet Miss Morstan at six o'clock, and she leaves with a bright, kindly glance. Watson watches her walk away until she is lost in the crowd.
+In this story, Sherlock Holmes is attempting to solve a mystery involving a woman. He advises the narrator not to let personal qualities interfere with his judgement and explains the importance of studying handwriting to gain insight into character. Holmes then leaves to conduct research, while the narrator muses on the woman's character. By the time Holmes returns, he has discovered a "suggestive fact" which could explain the mystery.
+
+
+GENERAL SUMMARY OR OVERVIEW:
+
+==========
+
+RESPONSE:
+
+In this story, Sherlock Holmes is asked to investigate a mysterious letter received by Mary Morstan, the daughter of an Indian regiment officer. Holmes and Watson accompany her to the Lyceum Theatre, where they examine the letter and envelope for clues. Holmes leaves to conduct research and returns with a "suggestive fact" that could explain the mystery. Throughout the story, Holmes emphasizes the importance of studying handwriting in order to gain insight into character.

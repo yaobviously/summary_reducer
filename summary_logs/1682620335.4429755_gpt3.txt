@@ -1,0 +1,17 @@
+PROMPT:
+
+Write a general summary of the following:
+
+
+This debate questions the implications of advances in immunology and whether it is better for non-rogue actors to have the greatest understanding possible. It also looks at the potential risks of a government banning an entire scientific field and how this could stifle our ability to divert a large asteroid heading towards the planet. The consilience approach suggests that human beings are impatient and will never succeed in thinking purely about the long term, so tying the long run to the short and medium runs is the best we can do. However, there is a risk that longtermism agendas could be used to mask short-term political ambitions.
+The debate over short-termism vs long-termism is growing, and three new books are adding to it. Richard Fisher's The Long View: Why We Need to Transform How the World Sees Time examines how long-term perspectives can be taught to humanity and draws on history, science, and philosophy to explain how. Derek Parfit's Reasons and Persons (1984) argued that policy makers should not discount the future due to its temporal distance. Jan Zielonka's The Lost Future: And How to Reclaim It portrays capitalism as a short-sighted economic system. However, capitalism is not as short-sighted as the rhetoric suggests, as investors often support long-term projects and well-defined property rights can ease the process of capturing benefits today from good outcomes tomorrow.
+In Zielonka's book, he offers a more political, less philosophical vision than that of Fisher, focusing on financial crises, energy shortages, climate change and war. He proposes moving beyond the primacy of nation-states and empowering other public actors at the local and transnational level. However, the author raises questions about the ability of these transnational organizations to resist short-termism and remain democratic. He also argues that agency relationships, not capitalism, are responsible for excess short-termism, and regulations are needed to solve the negative externalities of capitalism.
+
+
+GENERAL SUMMARY:
+
+==========
+
+RESPONSE:
+
+This debate explores the implications of advances in immunology, whether it is better for non-rogue actors to have the greatest understanding possible, and the potential risks of a government banning an entire scientific field. Three new books - Richard Fisher's The Long View: Why We Need to Transform How the World Sees Time, Derek Parfit's Reasons and Persons (1984) and Jan Zielonka's The Lost Future: And How to Reclaim It – add to the debate by examining the potential of long-term perspectives, arguing for policy makers not discounting the future and portraying capitalism as a short-sighted economic system. Zielonka proposes moving beyond nation-states, but raises questions about the ability of transnational organizations to resist short-termism and remain democratic, and argues that agency relationships, not capitalism, are responsible for excess short-termism.

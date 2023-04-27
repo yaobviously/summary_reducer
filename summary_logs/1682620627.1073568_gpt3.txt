@@ -1,0 +1,17 @@
+PROMPT:
+
+Write a general summary or overview of the following.
+
+
+This article discusses the pros and cons of long-term thinking, and how it relates to short and medium-term agendas. It suggests that the most effective way to approach long-term thinking is through the consilience approach, which ties the long run to the short and medium runs as closely as possible. However, it also warns of the dangers of longtermism being used as a cloak for shorter-term ambitions. Ultimately, it concludes that while long-term thinking is important, it should be balanced with short and medium-term objectives.
+Three new books have entered the fray of the debate on long-termism, which is the idea that people should consider the long-term consequences of their actions. Richard Fisher's book, The Long View, argues that it is possible to teach humanity a longer-term perspective by drawing on history, science, and philosophy. Derek Parfit's book Reasons and Persons is also mentioned as having laid out the themes of long-term thinking. However, Fisher and Jan Zielonka's book The Lost Future make the mistake of portraying capitalism as a short-sighted economic system when it can actually be beneficial to those with a longer-term outlook. Overall, these books provide insight into the debate on long-termism and how it can be applied to our lives.
+Zielonka's book offers a more political approach to the issue of short-termism than Fisher's more philosophical approach. It focuses on current issues such as financial crises, energy shortages, climate change, and war, and suggests remedies such as empowering public actors on a local and transnational level. However, it is unclear how these transnational organizations can be protected from short-termism, as they are full of agency relationships and are often not democratic.
+
+
+GENERAL SUMMARY OR OVERVIEW:
+
+==========
+
+RESPONSE:
+
+This article discusses the pros and cons of long-term thinking and its relationship to short and medium-term agendas. It explores three new books that have entered the debate on long-termism, including Richard Fisher's The Long View, Derek Parfit's Reasons and Persons, and Jan Zielonka's The Lost Future. It suggests that the most effective way to approach long-term thinking is through the consilience approach, which ties the long run to the short and medium runs as closely as possible. However, it warns of the dangers of longtermism being used as a cloak for shorter-term ambitions. Ultimately, it concludes that while long-term thinking is important, it should be balanced with short and medium-term objectives.

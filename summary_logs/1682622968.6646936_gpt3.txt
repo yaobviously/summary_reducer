@@ -1,0 +1,17 @@
+PROMPT:
+
+Write a general summary or overview of the following.
+
+
+Sherlock Holmes and his companion, Dr. Watson, investigate the disappearance of a steam launch called the Aurora. They follow a scent left by Toby, a dog, which leads them to a timber-yard and a large barrel of creasote. They then visit a small brick house on the edge of the wharf belonging to Mordecai Smith, where they learn that a wooden-legged man with an ugly face had taken the launch. Holmes and Watson then cross the river in a wherry and discuss their plan of action. In order to avoid alerting the runaways that they are being pursued, Holmes suggests they take a hansom cab home, have breakfast, and get some sleep before possibly going out at night.
+Sherlock Holmes and Dr. Watson are investigating a burglary at Pondicherry Lodge in Upper Norwood. With the assistance of the police, they have arrested the housekeeper, Mrs. Bernstone, an Indian butler named Lal Rao, and a porter or gatekeeper named McMurdo. Holmes is able to prove that the thieves must have entered through a trap door in the roof of the building. He then dispatches a group of street-Arabs to search for a steam launch called the Aurora. In order to find out more about the other man involved in the case, Holmes looks up information in a gazetteer and discovers that the aborigines of the Andaman Islands are known for being the smallest race on earth and for having large, misshapen heads and small, fierce personalities.
+Sherlock Holmes and Dr. Watson are investigating a mysterious case involving a man named Jonathan Small and his companion. After discussing their findings, Holmes plays Watson a melodious tune on his violin. Watson then visits Mrs. Cecil Forrester and Miss Morstan to discuss the outcome of the investigation. Later, Holmes goes away in search of answers, leaving Watson to act on his own judgement if any news should come in while he is away.
+
+
+GENERAL SUMMARY OR OVERVIEW:
+
+==========
+
+RESPONSE:
+
+Sherlock Holmes and Dr. Watson are investigating a series of mysterious cases, including the disappearance of a steam launch called the Aurora, a burglary at Pondicherry Lodge in Upper Norwood, and a man named Jonathan Small and his companion. Holmes and Watson use their skills of deduction and observation to uncover clues, and eventually come to the conclusion that the aborigines of the Andaman Islands may be involved in the case. Holmes then leaves Watson to act on his own judgement if any news should come in while he is away.

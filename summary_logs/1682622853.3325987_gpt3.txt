@@ -1,0 +1,17 @@
+PROMPT:
+
+Write a general summary or overview of the following.
+
+
+The Upper Norwood tragedy is proving to be more complex and mysterious than originally thought, with fresh evidence showing that Thaddeus Sholto could not have been involved. Scotland Yard is pursuing a clue as to the real culprits, while Sherlock Holmes has placed an advertisement in the agony column offering a reward for information on the whereabouts of Mordecai Smith and the launch Aurora. The long day passes with no news, and Sherlock's companion, Dr. Watson, begins to wonder if his reasoning may be flawed.
+Mr. Athelney Jones, an authoritative figure, arrives at the door of a person who is surprised by his presence. He is much different from his usual brusque and confident self, appearing meek and apologetic. He is there to ask for help in solving the Norwood case, as he has hit a dead end. He expresses admiration for Sherlock Holmes, who has sent him a telegram saying he is close to finding the culprits in the case. At that moment, a heavy-footed man appears at the door, wheezing and struggling for breath. He is an elderly man in seafaring clothes and an old pea-jacket.
+Sherlock Holmes was not present when an old man came to the door looking for him. The old man had important information regarding Mordecai Smith's boat and the treasure it contained, but refused to tell them anything until Sherlock Holmes was present. The two men tried to detain the old man, but he resisted. Just as they were about to give up, Sherlock Holmes arrived in disguise, pretending to be the old man. After revealing his true identity, he was offered a cigar and the old man's information was revealed.
+
+
+GENERAL SUMMARY OR OVERVIEW:
+
+==========
+
+RESPONSE:
+
+The Upper Norwood tragedy is proving to be more mysterious than originally thought, with evidence suggesting that Thaddeus Sholto could not have been involved. Scotland Yard is searching for clues regarding the real culprits, while Sherlock Holmes has placed an advertisement in the agony column offering a reward for information on the whereabouts of Mordecai Smith and the launch Aurora. Meanwhile, Mr. Athelney Jones, an authoritative figure, arrives at someone's door to ask for help in solving the case. An elderly man in seafaring clothes soon arrives at the door, and he has important information about Mordecai Smith's boat and its treasure. However, he refuses to tell them anything until Sherlock Holmes arrives. When Sherlock Holmes does arrive in disguise, he reveals his true identity and is offered a cigar. The old man then reveals his information.

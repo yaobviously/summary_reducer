@@ -1,0 +1,17 @@
+PROMPT:
+
+Write a general summary or overview of the following.
+
+
+The speaker is on night watch duty when two Sikhs approach him and hold a knife to his throat, demanding that he join them in a quest for treasure. They offer him a quarter of the loot if he agrees. He is hesitant, but they give him three minutes to decide, warning him that if he does not agree, he will be killed. The Sikhs promise that the treasure is not related to any danger to the fort, and the speaker ultimately decides to join them.
+Two Sikhs and a Feringhee, who is the narrator, are discussing a plan to steal a treasure belonging to a Rajah in the northern provinces. The Rajah had divided his hoard into gold, silver, and jewels and sent the jewels to the fort at Agra for safekeeping. The Sikhs have arranged for a merchant named Achmet, who is actually a trusted servant of the Rajah, to arrive at a side-postern of the fort with his companion, Dost Akbar, who knows the secret. The narrator is asked to swear an oath not to raise his hand or speak against them and agrees in exchange for a quarter of the treasure. The narrator reflects on the differences between life in Worcestershire and life in India where fire and blood are commonplace.
+The narrator is discussing a plan to take the treasure of a merchant, Achmet, for themselves rather than allow it to be taken by the government. They are waiting for the merchant and his companion, a Sikh, to arrive at the gate. When they arrive, the narrator challenges them and reveals them with a lantern. The Sikh is described as an enormous man with a black beard and the merchant is a small, fat, round man with a yellow turban. The narrator and his companions plan to take the merchant's treasure while the narrator stays on guard.
+
+
+GENERAL SUMMARY OR OVERVIEW:
+
+==========
+
+RESPONSE:
+
+The narrator and two Sikhs are discussing a plan to steal a treasure belonging to a Rajah in the northern provinces. The Rajah had sent the jewels to Agra for safekeeping. The Sikhs have arranged for a merchant and his companion to arrive at the fort's side-postern and the narrator agrees to join them in exchange for a quarter of the treasure. They plan to take the merchant's treasure while the narrator stays on guard. The merchant is described as a small, fat, round man with a yellow turban and his companion is an enormous man with a black beard.

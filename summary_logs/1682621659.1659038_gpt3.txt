@@ -1,0 +1,17 @@
+PROMPT:
+
+Write a general summary or overview of the following.
+
+
+Longtermism is a radical philosophy that few people are interested in living by, but is gaining traction in philosophical and political debate. It suggests that we should consider the potential future of billions or even trillions of sentient beings and take steps to ensure their survival. This includes an obsession with existential risks such as nuclear weapons and runaway artificial intelligence. Our descendants may rely on us to make decisions today that will protect them in the future.
+Longtermism is a concept that suggests looking ahead for the long-term benefits of a country, such as increased economic growth. However, this concept has been met with pushback from the political left who argue that it ignores the suffering of today's individuals. Longtermism is highly controversial and is often put forward by people with analytical inclinations. At its core, the disagreement over longtermism is rooted in emotion and personal temperaments.
+The right wing has its own skepticism about longtermism, while the left and right critiques point to the difficult question of whether those who profess longtermism are even capable of it. Some suggest that the best preparation for the long run is to invest in human talent, high-quality institutions and flexible responses today. But before we accept this, we need to ask whether there are any downsides to these investments and whether they should always be the priority for dealing with longer-term and existential risks.
+
+
+GENERAL SUMMARY OR OVERVIEW:
+
+==========
+
+RESPONSE:
+
+Longtermism is a philosophical concept that suggests making decisions today to benefit future generations. It has been met with skepticism from both the left and right, as some argue that it ignores the suffering of today's individuals and others question whether those who profess longtermism are even capable of it. Proponents suggest investing in human talent, high-quality institutions and flexible responses today as the best preparation for the long run. However, there are still questions about whether these investments should always be the priority for dealing with longer-term and existential risks.

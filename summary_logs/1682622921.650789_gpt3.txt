@@ -1,0 +1,17 @@
+PROMPT:
+
+Write a general summary or overview of the following.
+
+
+The narrator is a convict on Blair Island in the Andamans. He is given a hut in Hope Town and is left mostly to himself. He spends his days doing manual labor and his nights listening to the conversations of the other officers who are playing cards. He notices that the soldiers always lose and the civilians always win, and Major Sholto eventually gets into debt due to his losses.
+Major Sholto and Captain Morstan are friends who often spend time together. One night, Major Sholto has lost heavily in gambling and is raving about his losses. Small, a hut dweller, overhears the conversation and decides to speak to the major about a hidden treasure he knows of worth half a million. The major is hesitant but eventually agrees to hear Small's story. After hearing the story, Major Sholto and Captain Morstan decide that the secret is a private concern and ask Small what price he would ask for it. They are willing to look into it further if they can agree on terms.
+In this passage, four men are discussing a plan to escape imprisonment and gain freedom. They come to an agreement that Major Sholto will go to India to test the truth of the story and if he finds the box he will leave it there, send out a yacht, and meet them at Agra. Captain Morstan will apply for leave of absence and they will divide the treasure between them. They seal the agreement with solemn oaths and Abdullah Khan prepares two charts of the Agra fort.
+
+
+GENERAL SUMMARY OR OVERVIEW:
+
+==========
+
+RESPONSE:
+
+The narrator, a convict on Blair Island in the Andamans, overhears a conversation between Major Sholto and Captain Morstan about a hidden treasure worth half a million. They agree to look into it further if they can agree on terms and eventually come to an agreement that Major Sholto will go to India to test the truth of the story. If he finds the box, he will leave it there, send out a yacht, and meet them at Agra. Captain Morstan will apply for leave of absence and they will divide the treasure between them. They seal the agreement with solemn oaths and Abdullah Khan prepares two charts of the Agra fort.

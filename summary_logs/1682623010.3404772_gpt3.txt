@@ -1,0 +1,17 @@
+PROMPT:
+
+Write a general summary or overview of the following.
+
+
+Sherlock Holmes is approached by Miss Mary Morstan, who has a complicated domestic situation. After listening to her story and examining a fifty-guinea watch, Holmes is able to deduce information from observation and deduction. He then accompanies Mary to the Lyceum Theatre, where they investigate a mysterious letter. Throughout the story, Holmes emphasizes the importance of studying handwriting in order to gain insight into character. He also speaks of the importance of observation and deduction in the work of a detective, and demonstrates this by correctly deducing the narrator's recent activities.
+Sherlock Holmes and Miss Morstan embark on an expedition to solve the mystery of Captain Morstan's disappearance four years earlier. They are taken by a small, dark, brisk man to a third-rate suburban dwelling-house, where they meet Thaddeus Sholto, the twin brother of Major John Sholto. Thaddeus reveals that his brother had prospered in India and brought back a considerable sum of money, a large collection of valuable curiosities, and a staff of native servants. He also tells them about the mysterious visitor and the phrase "The Sign of the Four". Thaddeus had sent Miss Morstan one pearl at a time so she would not feel destitute and eventually they found the treasure. On their way to Norwood to demand their share, Morstan died of a heart attack due to an argument over the treasure and became a mysterious disappearance.
+Sherlock Holmes is called to investigate a mysterious death in a large, dark, and silent house. Upon further investigation, he discovers evidence of treasure-seekers and a garret containing a treasure chest worth half a million sterling. He also finds clues that point to murder, including footprints and a wooden stump impression. Holmes deduces that a wooden-legged man and an accomplice had broken in, stolen the treasure, and killed the victim. He then sends another man to the police station to report the incident and uses the remaining time to examine evidence. Holmes also discovers a trapdoor that leads to the roof and explores the secret room in which the treasure was found.
+
+
+GENERAL SUMMARY OR OVERVIEW:
+
+==========
+
+RESPONSE:
+
+Sherlock Holmes is called to investigate a mysterious death in a large, dark, and silent house. After being approached by Miss Mary Morstan, Holmes deduces information from observation and deduction and accompanies her to the Lyceum Theatre to investigate a mysterious letter. Through further investigation, Holmes discovers evidence of treasure-seekers, a garret containing a treasure chest worth half a million sterling, and clues that point to murder. He then sends another man to the police station to report the incident and uses the remaining time to examine evidence. Holmes discovers a trapdoor that leads to the roof and explores the secret room in which the treasure was found. Through his detective work, Holmes is able to uncover the truth behind Captain Morstan’s disappearance four years earlier and solve the mystery.

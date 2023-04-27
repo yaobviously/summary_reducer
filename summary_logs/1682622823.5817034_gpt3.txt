@@ -1,0 +1,17 @@
+PROMPT:
+
+Write a general summary or overview of the following.
+
+
+Sherlock Holmes and his companion followed the scent of a dog, Toby, who had been tracking something down. They followed the scent down Nine Elms, past the White Eagle tavern, and into a timber-yard. Toby was frantic with excitement, and eventually led them to a large barrel smeared with a dark liquid, which was creasote. Realizing they had taken the wrong trail, they followed the other trail which led them to the edge of a wooden wharf. There they discovered that the object they were tracking had gone by boat.
+Sherlock Holmes and Toby visit a small brick house on the edge of the wharf belonging to Mordecai Smith. It is a boat hire business and they are informed by a red-faced woman with a sponge that her husband has been away since the day before. They are further informed by the woman that a wooden-legged man with an ugly face and outlandish talk had been visiting her husband and that he had taken the steam launch but there were not enough coals to get him to Woolwich. Holmes is suspicious and the woman is worried about her husband's whereabouts.
+Sherlock Holmes and Dr. Watson are investigating the disappearance of a steam launch called the Aurora. They visit a woman whose husband was taken away with the man in the wooden leg. Holmes and Watson then cross the river in a wherry and discuss their plan of action. Holmes suggests they advertise asking for information from wharfingers, but decides against it because it will alert the runaways that they are being pursued. Instead, he suggests they take a hansom cab, go home, have breakfast, and get some sleep before possibly going out at night.
+
+
+GENERAL SUMMARY OR OVERVIEW:
+
+==========
+
+RESPONSE:
+
+Sherlock Holmes and his companion, Dr. Watson, investigate the disappearance of a steam launch called the Aurora. They follow a scent left by Toby, a dog, which leads them to a timber-yard and a large barrel of creasote. They then visit a small brick house on the edge of the wharf belonging to Mordecai Smith, where they learn that a wooden-legged man with an ugly face had taken the launch. Holmes and Watson then cross the river in a wherry and discuss their plan of action. In order to avoid alerting the runaways that they are being pursued, Holmes suggests they take a hansom cab home, have breakfast, and get some sleep before possibly going out at night.

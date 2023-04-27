@@ -1,0 +1,17 @@
+PROMPT:
+
+Write a general summary or overview of the following.
+
+
+In this passage, a trained observer is able to deduce information from observation and deduction. The observer notices a reddish mould adhering to the instep of the person being observed, which is found only in the area near the Seymour Street Office. The observer then deduces that the person must have gone to the post-office to send a wire, since they had stamps and postcards in their desk. At the end of the passage, the observer is asked to deduce information from a watch that has recently come into the possession of the person asking the question. After examining the watch, the observer is able to deduce that it belonged to their elder brother who inherited it from their father.
+In this passage, Holmes is able to deduce information about the owner of a fifty-guinea watch by examining the watch itself. He is able to infer that the owner was careless and often at low water due to the dents and scratches on the watch case, as well as the number of pawnbroker tickets visible inside. He also infers that the owner had occasional bursts of prosperity due to the fact that he was able to redeem the pledge. Finally, he points out that the keyhole is covered with scratches, indicating that it was probably used by a drunkard.
+Sherlock Holmes is visited by a young blonde woman named Miss Mary Morstan who is seeking his help to unravel a complicated domestic situation. She is well-dressed and has a refined, sensitive nature. Holmes is intrigued by her case and eagerly listens to her explain the strange and inexplicable situation she finds herself in. He encourages her to state her case, and she does so in an attempt to seek his assistance.
+
+
+GENERAL SUMMARY OR OVERVIEW:
+
+==========
+
+RESPONSE:
+
+In this passage, Sherlock Holmes is visited by a young blonde woman named Miss Mary Morstan. She has a refined, sensitive nature and is seeking his help to unravel a complicated domestic situation. Holmes encourages her to explain her case and, after listening to her, he is able to deduce information from observation and deduction. He also examines a fifty-guinea watch that has recently come into the possession of the person asking the question and is able to infer that the owner was careless and often at low water due to the dents and scratches on the watch case, as well as the number of pawnbroker tickets visible inside. He also infers that the owner had occasional bursts of prosperity due to the fact that he was able to redeem the pledge. Finally, he points out that the keyhole is covered with scratches, indicating that it was probably used by a drunkard.

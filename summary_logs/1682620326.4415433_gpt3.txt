@@ -1,0 +1,17 @@
+PROMPT:
+
+Write a general summary of the following:
+
+
+Longtermism is a radical and oft-neglected philosophy which considers the impact of decisions on future generations. The effective altruism movement has brought the concept to the forefront of philosophical and political debate, with William MacAskills book What We Owe the Future (2022) exploring the concept in depth. Longtermism suggests that we should strive to ensure a positive future for many billions of sentient beings, which requires us to focus on reducing existential risks posed by nuclear weapons and runaway artificial intelligence. This would ensure a better future for our descendants.
+Longtermism is a controversial idea in western nations, as it suggests that politicians should be more concerned with long-term issues such as mounting debt and falling fertility. Philosopher Mile P. Torres has argued against longtermism, claiming that it can be used to ignore the demands of the present and ignore human suffering. Advocates of longtermism often favor an analytical approach, which can be seen as both a bug and a feature depending on one's point of view. Ultimately, disagreements over longtermism are rooted in our emotions and personal temperaments.
+Longtermism is a concept that has been met with skepticism from both the left and the right. While the critiques differ, both question whether longtermists are even capable of longterm thinking themselves. Some argue that the best way to prepare for the long run is to invest in human talent, quality institutions and flexible responses today. However, this raises questions about whether these investments should be prioritized when dealing with longer-term and existential risks. There is a need to consider the potential downsides of investing in talent and good institutions.
+
+
+GENERAL SUMMARY:
+
+==========
+
+RESPONSE:
+
+Longtermism is a philosophy that considers the impact of decisions on future generations, and is gaining traction in philosophical and political circles. It suggests that we should strive to ensure a positive future for many billions of sentient beings, which requires us to focus on reducing existential risks posed by nuclear weapons and runaway artificial intelligence. This idea has been met with skepticism from both the left and the right, as some question whether longtermists are even capable of longterm thinking themselves. Ultimately, disagreements over longtermism are rooted in our emotions and personal temperaments, and there is a need to consider the potential downsides of investing in talent and good institutions.

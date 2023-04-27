@@ -1,0 +1,17 @@
+PROMPT:
+
+Write a general summary or overview of the following.
+
+
+In this passage, Sherlock Holmes is discussing the case of Thaddeus Sholto with Athelney Jones. They know that Thaddeus's brother died in a fit and that Thaddeus walked away with the treasure. Holmes uses his reasoning to try to prove that Thaddeus is responsible for his brother's death, and he finds a poisoned splinter, a card, and a stone-headed instrument in the room. The detective then arrests Thaddeus, but Holmes promises to clear him of the charge. He also reveals that one of the two people in the room was Jonathan Small.
+Sherlock Holmes and Dr. Watson are investigating the strange disappearance of a woman's father. They have just encountered two men, one of which is described as a poorly-educated, middle-aged man with his right leg off and wearing a wooden stump. After discussing the situation with Dr. Watson, Sherlock Holmes tasks him with escorting the woman home and then to go to a bird-stuffer's house to pick up a mongrel dog named Toby. Meanwhile, Holmes will investigate further with Mrs. Bernstone and the Indian servant who sleeps in the next garret. Ultimately, they hope to solve the mystery and discover what happened to the woman's father.
+This is a story about an extraordinary sequence of events that lead to a deeper and more tragic mystery. It begins with the death of Captain Morstan and the sending of pearls, and progresses to an advertisement and letter that bring light to the events. The Indian treasure, a curious plan found among Morstan's baggage, a strange scene at Major Sholto's death, and the rediscovery of the treasure followed by the murder of the discoverer, all contribute to the mystery. In the end, the protagonist is left with a struggle between his love for Miss Morstan and his sense of honor and fairness towards her.
+
+
+GENERAL SUMMARY OR OVERVIEW:
+
+==========
+
+RESPONSE:
+
+Sherlock Holmes and Dr. Watson are investigating the disappearance of a woman's father, which leads them to a sequence of events involving the death of Captain Morstan, the sending of pearls, an advertisement and letter, the Indian treasure, Major Sholto's death, and the rediscovery of the treasure. Holmes tasks Watson with escorting the woman home while he investigates further with Mrs. Bernstone and the Indian servant who sleeps in the next garret. In the end, Holmes must decide between his love for Miss Morstan and his sense of honor and fairness towards her.

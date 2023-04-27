@@ -1,0 +1,17 @@
+PROMPT:
+
+Write a general summary or overview of the following.
+
+
+rat-tat."Who is there?" cried a gruff voice from within."It is I, McMurdo. You surely know my knock by this time."There was a grumbling sound and a clanking and jarring of keys. Thedoor swung heavily back, and a short, deep-chested man stood in theopening, with the yellow light of the lantern shining upon hisprotruded face and twinkling distrustful eyes."That you, Mr. Thaddeus? But who are the others? I had no ordersabout them from the master.""No, McMurdo? You surprise me! I told my brother last night that Ishould bring some friends."He ain't been out o' his room to-day, Mr. Thaddeus, and I have noorders. You know very well that I must stick to regulations. I canlet you in, but your friends must just stop where they are."This was an unexpected obstacle. Thaddeus Sholto looked about him ina perplexed and helpless manner. "This is too bad of you, McMurdo!"he said. "If I guarantee them, that is enough for you. There is theyoung lady, too. She cannot wait on the public road at this
+hour.""Very sorry, Mr. Thaddeus," said the porter, inexorably. "Folk may befriends o' yours, and yet no friends o' the master's. He pays me wellto do my duty, and my duty I'll do. I don't know none o' yourfriends.""Oh, yes you do, McMurdo," cried Sherlock Holmes, genially. "I don'tthink you can have forgotten me. Don't you remember the amateur whofought three rounds with you at Alison's rooms on the night of yourbenefit four years back?""Not Mr. Sherlock Holmes!" roared the prize-fighter. "God's truth!how could I have mistook you? If instead o' standin' there so quietyou had just stepped up and given me that cross-hit of yours underthe jaw, I'd ha' known you without a question. Ah, you're one thathas wasted your gifts, you have! You might have aimed high, if youhad joined the fancy.""You see, Watson, if all else fails me I have still one of thescientific professions open to me," said Holmes, laughing. "Ourfriend won't keep us out in the cold now, I am sure.""In you come, sir, in you
+come,--you and your friends," he answered."Very sorry, Mr. Thaddeus, but orders are very strict. Had to becertain of your friends before I let them in."Inside, a gravel path wound through desolate grounds to a huge clumpof a house, square and prosaic, all plunged in shadow save where amoonbeam struck one corner and glimmered in a garret window. The vastsize of the building, with its gloom and its deathly silence, strucka chill to the heart. Even Thaddeus Sholto seemed ill at ease, andthe lantern quivered and rattled in his hand."I cannot understand it," he said. "There must be some mistake. Idistinctly told Bartholomew that we should be here, and yet there isno light in his window. I do not know what to make of it.""Does he always guard the premises in this way?" asked Holmes."Yes; he has followed my father's custom. He was the favorite son,you know, and I sometimes think that my father may have told him morethan he ever told me. That is Bartholomew's window up there where themoonshine
+
+
+GENERAL SUMMARY OR OVERVIEW:
+
+==========
+
+RESPONSE:
+
+Thaddeus Sholto and his friends arrive at a large, dark, and silent house, but the porter refuses to let them in until he recognizes Sherlock Holmes. Once inside, they are greeted by an eerie silence and the porter explains that the favorite son, Bartholomew, usually guards the premises. However, there is no light in his window, leaving them confused as to why he is not there.

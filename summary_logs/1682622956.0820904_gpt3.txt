@@ -1,0 +1,17 @@
+PROMPT:
+
+Write a general summary or overview of the following.
+
+
+Sherlock Holmes, Miss Morstan, and Mr. Thaddeus Sholto arrive at a large, dark, and silent house in the middle of the night. After being refused entry by the porter, they enter the house and find evidence of treasure-seekers who had been searching for six years. Upon further investigation, they find a garret containing a treasure chest worth half a million sterling. They also discover that something is amiss with Bartholomew, leaving Thaddeus Sholto terrified.
+Sherlock Holmes and Dr. Watson investigate the mysterious death of Bartholomew Sholto at a house. Upon entering, they find a chemical laboratory and evidence that points to murder. Holmes deduces that a wooden-legged man and an accomplice had broken in, stolen a treasure, and killed Sholto. The duo then use the remaining time to further their investigation by examining evidence such as footprints and a wooden stump impression. Meanwhile, they send another man to the police station to report the incident.
+Sherlock Holmes is called to investigate a mysterious death. Upon examining the scene, he finds a thorn with a glazed look near the point and theorizes that the man died from a vegetable alkaloid, like strychnine. He is then joined by Inspector Athelney Jones and Thaddeus Sholto, and they discuss the case and possible theories. Holmes also notices the footprints of a small child on the floor and explains that a specially trained hound could track the pungent scent of the creosote that the child had stepped in. Holmes then discovers a trapdoor that leads to the roof, which is the way the previous inhabitant must have escaped. He and his companion explore the secret room in which the treasure was found.
+
+
+GENERAL SUMMARY OR OVERVIEW:
+
+==========
+
+RESPONSE:
+
+Sherlock Holmes is called to investigate a mysterious death in a large, dark, and silent house. Upon further investigation, he discovers evidence of treasure-seekers and a garret containing a treasure chest worth half a million sterling. He also finds clues that point to murder, including footprints and a wooden stump impression. Holmes deduces that a wooden-legged man and an accomplice had broken in, stolen the treasure, and killed the victim. He then sends another man to the police station to report the incident and uses the remaining time to examine evidence. Holmes also discovers a trapdoor that leads to the roof and explores the secret room in which the treasure was found.

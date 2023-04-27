@@ -1,0 +1,17 @@
+PROMPT:
+
+Write a general summary or overview of the following.
+
+
+Thaddeus Sholto is a small man with a high head, a fringe of red hair, and a bald, shining scalp. He invites Miss Morstan, Sherlock Holmes, and Dr. Watson into his little sanctum which is filled with luxurious furnishings. Sholto shows concern for his health, asking Dr. Watson to listen to his heart, and makes a callous reference to Miss Morstan's deceased father. Miss Morstan is visibly upset by the comment.
+Mr. Sholto is a man of refined tastes who lives with some atmosphere of elegance around him. He has invited Miss Morstan and her friends to his home in order to discuss something confidential with them. He suggests they all go to Norwood to confront Brother Bartholomew, who is very angry with Mr. Sholto for taking a certain course. Mr. Sholto offers them wine and tobacco, and expresses his desire for privacy without any interference from police or officials. He also expresses his confidence in his man Williams' discretion.
+Major John Sholto, who had retired from the Indian army eleven years prior and had prospered in India, bringing back with him a considerable sum of money, a large collection of valuable curiosities, and a staff of native servants, had two children: twins Bartholomew and the narrator. Captain Morstan had disappeared, and the family discussed the case freely. Major Sholto had an aversion to men with wooden legs and received a letter from India which shocked him. He became rapidly worse and before his death he made a remarkable statement to his children about his treatment of a poor man.
+
+
+GENERAL SUMMARY OR OVERVIEW:
+
+==========
+
+RESPONSE:
+
+Thaddeus Sholto is a small man with a bald head and a fringe of red hair who lives a luxurious lifestyle. He invites Miss Morstan, Sherlock Holmes, and Dr. Watson into his home to discuss something confidential. He offers them wine and tobacco, and expresses his confidence in his man Williams' discretion. It is revealed that he is the twin brother of Major John Sholto who had retired from the Indian army eleven years prior and had prospered in India, bringing back with him a considerable sum of money, a large collection of valuable curiosities, and a staff of native servants. Major Sholto had an aversion to men with wooden legs and received a letter from India which shocked him before his death. He made a remarkable statement to his children about his treatment of a poor man.

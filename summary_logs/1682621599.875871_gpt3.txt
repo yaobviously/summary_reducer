@@ -1,0 +1,17 @@
+PROMPT:
+
+Write a general summary or overview of the following.
+
+
+Dont you wish our ancestors had cared more about the long term when they made decisions affecting human impact on climate change and biodiversity? Wont our descendants wish we had done the same?
+These may sound like simple, obvious questions, but longtermism is a radical and oft-neglected philosophy, and few people are interested in living by its implications. It is, however, belatedly surfacing as a significant concept in philosophical and political debate. The effective altruism movement has spearheaded the charge, the subject a key theme of William MacAskills bestseller What We Owe the Future (2022).
+Once you swallow the longtermist pill, it is hard to turn back. Is there not a possible human future with many billions or perhaps even trillions of sentient beings, humans or their offshoots, colonizing the galaxy and continuing to evolve for millions or billions of years? If so, should we not do everything to ensure that this future comes about, even if it lies in the distant future? Assuming we should, that would require a contemporary obsession with existential risk  as posed by nuclear weapons, for example, or runaway artificial intelligence. Those future trillions are relying on us not to self-destruct.
+
+
+GENERAL SUMMARY OR OVERVIEW:
+
+==========
+
+RESPONSE:
+
+Longtermism is a radical philosophy that few people are interested in living by, but is gaining traction in philosophical and political debate. It suggests that we should consider the potential future of billions or even trillions of sentient beings and take steps to ensure their survival. This includes an obsession with existential risks such as nuclear weapons and runaway artificial intelligence. Our descendants may rely on us to make decisions today that will protect them in the future.

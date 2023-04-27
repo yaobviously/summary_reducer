@@ -1,0 +1,17 @@
+PROMPT:
+
+Write a general summary or overview of the following.
+
+
+Sherlock Holmes explains to his friend Watson that he has knowledge which would allow him to trace a group of criminals who had knowledge of buried treasure. Holmes believes that one of the criminals, Jonathan Small, did not get the treasure because he and his associates were convicts and could not get away. Major Sholto is then frightened by a letter from India, which leads him to guard himself against a wooden-legged man. Holmes concludes that the wooden-legged man must be Jonathan Small, as he is the only white man on the chart. Holmes then hypothesizes what Jonathan Small's motivations might have been in not getting the treasure.
+In this narrative, Jonathan Small is a convict from the Andaman Islands who has come to England to reclaim his rights and exact revenge on the man who wronged him. He is unable to find out where the treasure is hidden, as only the major and one dead servant knew. When he finds out that the major is on his deathbed, he runs the gauntlet of guards to reach the window, but is stopped by the presence of two sons. In a frenzy, he enters the room that night, searches for a memo relating to the treasure, and leaves an inscription on a card. He had planned that should he kill the major he would leave a record as an act of justice. Small continues to keep a secret watch on efforts to find the treasure and eventually discovers the garret. He takes an associate with him who gets over the difficulty and leaves Toby with a six-mile limp. The associate commits the crime and Jonathan leaves his record and follows the treasure-box out. He is described as middle-aged, sunburned, bearded, and hairy.
+Sherlock Holmes and his companion are pursuing two men who have taken a zigzag route through the streets of London. They are being guided by Toby, a dog, who is running backwards and forwards, seemingly unable to make up his mind as to which direction to take. As they make their way through Streatham, Brixton, Camberwell, and Kennington Lane, they pass laborers and dockmen beginning their days, slatternly women taking down shutters and brushing doorsteps, and strange dogs that stare at them. Holmes remarks on the smallness of human ambition in the presence of nature's great elemental forces. He suggests that they may need a weapon if they reach their quarry's lair.
+
+
+GENERAL SUMMARY OR OVERVIEW:
+
+==========
+
+RESPONSE:
+
+Sherlock Holmes and his companion are tracking two criminals who have knowledge of buried treasure. Along the way, they observe the hustle and bustle of everyday life in London. Holmes remarks on the smallness of human ambition in comparison to nature's great elemental forces. The criminals are led by a dog named Toby, who is running back and forth, seemingly unable to make up his mind as to which direction to take. They eventually discover that the criminals are Jonathan Small and an associate, who had planned to take revenge on Major Sholto for wronging him. Jonathan Small had left a record in case he killed the Major, and he followed the treasure-box out when it was found.

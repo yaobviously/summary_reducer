@@ -1,0 +1,17 @@
+PROMPT:
+
+Write a general summary or overview of the following.
+
+
+Sherlock Holmes visits Pinchin Lane, a row of shabby two-storied brick houses in the lower quarter of Lambeth, to purchase a dog from Mr. Sherman. Upon mentioning Sherlock's name, the window slams down and the door is opened. Mr. Sherman has a variety of animals living with him, including a stoat, badger, and slow-worm. Toby, an ugly, long-haired, lop-eared creature, is chosen and follows Holmes back to Pondicherry Lodge. Upon arrival, it is discovered that McMurdo and Sholto have been arrested as accessories to the crime.
+Sherlock Holmes and Watson have gone to a house where a suspect is believed to be hiding. They are allowed in by the gatekeeper, and when they enter the house, they find that the police have already arrested the suspect, as well as the gatekeeper, housekeeper, and Indian servant. Holmes asks Watson to tie their dog Toby to the hall table and then they go upstairs. In the room, Holmes notices some unusual footprints and deduces that they belong to a child or small woman. He then climbs up to the attic and notices a water-barrel with a ladder next to it. He climbs down the ladder and finds that the suspect has escaped.
+Sherlock Holmes and Dr. Watson are on the hunt for a criminal, using a small pocket pouch woven out of colored grasses and a few tawdry beads. They follow a trail left by the criminal, and eventually find a corner of the boundary wall where several bricks had been loosened. After climbing the wall, Holmes finds a handprint with a smudge of blood on it. With the help of the dog, Toby, they are able to follow the scent of the criminal despite the traffic that had passed along in the interval.
+
+
+GENERAL SUMMARY OR OVERVIEW:
+
+==========
+
+RESPONSE:
+
+Sherlock Holmes and Dr. Watson are on the hunt for a criminal, and they use a small pocket pouch and a dog named Toby to help them. They follow the trail of the criminal, eventually finding a corner of the boundary wall with loose bricks and a handprint with a smudge of blood. They then travel to Pinchin Lane, where they purchase a dog from Mr. Sherman and return to Pondicherry Lodge. Upon their arrival, they discover that McMurdo and Sholto have been arrested as accessories to the crime. Holmes notices some unusual footprints, climbs up to the attic, and discovers that the suspect has escaped.

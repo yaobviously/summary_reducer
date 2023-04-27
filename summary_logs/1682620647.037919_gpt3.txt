@@ -1,0 +1,17 @@
+PROMPT:
+
+Write an executive summary of the following:
+
+
+Longtermism is a radical philosophy that has recently become a subject of philosophical and political debate. It suggests that we should be concerned with the future of our species, even if it is far away, and take steps to reduce existential risks that could cause our species to self-destruct. This concept is controversial, as it is seen as de-emphasizing the needs of the present in favour of potential future benefits. While the effective altruism movement has been at the forefront of this discussion, both the political left and right have expressed scepticism about longtermism. There is a debate over how much it changes our decision calculus and how to best invest in human talent, quality institutions, and flexible responses in order to prepare for the long run.
+This article discusses the pros and cons of long-term thinking and its relationship to short and medium-term agendas. It explores three new books that have entered the debate on long-termism, including Richard Fisher's The Long View, Derek Parfit's Reasons and Persons, and Jan Zielonka's The Lost Future. It suggests that the most effective way to approach long-term thinking is through the consilience approach, which ties the long run to the short and medium runs as closely as possible. However, it warns of the dangers of longtermism being used as a cloak for shorter-term ambitions. Ultimately, it concludes that while long-term thinking is important, it should be balanced with short and medium-term objectives.
+Gradual: The case for incremental change in a radical age is an exploration of the advantages and drawbacks of an incrementalist approach to problem solving. Authors Greg Berman and Aubrey Fox argue that gradual reform is the most effective way to make meaningful progress in the long term, citing examples such as US Social Security reform, the reduction of crime in New York City, and the hidden strengths of the US immigration system. While incrementalism has its merits, further exploration is needed into how a society can balance this approach with a long-term view and address moral and emotional capital. The authors suggest that if we can keep our faith in gradual reform, we can achieve great things in the years to come.
+
+
+EXECUTIVE SUMMARY:
+
+==========
+
+RESPONSE:
+
+Longtermism is a new philosophical and political debate that suggests we should take steps to reduce existential risks that could cause our species to self-destruct, even if it is far away. This article explores three books that have entered the debate and suggests the consilience approach is the most effective way to approach long-term thinking. Gradual: The case for incremental change in a radical age further explores the advantages and drawbacks of an incrementalist approach to problem solving, and suggests that if we keep our faith in gradual reform, we can achieve great things in the long term. Ultimately, both short and medium-term objectives should be balanced with long-term thinking in order to make meaningful progress.

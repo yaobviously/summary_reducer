@@ -1,0 +1,16 @@
+PROMPT:
+
+Write a detailed summary of the following:
+
+
+While Gradual is the most practical and satisfying of the books under review, it is worth considering, as the authors do not, the cases in which an incrementalist view might fail us. Do we wish the architects of the Manhattan Project to have been incrementalist in their outlook? And what about Abraham Lincoln, who was at first an incrementalist on the slavery issue, but then realized that circumstances required something quite different? Where does a truly incrementalist society find the moral and emotional capital to support its revolutionaries in the times when those revolutionaries are needed? It may be that incrementalism requires a dose of the Fisher view, and its obsession with the longue dure, but how can a society manage that integration without giving up its beneficial incrementalist tendencies?
+All things considered, achieving the consilience of long- and short-term considerations may not be so easy. Our temporal perspectives depend critically on norms and individual world-views. But what if different spheres of society require different ethics of urgency and complacency, and of long- and short-term thinking? If only social norms were so flexible on a sector-by-sector, era-by-era basis.
+
+
+DETAILED SUMMARY:
+
+==========
+
+RESPONSE:
+
+The book Gradual: The Path to Lasting Change reviews the idea of incrementalism, or making small changes over time to achieve a desired result. While this approach is seen as practical and satisfying, the authors do not consider the cases in which it might fail. Examples of this include the Manhattan Project and Abraham Lincoln's change in view on slavery, both of which required a more drastic approach than incrementalism. The authors also question how a society can manage the integration of long-term and short-term considerations without sacrificing its incrementalist tendencies. They suggest that achieving this balance may be difficult due to the fact that different sectors and eras may require different ethical outlooks on urgency and complacency. However, they note that if social norms were more flexible, this could be managed more easily.

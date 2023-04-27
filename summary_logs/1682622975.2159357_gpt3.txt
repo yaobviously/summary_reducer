@@ -1,0 +1,17 @@
+PROMPT:
+
+Write a general summary or overview of the following.
+
+
+The Upper Norwood tragedy is proving to be more mysterious than originally thought, with evidence suggesting that Thaddeus Sholto could not have been involved. Scotland Yard is searching for clues regarding the real culprits, while Sherlock Holmes has placed an advertisement in the agony column offering a reward for information on the whereabouts of Mordecai Smith and the launch Aurora. Meanwhile, Mr. Athelney Jones, an authoritative figure, arrives at someone's door to ask for help in solving the case. An elderly man in seafaring clothes soon arrives at the door, and he has important information about Mordecai Smith's boat and its treasure. However, he refuses to tell them anything until Sherlock Holmes arrives. When Sherlock Holmes does arrive in disguise, he reveals his true identity and is offered a cigar. The old man then reveals his information.
+Sherlock Holmes and Inspector Jones team up to find Jonathan Small, a suspect in a Norwood tragedy, who is believed to have stolen a valuable treasure. After a dinner of oysters and grouse, they set out on their mission. Holmes deduces that Small is still in London and has arranged for a fast police-boat to be at Westminster Stairs at seven o'clock, as well as two strong men in case of resistance. Eventually, they catch up to the Aurora, a clipper launch, but it is unclear if they will be able to apprehend Small. Holmes then visits numerous boat-yards until he finds the launch at Jacobson's with Mordecai Smith, the missing owner. He sends one of his boys as a sentry to watch the launch.
+Sherlock Holmes and his companions are on a boat in the Thames River, trying to apprehend a group of criminals. As they pass by the City, they reach Jacobson's Yard, where the criminals are expected, and Holmes spots his sentry. They eventually spot the Aurora, the boat carrying the criminals, speeding away. Holmes and his companions give chase, narrowly avoiding a collision with a tug boat. They eventually catch up to the Aurora and fire their pistols, causing one of the criminals to fall into the river. However, they eventually lose them and the criminals escape.
+
+
+GENERAL SUMMARY OR OVERVIEW:
+
+==========
+
+RESPONSE:
+
+The Upper Norwood tragedy is proving to be more mysterious than originally thought, and Scotland Yard is searching for clues regarding the real culprits. Sherlock Holmes has placed an advertisement in the agony column offering a reward for information on the whereabouts of Mordecai Smith and the launch Aurora. When an elderly man arrives with important information, Sherlock Holmes reveals his true identity and is offered a cigar. He and Inspector Jones then set out on a mission to find Jonathan Small, a suspect in the Norwood tragedy who is believed to have stolen a valuable treasure. After a dinner of oysters and grouse, they set out on their mission. They eventually catch up to the Aurora in the Thames River, but the criminals escape.

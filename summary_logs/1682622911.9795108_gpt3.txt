@@ -1,0 +1,17 @@
+PROMPT:
+
+Write a general summary or overview of the following.
+
+
+The narrator is telling a story of how they encountered a merchant named Achmet who was travelling across Rajpootana and was seeking shelter at the fort at Agra. The narrator noticed that Achmet was carrying an iron box which he said contained his family's possessions. The narrator and two Sikhs escorted Achmet to the main guard, but he managed to escape, with the Sikh in pursuit. The narrator then threw their firelock between his legs, causing him to fall, and the Sikh then buried his knife in Achmet's side, killing him. The narrator finishes by saying that he is telling the story exactly as it happened, whether it is in his favor or not.
+Sherlock Holmes and Jones were listening to a man explain how he and two others had stolen a chest of jewels. He explains that they had to kill the merchant who owned the jewels in order to get away with them. He also explains that they found one hundred and forty-three diamonds, ninety-seven emeralds, one hundred and seventy rubies, forty carbuncles, two hundred and ten sapphires, sixty-one agates, a great quantity of beryls, onyxes, cats'-eyes, turquoises, and other stones, and nearly three hundred very fine pearls. He then goes on to say that they had all taken an oath to keep the secret and hide the loot until the country was at peace.
+Four men, including the narrator, are arrested for the murder of Achmet and are sentenced to life in prison. The four men had buried a box of jewels in a hall near the fort, which they had planned to divide among themselves. However, they were discovered when a second servant of the Rajah, who was sent to spy on Achmet, noticed his disappearance and reported it to the commandant. Despite their conviction, none of the four men revealed the secret of their treasure, and it remains buried in the hall.
+
+
+GENERAL SUMMARY OR OVERVIEW:
+
+==========
+
+RESPONSE:
+
+The narrator tells a story of how he and two others encountered a merchant named Achmet who was travelling across Rajpootana. The narrator and two Sikhs escorted Achmet to the main guard, but he managed to escape. The Sikh then buried his knife in Achmet's side, killing him. It is revealed that Achmet was carrying an iron box which contained a great quantity of precious gems. The four men were arrested for the murder and were sentenced to life in prison, but none of them revealed the secret of their treasure, which remains buried in a hall near the fort.

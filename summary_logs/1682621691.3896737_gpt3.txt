@@ -1,0 +1,17 @@
+PROMPT:
+
+Write an executive summary of the following:
+
+
+Longtermism is a philosophical concept that suggests making decisions today to benefit future generations. It has been met with skepticism from both the left and right, as some argue that it ignores the suffering of today's individuals and others question whether those who profess longtermism are even capable of it. Proponents suggest investing in human talent, high-quality institutions and flexible responses today as the best preparation for the long run. However, there are still questions about whether these investments should always be the priority for dealing with longer-term and existential risks.
+This debate examines the pros and cons of advancing immunology in light of the potential for rogue actors to exploit this knowledge. Arguments are made for staying ahead of China and Russia in this field, as well as for a government ban on the entire scientific field. Richard Fisher and Jan Zielonka both propose a long-term approach to decision-making, with Fisher emphasizing the importance of history, science, and philosophy to help achieve this, and Zielonka arguing that moving beyond nation-states is a remedy for current global crises. However, there is suspicion that transnational institutions will lack democracy.
+Gradual: The Case for Incremental Change in a Radical Age is a book that defends the benefits of muddling through. It presents successful examples of gradual reform, such as US Social Security reform, the reduction of crime in New York City and the hidden strengths of the US immigration system. The authors suggest that even the US Congress has been passing a surprising amount of bipartisan legislation in recent years, including on matters such as climate change. They also cite Amaras Law, which states that we usually overestimate what a new technology can accomplish in the short run and underestimate what it can accomplish in the longer run. Berman and Fox's core vision is that building for the longer run requires an incrementalist perspective. This book provides an interesting insight into the benefits of an incrementalist view, but does not consider cases in which this view may fail us. It also does not explore how different spheres of society may require different ethics of urgency and complacency, and of long- and short-term thinking, highlighting the difficulty in achieving a consilience between long- and short-term considerations.
+
+
+EXECUTIVE SUMMARY:
+
+==========
+
+RESPONSE:
+
+Longtermism is a philosophical concept that suggests making decisions today to benefit future generations. It has been met with skepticism, as some argue it ignores the suffering of today's individuals and others question whether those who profess longtermism are even capable of it. This debate examines the pros and cons of advancing immunology in light of the potential for rogue actors to exploit this knowledge. Gradual: The Case for Incremental Change in a Radical Age is a book that defends the benefits of muddling through, presenting successful examples of gradual reform and citing Amaras Law which states that we usually overestimate what a new technology can accomplish in the short run and underestimate what it can accomplish in the longer run. This book provides an interesting insight into the benefits of an incrementalist view, but does not consider cases in which this view may fail us and does not explore how different spheres of society may require different ethics of urgency and complacency, and of long- and short-term thinking.

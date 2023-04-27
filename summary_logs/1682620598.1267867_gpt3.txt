@@ -1,0 +1,16 @@
+PROMPT:
+
+Write an executive summary of the following:
+
+
+While Gradual is the most practical and satisfying of the books under review, it is worth considering, as the authors do not, the cases in which an incrementalist view might fail us. Do we wish the architects of the Manhattan Project to have been incrementalist in their outlook? And what about Abraham Lincoln, who was at first an incrementalist on the slavery issue, but then realized that circumstances required something quite different? Where does a truly incrementalist society find the moral and emotional capital to support its revolutionaries in the times when those revolutionaries are needed? It may be that incrementalism requires a dose of the Fisher view, and its obsession with the longue dure, but how can a society manage that integration without giving up its beneficial incrementalist tendencies?
+All things considered, achieving the consilience of long- and short-term considerations may not be so easy. Our temporal perspectives depend critically on norms and individual world-views. But what if different spheres of society require different ethics of urgency and complacency, and of long- and short-term thinking? If only social norms were so flexible on a sector-by-sector, era-by-era basis.
+
+
+EXECUTIVE SUMMARY:
+
+==========
+
+RESPONSE:
+
+Gradual is a book that examines the advantages and drawbacks of an incrementalist approach to problem solving. While the authors of Gradual believe that this approach is the most practical and satisfying, they do not account for cases where an incrementalist view may be inadequate. Examples include the Manhattan Project and Abraham Lincoln's stance on slavery. The authors also do not address how a society can have the moral and emotional capital to support its revolutionaries when needed. It may be that incrementalism requires a dose of the Fisher view, but how can a society manage this integration without sacrificing its incrementalist tendencies? Finally, different spheres of society may require different ethics of urgency and complacency, as well as different approaches to long- and short-term thinking. This executive summary highlights the need for further exploration into how a society can balance an incrementalist approach with a long-term view.

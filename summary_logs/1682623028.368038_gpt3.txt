@@ -1,0 +1,16 @@
+PROMPT:
+
+Write an executive summary of the following:
+
+
+Sherlock Holmes and Dr. Watson are on the pursuit of a fugitive who has been caught in a marshland and find an iron chest of Indian workmanship on deck. The suspect, Jonathan Small, is revealed to be a sunburned man with a network of lines and wrinkles over his mahogany features. They are then interrupted by Scotland Yard's Athelney Jones who suggests that they congratulate each other for capturing the suspect. When they open the chest, they find that it is empty and must investigate to find out what happened to the treasure and why it is gone. Jonathan Small reveals that he had earned the Agra treasure and had put it away in a safe place when he saw their launch was catching up with them. The protagonist, a former soldier, had taken a job as an overseer of a plantation in India and is caught up in the Great Mutiny. He is selected to take charge of a small isolated door on the southwest side of the old fort at Agra, with two Sikhs placed under his command.
+The narrator and two Sikhs are discussing a plan to steal a treasure belonging to a Rajah in the northern provinces. They have arranged for a merchant and his companion to arrive at the fort's side-postern, and the narrator agrees to join them in exchange for a quarter of the treasure. The narrator tells a story of how he and two others encountered a merchant named Achmet who was carrying an iron box containing precious gems, but they killed him and were sentenced to life in prison. Major Sholto and Captain Morstan then agree to look into the story of a hidden treasure worth half a million, and they seal the agreement with solemn oaths.
+
+
+EXECUTIVE SUMMARY:
+
+==========
+
+RESPONSE:
+
+Sherlock Holmes and Dr. Watson have apprehended Jonathan Small, a fugitive who was found in a marshland with an iron chest of Indian workmanship. Upon opening the chest, they find it is empty and must investigate to find out what happened to the treasure. It is revealed that Jonathan Small had earned the Agra treasure and had put it away in a safe place when he saw their launch was catching up with them. Major Sholto and Captain Morstan agree to look into the story of a hidden treasure worth half a million, and they seal the agreement with solemn oaths. The protagonists must now embark on a journey to uncover the mystery behind the missing treasure and why it is gone.

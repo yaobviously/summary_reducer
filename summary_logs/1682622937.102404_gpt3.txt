@@ -1,0 +1,17 @@
+PROMPT:
+
+Write a general summary or overview of the following.
+
+
+Sherlock Holmes is an unofficial consulting detective who has made a name for himself through his exceptional deductive abilities. He has recently been consulted on a case involving a will and was able to refer the client to two similar cases for the solution. Holmes also speaks of the importance of observation and deduction in the work of a detective, and demonstrates this by correctly deducing the narrator's recent activities. He also discusses his monographs on technical subjects and his use of a seven-percent solution of cocaine for mental stimulation.
+In this passage, Sherlock Holmes is visited by a young blonde woman named Miss Mary Morstan. She has a refined, sensitive nature and is seeking his help to unravel a complicated domestic situation. Holmes encourages her to explain her case and, after listening to her, he is able to deduce information from observation and deduction. He also examines a fifty-guinea watch that has recently come into the possession of the person asking the question and is able to infer that the owner was careless and often at low water due to the dents and scratches on the watch case, as well as the number of pawnbroker tickets visible inside. He also infers that the owner had occasional bursts of prosperity due to the fact that he was able to redeem the pledge. Finally, he points out that the keyhole is covered with scratches, indicating that it was probably used by a drunkard.
+In this story, Sherlock Holmes is asked to investigate a mysterious letter received by Mary Morstan, the daughter of an Indian regiment officer. Holmes and Watson accompany her to the Lyceum Theatre, where they examine the letter and envelope for clues. Holmes leaves to conduct research and returns with a "suggestive fact" that could explain the mystery. Throughout the story, Holmes emphasizes the importance of studying handwriting in order to gain insight into character.
+
+
+GENERAL SUMMARY OR OVERVIEW:
+
+==========
+
+RESPONSE:
+
+Sherlock Holmes is approached by Miss Mary Morstan, who has a complicated domestic situation. After listening to her story and examining a fifty-guinea watch, Holmes is able to deduce information from observation and deduction. He then accompanies Mary to the Lyceum Theatre, where they investigate a mysterious letter. Throughout the story, Holmes emphasizes the importance of studying handwriting in order to gain insight into character. He also speaks of the importance of observation and deduction in the work of a detective, and demonstrates this by correctly deducing the narrator's recent activities.

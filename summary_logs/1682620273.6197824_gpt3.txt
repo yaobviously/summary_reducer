@@ -1,0 +1,17 @@
+PROMPT:
+
+Write a general summary of the following:
+
+
+The right wing has its own version of scepticism about longtermism. To many of my conservative and libertarian friends it sounds like a programme for maximizing state power, or creating world government, for the pursuit of ill-defined, distant benefits that will likely never come to pass. In these peoples cynical but nonetheless insightful view, those who profess longtermism are, deep down, just as concerned with the immediate present and their short-term politics as is everyone else. The left- and right-wing critiques may sound very different, but both point to a difficult question: are the most ardent longtermists even capable of longtermism themselves?
+Another practical question is how much longtermism, properly applied, truly changes our decision calculus. One response to longtermism, not so much a critique as a partial surrender, is to argue that the best preparation for the long run is to invest in human talent, high-quality institutions and flexible responses today. Those moves may not always look like long-run investments, but perhaps they are. After all, can we be so sure about the exact form that long-term risk will take? Will we have to deflect an asteroid at short notice, fight off an evil AI entity, win a world war (and prevent a nuclear catastrophe) or deal with a supervolcano (the last one occurred 26,500 years ago)? No one can know such things. But what we do know is that talent and good, flexible institutions can help us to deal with all these potential dilemmas and more. In this view the gap between long-, medium- and short-run considerations is closed considerably. After all, human talent and good, flexible institutions should help us to deal with current problems too. And to the extent that these arguments succeed, everyone can be happy, even if not everyone prefers the longtermist mode of discourse. I call this the consilience version of long-termism.
+But before we let that satisfy us, we need to ask whether talent and good institutions should always be the priority for dealing with longer-term and existential risks. And are there any downsides to these apparently beneficial things? Let us consider, for example, a biomedical research centre that studies immunology and produces frontier-level scientific innovation. One might argue that the best thing to do with such a centre would be to invest in and expand, it. Many longtermists are, however, less certain. They fear that superior knowledge of the human immune system will at some point enable terrorists or evil governments to design a deadly pathogen, able, for example, to go far beyond Covid in its carnage. And some suggest that humanity should stop research into frontier-level immunology altogether.
+
+
+GENERAL SUMMARY:
+
+==========
+
+RESPONSE:
+
+Longtermism is a concept that has been met with skepticism from both the left and the right. While the critiques differ, both question whether longtermists are even capable of longterm thinking themselves. Some argue that the best way to prepare for the long run is to invest in human talent, quality institutions and flexible responses today. However, this raises questions about whether these investments should be prioritized when dealing with longer-term and existential risks. There is a need to consider the potential downsides of investing in talent and good institutions.

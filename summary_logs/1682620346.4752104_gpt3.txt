@@ -1,0 +1,16 @@
+PROMPT:
+
+Write an executive summary of the following:
+
+
+In Gradual: The Case for Incremental Change in a Radical Age, Greg Berman and Aubrey Fox argue that small policy changes over time can lead to successful reform. They cite examples such as US Social Security reform, the reduction of crime in New York City, and the strength of the US immigration system as evidence of this. They also point to the Growing Climate Solutions Act of 2021 as an example of bipartisan legislation that could have long-term effects. The authors suggest that their incrementalist approach is the best option for achieving long-term success, and cite Amaras Law, which states that we often overestimate what a technology can do in the short run and underestimate what it can do in the longer run.
+Gradual: The Path to Lasting Change is a book that explores the benefits of an incrementalist approach to social and economic change. However, while this approach may be practical and satisfying in many cases, it may not be the best option in certain circumstances. This book examines the potential pitfalls of an incrementalist view, such as its inability to provide moral and emotional capital for revolutionaries when needed. It also considers the difficulty of achieving a balance between long-term and short-term considerations, as well as the need for different ethics of urgency and complacency in different sectors of society.
+
+
+EXECUTIVE SUMMARY:
+
+==========
+
+RESPONSE:
+
+Gradual: The Case for Incremental Change in a Radical Age is a book that examines the merits of an incrementalist approach to social and economic reform. Authors Greg Berman and Aubrey Fox argue that small policy changes over time can lead to successful reform and cite examples such as US Social Security reform, the reduction of crime in New York City, and the strength of the US immigration system as evidence. They also point to the Growing Climate Solutions Act of 2021 as an example of bipartisan legislation that could have long-term effects. The authors suggest that their incrementalist approach is the best option for achieving long-term success, and cite Amaras Law which states that we often overestimate what a technology can do in the short run and underestimate what it can do in the longer run. This book also considers potential pitfalls of an incrementalist view, such as its inability to provide moral and emotional capital for revolutionaries when needed, and the need for different ethics of urgency and complacency in different sectors of society.

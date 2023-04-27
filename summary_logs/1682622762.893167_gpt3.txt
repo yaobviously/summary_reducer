@@ -1,0 +1,17 @@
+PROMPT:
+
+Write a general summary or overview of the following.
+
+
+Morstan's orphan was deprived of his treasure due to the greed of the narrator. The narrator kept the treasure to himself, but did not use it. When Morstan came to claim his share of the treasure, they got into an argument and Morstan died of a heart attack. The narrator was afraid to call for help, as he thought he would be accused of murder, so he and his servant disposed of the body and Morstan became a mysterious disappearance.
+Thaddeus Sholto recounts a mysterious incident that happened to his family when he and his brother were young. His father had been haunted by a fear and one night they saw a wild, fierce face looking in at their window. They searched the garden but found only one trace, a single footprint in the flower bed. The next morning they found the window of his father's room open, his cupboards and boxes had been rifled, and upon his chest was a torn piece of paper with the words "The Sign of the Four" scrawled across it. What the phrase meant or who their secret visitor may have been remained a mystery. Thaddeus and his brother then searched for the treasure their father had mentioned but were unable to find it.
+Thaddeus Sholto is telling the story of how he and his brother Bartholomew had some discussion over a chaplet of valuable pearls that was found at their father's death. He decided to send one pearl at a time to Miss Morstan so she would not feel destitute. He then moved out of Pondicherry Lodge and set up his own rooms. Thaddeus then reveals that the treasure has been found and they are going to Norwood to demand their share. They get in a cab and head off, with Thaddeus talking constantly about his brother's cleverness.
+
+
+GENERAL SUMMARY OR OVERVIEW:
+
+==========
+
+RESPONSE:
+
+Thaddeus Sholto tells the story of how he and his brother Bartholomew were haunted by a mysterious visitor and a strange phrase, "The Sign of the Four". They searched for their father's treasure but were unable to find it. Thaddeus then sent one pearl at a time to Miss Morstan so she would not feel destitute. Eventually, the treasure was found and they went to Norwood to demand their share. Along the way, Thaddeus talked about his brother's cleverness, but when they arrived, Morstan died of a heart attack due to an argument over the treasure. The narrator and his servant disposed of the body and Morstan became a mysterious disappearance.

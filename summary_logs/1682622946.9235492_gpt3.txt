@@ -1,0 +1,17 @@
+PROMPT:
+
+Write a general summary or overview of the following.
+
+
+Sherlock Holmes and Miss Morstan embark on an expedition to solve the mystery of Captain Morstan's disappearance four years earlier. After receiving a valuable present every year, Miss Morstan is led to a mysterious rendezvous point. There, she and two companions are taken by a small, dark, brisk man to a third-rate suburban dwelling-house, where they are met by a high-pitched voice from an inner room. On this mysterious errand, they pass through foggy streets at a furious pace, eventually arriving at their destination.
+Thaddeus Sholto is a small man with a bald head and a fringe of red hair who lives a luxurious lifestyle. He invites Miss Morstan, Sherlock Holmes, and Dr. Watson into his home to discuss something confidential. He offers them wine and tobacco, and expresses his confidence in his man Williams' discretion. It is revealed that he is the twin brother of Major John Sholto who had retired from the Indian army eleven years prior and had prospered in India, bringing back with him a considerable sum of money, a large collection of valuable curiosities, and a staff of native servants. Major Sholto had an aversion to men with wooden legs and received a letter from India which shocked him before his death. He made a remarkable statement to his children about his treatment of a poor man.
+Thaddeus Sholto tells the story of how he and his brother Bartholomew were haunted by a mysterious visitor and a strange phrase, "The Sign of the Four". They searched for their father's treasure but were unable to find it. Thaddeus then sent one pearl at a time to Miss Morstan so she would not feel destitute. Eventually, the treasure was found and they went to Norwood to demand their share. Along the way, Thaddeus talked about his brother's cleverness, but when they arrived, Morstan died of a heart attack due to an argument over the treasure. The narrator and his servant disposed of the body and Morstan became a mysterious disappearance.
+
+
+GENERAL SUMMARY OR OVERVIEW:
+
+==========
+
+RESPONSE:
+
+Sherlock Holmes and Miss Morstan embark on an expedition to solve the mystery of Captain Morstan's disappearance four years earlier. They are taken by a small, dark, brisk man to a third-rate suburban dwelling-house, where they meet Thaddeus Sholto, the twin brother of Major John Sholto. Thaddeus reveals that his brother had prospered in India and brought back a considerable sum of money, a large collection of valuable curiosities, and a staff of native servants. He also tells them about the mysterious visitor and the phrase "The Sign of the Four". Thaddeus had sent Miss Morstan one pearl at a time so she would not feel destitute and eventually they found the treasure. On their way to Norwood to demand their share, Morstan died of a heart attack due to an argument over the treasure and became a mysterious disappearance.

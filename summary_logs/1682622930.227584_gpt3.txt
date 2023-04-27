@@ -1,0 +1,17 @@
+PROMPT:
+
+Write a general summary or overview of the following.
+
+
+The narrator of this story recounts his long and arduous journey to seek revenge on the villain Sholto, who had stolen a treasure and escaped to India. After many years of searching, the narrator meets an Andaman Islander named Tonga, who helps him escape. The narrator then uses his wooden leg as a weapon to take his revenge on a Pathan guard before leaving the island.
+This is the story of a man and his companion, Tonga, who set out on a journey to find the treasure stolen from them by Sholto. After a ten day journey at sea, they are picked up by a trader and settle among the Malay pilgrims. They drift around the world for several years before finally returning to England and finding out that Sholto still had the jewels. The man eventually breaks into Sholto's room, but finds no record of where he had hidden the treasure. Before leaving, he pins a sign of their foursome onto Sholto's chest as a mark of their hatred. To make a living, the man and Tonga exhibit Tonga at fairs and other such places to earn money. The man also keeps up with news from Pondicherry Lodge.
+The search for the treasure had been ongoing until finally it was found in Mr. Bartholomew Sholto's chemical laboratory. The protagonist, with the help of Tonga, was able to get the treasure box out of the room, leaving behind a sign of the four on the table. After this, they escaped using a launch called the Aurora and were eventually apprehended by the police. Sherlock Holmes concluded that the story was a fitting end to an interesting case and had no more questions for the convict. Athelney Jones thanked them for their assistance and took the convict away in a cab.
+
+
+GENERAL SUMMARY OR OVERVIEW:
+
+==========
+
+RESPONSE:
+
+The narrator of this story recounts his long and arduous journey to seek revenge on the villain Sholto, who had stolen a treasure and escaped to India. After many years of searching, the narrator meets an Andaman Islander named Tonga, who helps him escape. With Tonga's assistance, the narrator is able to find the treasure and take his revenge on a Pathan guard before leaving the island. The protagonist and Tonga then return to England and find out that Sholto still had the jewels. With the help of Sherlock Holmes, they are eventually able to recover the treasure and bring Sholto to justice.

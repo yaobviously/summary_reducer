@@ -1,0 +1,17 @@
+PROMPT:
+
+Write a general summary or overview of the following.
+
+
+The protagonist is a former soldier who was invalided out of the military after losing his leg in an accident. He takes a job as an overseer of a plantation in India, and is content to spend the remainder of his life there. However, he is soon caught up in the Great Mutiny, with the whole sky alight with burning villages and the country in chaos.
+Mr. Abelwhite was an obstinate man who refused to believe that the situation had been exaggerated and would blow over, despite the country being in a blaze. One day, the crash came when Dawson's wife was found dead and Dawson himself was found dead with four Sepoys in front of him. Smoke was seen coming from Abelwhite's bungalow, and it was burning. All across the country, English people were helpless fugitives and fighting against their own troops whom they had taught and trained. In Agra, a volunteer corps of clerks and merchants had been formed and they went out to meet the rebels at Shahgunge, but their powder gave out. Lucknow and Cawnpore were far away, and all around there was nothing but torture, murder, and outrage.
+A small group of men were stationed in the old fort at Agra, which was enormous in size and full of winding passages and deserted halls. Due to being short-handed, a central guard-house was established, with one white man and two or three natives placed in charge of each gate. The protagonist was selected to take charge of a small isolated door on the southwest side of the building, with two Sikhs placed under his command. For two nights he kept watch with his Punjaubees, looking down on the river and the twinkling lights of the city, while hearing drums, tomtoms, and howls from the rebels across the river. Every two hours the officer of the night would check on their progress.
+
+
+GENERAL SUMMARY OR OVERVIEW:
+
+==========
+
+RESPONSE:
+
+The protagonist is a former soldier who takes a job as an overseer of a plantation in India. He is soon caught up in the Great Mutiny, with the whole sky alight with burning villages and the country in chaos. Mr. Abelwhite refuses to believe the situation has been exaggerated and is found dead with four Sepoys in front of him. English people become helpless fugitives and fight against their own troops whom they had taught and trained. The protagonist is selected to take charge of a small isolated door on the southwest side of the old fort at Agra, with two Sikhs placed under his command. He keeps watch for two nights, looking down on the river and the twinkling lights of the city, while hearing drums, tomtoms, and howls from the rebels across the river.

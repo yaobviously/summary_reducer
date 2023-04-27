@@ -1,0 +1,17 @@
+PROMPT:
+
+Write a general summary or overview of the following.
+
+
+came to a door upon the right, which hethrew open. A blaze of yellow light streamed out upon us, and in thecentre of the glare there stood a small man with a very high head, abristle of red hair all round the fringe of it, and a bald, shiningscalp which shot out from among it like a mountain-peak fromfir-trees. He writhed his hands together as he stood, and hisfeatures were in a perpetual jerk, now smiling, now scowling, butnever for an instant in repose. Nature had given him a pendulous lip,and a too visible line of yellow and irregular teeth, which he strovefeebly to conceal by constantly passing his hand over the lower partof his face. In spite of his obtrusive baldness, he gave theimpression of youth. In point of fact he had just turned histhirtieth year."Your servant, Miss Morstan," he kept repeating, in a thin, highvoice. "Your servant, gentlemen. Pray step into my little sanctum. Asmall place, miss, but furnished to my own liking.An oasis of artin the howling desert of South
+London."We were all astonished by the appearance of the apartment into whichhe invited us. In that sorry house it looked as out of place as adiamond of the first water in a setting of brass. The richest andglossiest of curtains and tapestries draped the walls, looped backhere and there to expose some richly-mounted painting or Orientalvase. The carpet was of amber-and-black, so soft and so thick thatthe foot sank pleasantly into it, as into a bed of moss. Two greattiger-skins thrown athwart it increased the suggestion of Easternluxury, as did a huge hookah which stood upon a mat in the corner. Alamp in the fashion of a silver dove was hung from an almostinvisible golden wire in the centre of the room. As it burned itfilled the air with a subtle and aromatic odor."Mr. Thaddeus Sholto," said the little man, still jerking andsmiling. "That is my name. You are Miss Morstan, of course. And thesegentlemen--""This is Mr. Sherlock Holmes, and this is Dr. Watson.""A doctor, eh?" cried he, much
+excited. "Have you your stethoscope?Might I ask you--would you have the kindness? I have grave doubts asto my mitral valve, if you would be so very good. The aortic I mayrely upon, but I should value your opinion upon the mitral."I listened to his heart, as requested, but was unable to findanything amiss, save indeed that he was in an ecstasy of fear, for heshivered from head to foot. "It appears to be normal," I said. "Youhave no cause for uneasiness.""You will excuse my anxiety, Miss Morstan," he remarked, airily."Iam a great sufferer, and I have long had suspicions as to that valve.I am delighted to hear that they are unwarranted. Had your father,Miss Morstan, refrained from throwing a strain upon his heart, hemight have been alive now."I could have struck the man across the face, so hot was I at thiscallous and off-hand reference to so delicate a matter. Miss Morstansat down, and her face grew white to the lips. "I knew in my heartthat he was dead," said she."I can give you every
+
+
+GENERAL SUMMARY OR OVERVIEW:
+
+==========
+
+RESPONSE:
+
+Thaddeus Sholto is a small man with a high head, a fringe of red hair, and a bald, shining scalp. He invites Miss Morstan, Sherlock Holmes, and Dr. Watson into his little sanctum which is filled with luxurious furnishings. Sholto shows concern for his health, asking Dr. Watson to listen to his heart, and makes a callous reference to Miss Morstan's deceased father. Miss Morstan is visibly upset by the comment.

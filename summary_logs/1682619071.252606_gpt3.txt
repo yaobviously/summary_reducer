@@ -1,0 +1,17 @@
+PROMPT:
+
+Write a detailed summary of the following:
+
+
+A better argument would be that the agency relationship (and habitual firing for inferior short-term performance), rather than capitalism, leads to excess short-termism. Capitalism has plenty of agency relationships, of course, but so do all other systems, including politics and the charitable sector. At least under capitalism there is an incentive to terminate or alter the most destructive agency relationships, precisely because they reduce longer-term wealth. As for the negative externalities of capitalism, for example in the form of carbon emissions, regulation is needed to solve those problems, not more patient behaviour in the markets; and in that sense the issue is not one of short- vs longtermism at all.
+Zielonkas book offer a more political, less philosophical vision than that laid out by Fisher. The authors chief concerns are financial crises, energy shortages, climate change and war. We are given less Derek Parfit and geological time scales, and more Greta Thunberg and Donald Trump. The print is large and no single line of enquiry lingers for too long. For these reasons the remedies laid out in the book will come across to many as pedestrian. For example: I propose moving beyond the primacy of nation-states and empowering other public actors at the local and transnational level.
+But are the transnational organizations in our current world so far-sighted? Have not most of them collapsed or weakened greatly in recent years, including the United Nations and the World Trade Organization? What exactly is supposed to protect these organizations from a more general and rampant short-sightedness? (They are, by the way, full of agency relationships as criticized above.) Furthermore, since most electorates are locally or nationally defined, it is hard to resist the suspicion that transnational institutions will be far from democratic. The European Union, for all its virtues and successes, does not escape this charge.
+
+
+DETAILED SUMMARY:
+
+==========
+
+RESPONSE:
+
+Zielonka's book proposes a more political approach to the problem of short-termism than the philosophical approach proposed by Fisher. Rather than focusing on long-term issues such as Derek Parfit's geological time scales, the book focuses on more pressing issues such as financial crises, energy shortages, climate change and war. Zielonka's solution is to move beyond the primacy of nation-states and empower other public actors at the local and transnational level. However, this solution raises questions about the efficacy of transnational organizations in our current world, given their weakened state in recent years, and their lack of democracy. Furthermore, it does not address the issue of agency relationships which lead to excess short-termism, nor does it address the need for regulation to address negative externalities of capitalism.

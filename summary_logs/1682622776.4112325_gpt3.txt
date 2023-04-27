@@ -1,0 +1,17 @@
+PROMPT:
+
+Write a general summary or overview of the following.
+
+
+The story follows a group of people led by Sherlock Holmes, who are searching for the missing Thaddeus Sholto. They find themselves in the housekeeper's room, where they are met by an old woman who is distressed. Upon further investigation, they find that Thaddeus has locked himself in a room upstairs, and when they look through the keyhole, they see Thaddeus suspended in the air with a fixed and unnatural grin on his face.
+Holmes and Watson investigate the strange death of Bartholomew Sholto, and upon entering his chamber, they find it fitted up as a chemical laboratory. There is a double line of glass-stoppered bottles on the wall, Bunsen burners, test-tubes, and retorts in the corners. The master of the house is found dead in a wooden armchair with an odd instrument and a torn sheet of note-paper with some words scrawled on it. Holmes explains that the words point to murder, and upon further investigation, finds a poisoned thorn stuck in the skin above the ear. With this evidence, he believes he can soon solve the mystery.
+Sherlock Holmes and Watson investigate a mysterious death at a house. Holmes deduces from the evidence that a wooden-legged man and an accomplice had broken into the house, stolen the treasure, and killed the occupant. Holmes advises the other man present to go to the police station and report the incident. He and Watson then use the remaining time to examine evidence, such as footprints and a wooden stump impression, in order to further their investigation.
+
+
+GENERAL SUMMARY OR OVERVIEW:
+
+==========
+
+RESPONSE:
+
+Sherlock Holmes and Dr. Watson investigate the mysterious death of Bartholomew Sholto at a house. Upon entering, they find a chemical laboratory and evidence that points to murder. Holmes deduces that a wooden-legged man and an accomplice had broken in, stolen a treasure, and killed Sholto. The duo then use the remaining time to further their investigation by examining evidence such as footprints and a wooden stump impression. Meanwhile, they send another man to the police station to report the incident.

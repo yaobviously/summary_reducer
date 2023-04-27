@@ -1,0 +1,17 @@
+PROMPT:
+
+Write a general summary or overview of the following.
+
+
+The narrator, along with Miss Morstan, Mr. Thaddeus Sholto, and other companions, had been searching for a hidden treasure. After much searching and deduction, the narrator had come to the conclusion that the treasure was located indoors. After measuring the cubic space of the house, the narrator found that the height of the building was 74 feet, with four feet unaccounted for. After knocking a hole in the ceiling of the highest room, the narrator found a hidden garret and inside it was a treasure chest containing jewels worth half a million sterling. They eventually reached their destination, Pondicherry Lodge, which was surrounded by a high stone wall topped with broken glass and had an iron-clamped door as its entrance.
+Thaddeus Sholto and his friends arrive at a large, dark, and silent house, but the porter refuses to let them in until he recognizes Sherlock Holmes. Once inside, they are greeted by an eerie silence and the porter explains that the favorite son, Bartholomew, usually guards the premises. However, there is no light in his window, leaving them confused as to why he is not there.
+Holmes, Miss Morstan, and Thaddeus Sholto are investigating a strange house in the middle of the night. They notice a glint of light coming from a window of the house and Thaddeus Sholto goes up to the door to knock. Inside, they hear the frightened whimpering of a woman, and Thaddeus Sholto goes in to investigate. He soon returns in a panic, and Holmes leads them all into the house. Inside, they find evidence of treasure-seekers who had been searching for six years. Suddenly, something is amiss with Bartholomew, and Thaddeus Sholto is terrified. Holmes leads them all into the house to investigate further.
+
+
+GENERAL SUMMARY OR OVERVIEW:
+
+==========
+
+RESPONSE:
+
+Sherlock Holmes, Miss Morstan, and Mr. Thaddeus Sholto arrive at a large, dark, and silent house in the middle of the night. After being refused entry by the porter, they enter the house and find evidence of treasure-seekers who had been searching for six years. Upon further investigation, they find a garret containing a treasure chest worth half a million sterling. They also discover that something is amiss with Bartholomew, leaving Thaddeus Sholto terrified.

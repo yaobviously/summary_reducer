@@ -1,0 +1,17 @@
+PROMPT:
+
+Write a general summary or overview of the following.
+
+
+The scene is set in a desolate marshland where a fugitive has been caught. He is unable to move forward or backward due to his stump being stuck in the mud. The two Smiths, father and son, are captured and brought aboard the launch. An iron chest of Indian workmanship is found on the deck and transferred to the cabin. Despite searching with a searchlight, the Islander is not found, but a dart is discovered which had almost hit Holmes and Watson. The captive is described as a sunburned man with a net-work of lines and wrinkles over his mahogany features, aged around fifty with black curly hair shot with gray. He sits in the cabin with his handcuffed hands on his lap, looking at the box which had caused his ill-doings, with a mixture of sorrow and anger on his face.
+Holmes is talking to Jonathan Small, who is accused of murdering Major Sholto. Small insists he had nothing to do with it, and blames the murder on a small man named Tonga. Holmes offers Small a cigar and a drink from his flask, and then explains that Small could not have expected such a small man as Tonga to overpower Major Sholto. Small then admits to Holmes that he was hoping to find the room empty when he entered, and that he would have killed Major Sholto if it had been the old major. They are then interrupted by Athelney Jones of Scotland Yard, who suggests that they all congratulate each other for capturing the suspect.
+Sherlock Holmes and Dr. Watson are on the pursuit of a criminal aboard a boat called the Aurora. They eventually catch up to the boat and apprehend the criminal, who reveals that he had hired a boat called the Esmeralda to travel to the Brazils. Dr. Watson is tasked with taking the criminal's treasure-box back to Baker Street, and is accompanied by an inspector. Upon arriving at Mrs. Cecil Forrester's residence, Dr. Watson finds Miss Morstan seated in the drawing-room, dressed in a white diaphanous material with a touch of scarlet at the neck and waist. She is surprised and pleased to see him, and a bright flush of pleasure colors her pale cheeks.
+
+
+GENERAL SUMMARY OR OVERVIEW:
+
+==========
+
+RESPONSE:
+
+Sherlock Holmes and Dr. Watson are on the pursuit of a fugitive who has been caught in a marshland. They bring him aboard the launch and find an iron chest of Indian workmanship on deck. Despite searching with a searchlight, the Islander is not found but a dart is discovered. The suspect, Jonathan Small, is revealed to be a sunburned man with a network of lines and wrinkles over his mahogany features. He admits to Holmes that he had intended to kill Major Sholto if the room had been empty. They are then interrupted by Scotland Yard's Athelney Jones who suggests that they congratulate each other for capturing the suspect. Dr. Watson is then tasked with taking the criminal's treasure-box back to Baker Street, where he finds Miss Morstan dressed in white diaphanous material with a touch of scarlet at the neck and waist.

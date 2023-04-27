@@ -1,0 +1,17 @@
+PROMPT:
+
+Write a general summary or overview of the following.
+
+
+Sherlock Holmes was preparing to inject himself with a seven-percent solution of cocaine. His friend and colleague, Dr. Watson, had been witnessing this ritual for some time, but had not had the courage to speak out against it. On this particular day, however, Watson could no longer contain his concerns and expressed his worries that the drug could have a negative effect on Holmes' health. Holmes listened to Watson's concerns and explained that he found the drug stimulating and clarifying to the mind and was not overly concerned with its potential side effects.
+Sherlock Holmes is an unofficial consulting detective who has chosen his profession for the mental exaltation it provides. He claims no credit for his work, and his name is not seen in any newspaper. Recently, his practice has extended to the continent, and he was consulted by Francois Le Villard from the French detective service on a case involving a will. Holmes was able to refer him to two similar cases for the solution. This overview explains Holmes' career as a detective and his most recent case.
+Sherlock Holmes is discussing his monographs on technical subjects, such as the distinction between the ashes of various tobaccos, the tracing of footsteps, and the influence of trade on the form of the hand. He explains that observation and deduction are two qualities necessary for the ideal detective, and he demonstrates this by correctly deducing that the narrator had sent a telegram from the Wigmore Street Post-Office that morning. He explains that while observation shows what has happened, deduction allows one to infer what has not been seen.
+
+
+GENERAL SUMMARY OR OVERVIEW:
+
+==========
+
+RESPONSE:
+
+Sherlock Holmes is an unofficial consulting detective who has made a name for himself through his exceptional deductive abilities. He has recently been consulted on a case involving a will and was able to refer the client to two similar cases for the solution. Holmes also speaks of the importance of observation and deduction in the work of a detective, and demonstrates this by correctly deducing the narrator's recent activities. He also discusses his monographs on technical subjects and his use of a seven-percent solution of cocaine for mental stimulation.

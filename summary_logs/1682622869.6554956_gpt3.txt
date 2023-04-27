@@ -1,0 +1,17 @@
+PROMPT:
+
+Write a general summary or overview of the following.
+
+
+Sherlock Holmes and his companions are on a boat in the Thames river, waiting for the launch of a group of criminals they are trying to apprehend. They have a plan to capture them, but Holmes is aware that the criminals may be too shrewd to be caught. As they pass by the City, the sun sets and they reach Jacobson's Yard where the criminals are expected. Holmes spots his sentry at his post and decides to wait for them to come down the river. He theorizes that even if they had stuck to Mordecai Smith, it would have been unlikely that Smith knew where they were hiding. As they wait, Holmes muses on the enigma of man and then spots a handkerchief in the distance, which reveals that their plan is working. Finally, they spot the Aurora, the boat carrying the criminals, speeding away.
+In this passage, a group of people are chasing after a boat called the Aurora. The boat is going at a tremendous rate and the pursuers are using their powerful engine to try to catch up. They narrowly avoid a collision with a tug boat with three barges in tow, and eventually they can see the figures on the Aurora's deck. One man is sitting with something black between his knees and a dark mass that looks like a Newfoundland dog is lying beside him. The boy is at the tiller, while old Smith is shovelling coals for dear life. It becomes clear that the pursuers are in fact chasing the Aurora, and they continue to follow it until the end of the passage.
+In this narrative, the narrator and their companion are in pursuit of two men in a boat on the Thames. As they draw closer, they see that the man in the stern is a powerful figure with a wooden leg, and the other is a small black man with a disheveled shock of hair and a menacing face. The small man pulls out a piece of wood and the pursuers fire their pistols, causing him to fall into the river. The wooden-legged man steers the boat towards the southern bank, just missing them as they pass by. The pursuers quickly turn around and chase after them, but eventually lose them.
+
+
+GENERAL SUMMARY OR OVERVIEW:
+
+==========
+
+RESPONSE:
+
+Sherlock Holmes and his companions are on a boat in the Thames River, trying to apprehend a group of criminals. As they pass by the City, they reach Jacobson's Yard, where the criminals are expected, and Holmes spots his sentry. They eventually spot the Aurora, the boat carrying the criminals, speeding away. Holmes and his companions give chase, narrowly avoiding a collision with a tug boat. They eventually catch up to the Aurora and fire their pistols, causing one of the criminals to fall into the river. However, they eventually lose them and the criminals escape.

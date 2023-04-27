@@ -1,0 +1,16 @@
+PROMPT:
+
+Write an executive summary of the following:
+
+
+Gradual: The case for incremental change in a radical age, by Greg Berman and Aubrey Fox, is a book that defends the benefits of muddling through. It presents successful examples of gradual reform, such as US Social Security reform, the reduction of crime in New York City and the hidden strengths of the US immigration system. The authors suggest that even the US Congress has been passing a surprising amount of bipartisan legislation in recent years, including on matters such as climate change. They also cite Amaras Law, which states that we usually overestimate what a new technology can accomplish in the short run and underestimate what it can accomplish in the longer run. Berman and Fox's core vision is that building for the longer run requires an incrementalist perspective.
+Gradual, a book under review, is a practical and satisfying read that examines the benefits of an incrementalist view. However, it does not consider the cases in which this view may fail us. The authors do not explore how a society can manage the integration of long-term and short-term considerations without giving up its beneficial incrementalist tendencies. Furthermore, different spheres of society may require different ethics of urgency and complacency, and of long- and short-term thinking. This highlights the difficulty in achieving a consilience between long- and short-term considerations.
+
+
+EXECUTIVE SUMMARY:
+
+==========
+
+RESPONSE:
+
+Gradual: The Case for Incremental Change in a Radical Age is a book that defends the benefits of muddling through. It presents successful examples of gradual reform, such as US Social Security reform, the reduction of crime in New York City and the hidden strengths of the US immigration system. The authors suggest that even the US Congress has been passing a surprising amount of bipartisan legislation in recent years, including on matters such as climate change. They also cite Amaras Law, which states that we usually overestimate what a new technology can accomplish in the short run and underestimate what it can accomplish in the longer run. Berman and Fox's core vision is that building for the longer run requires an incrementalist perspective. This book provides an interesting insight into the benefits of an incrementalist view, but does not consider cases in which this view may fail us. It also does not explore how different spheres of society may require different ethics of urgency and complacency, and of long- and short-term thinking, highlighting the difficulty in achieving a consilience between long- and short-term considerations.

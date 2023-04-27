@@ -1,0 +1,16 @@
+PROMPT:
+
+Write an executive summary of the following:
+
+
+In Gradual: The case for incremental change in a radical age, Greg Berman and Aubrey Fox argue that gradual reform is the most effective way to make meaningful progress in the long term. They use examples such as US Social Security reform, the reduction of crime in New York City and the hidden strengths of the US immigration system to support their argument. They cite Amaras Law, which states that we overestimate the short-term effects of new technology and underestimate its long-term effects, as an example of why incrementalism is important. They suggest that if we can keep our faith in gradual reform, we can achieve great things in the years to come.
+Gradual is a book that examines the advantages and drawbacks of an incrementalist approach to problem solving. While the authors of Gradual believe that this approach is the most practical and satisfying, they do not account for cases where an incrementalist view may be inadequate. Examples include the Manhattan Project and Abraham Lincoln's stance on slavery. The authors also do not address how a society can have the moral and emotional capital to support its revolutionaries when needed. It may be that incrementalism requires a dose of the Fisher view, but how can a society manage this integration without sacrificing its incrementalist tendencies? Finally, different spheres of society may require different ethics of urgency and complacency, as well as different approaches to long- and short-term thinking. This executive summary highlights the need for further exploration into how a society can balance an incrementalist approach with a long-term view.
+
+
+EXECUTIVE SUMMARY:
+
+==========
+
+RESPONSE:
+
+Gradual: The case for incremental change in a radical age is an exploration of the advantages and drawbacks of an incrementalist approach to problem solving. Authors Greg Berman and Aubrey Fox argue that gradual reform is the most effective way to make meaningful progress in the long term, citing examples such as US Social Security reform, the reduction of crime in New York City, and the hidden strengths of the US immigration system. While incrementalism has its merits, further exploration is needed into how a society can balance this approach with a long-term view and address moral and emotional capital. The authors suggest that if we can keep our faith in gradual reform, we can achieve great things in the years to come.

@@ -1,0 +1,17 @@
+PROMPT:
+
+Write a general summary or overview of the following.
+
+
+Sherlock Holmes and Dr. Watson were called to Pondicherry Lodge in Upper Norwood to investigate the death of Bartholomew Sholto. They found that a valuable collection of Indian gems had been stolen. A fortunate coincidence led to the arrival of Mr. Athelney Jones, a member of the detective police force, who was able to quickly begin his investigation of the criminals. In the meantime, Holmes dispatched a wire to his lieutenant, Wiggins, and his gang to assist in the case. The story was reported in the Standard newspaper.
+Sherlock Holmes and Dr. Watson are on the case of a burglary, with the help of the police officers. They have arrested the housekeeper, Mrs. Bernstone, an Indian butler named Lal Rao, and a porter or gatekeeper named McMurdo. Holmes is able to prove conclusively that the thieves must have entered through a trap door in the roof of the building. At that moment, a group of street-Arabs arrive at the door, sent by Holmes to search for a steam launch called the Aurora. He pays them and sends them off to search both banks of the river for the boat.
+Holmes and Watson are discussing a case involving a wooden-legged man and another man of small stature. Holmes believes that the two men are connected in some way and speculates that they must be unique individuals. He suggests that they send out two men to search for the Aurora, which may help them find the other man. In order to find out more about the other man, Holmes looks up information in a gazetteer and discovers that the aborigines of the Andaman Islands are known for being the smallest race on earth and for having large, misshapen heads and small, fierce personalities.
+
+
+GENERAL SUMMARY OR OVERVIEW:
+
+==========
+
+RESPONSE:
+
+Sherlock Holmes and Dr. Watson are investigating a burglary at Pondicherry Lodge in Upper Norwood. With the assistance of the police, they have arrested the housekeeper, Mrs. Bernstone, an Indian butler named Lal Rao, and a porter or gatekeeper named McMurdo. Holmes is able to prove that the thieves must have entered through a trap door in the roof of the building. He then dispatches a group of street-Arabs to search for a steam launch called the Aurora. In order to find out more about the other man involved in the case, Holmes looks up information in a gazetteer and discovers that the aborigines of the Andaman Islands are known for being the smallest race on earth and for having large, misshapen heads and small, fierce personalities.

@@ -1,0 +1,10 @@
+PROMPT:
+
+Don’t you wish our ancestors had cared more about the long term when they made decisions affecting human impact on climate change and biodiversity? Won’t our descendants wish we had done the same?
+These may sound like simple, obvious questions, but longtermism is a radical and oft-neglected philosophy, and few people are interested in living by its implications. It is, however, belatedly surfacing as a significant concept in philosophical and political debate. The effective altruism movement has spearheaded the charge, the subject a key theme of William MacAskill’s bestseller What We Owe the Future (2022).
+
+==========
+
+RESPONSE:
+
+Longtermism is a perspective that considers the well-being of future generations in present-day decision making. It asks us to take into account not only the immediate consequences of our decisions but also their far-reaching, long-term implications. This means considering the potential impacts our actions today may have on future generations, as well as on the environment and other species. In practical terms, this could mean investing in renewable energy sources, reducing our consumption of resources, and promoting sustainable practices. It could also mean reconsidering our approach to economic growth and technological advancement, ensuring that the benefits are shared equitably and that we are not compromising the health of future generations. In short, longtermism calls for us to consider the effects of our actions on future generations and the environment, and to make decisions in line with our longterm goals and values. It is a radical perspective that requires us to think beyond our own lifetimes and take responsibility for the future of the planet.

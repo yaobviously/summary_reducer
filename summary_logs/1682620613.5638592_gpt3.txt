@@ -1,0 +1,17 @@
+PROMPT:
+
+Write a general summary or overview of the following.
+
+
+Longtermism is a radical, neglected philosophy that has recently become a significant concept in philosophical and political debate. The effective altruism movement has been at the forefront of this discussion, and the subject is the focus of William MacAskills upcoming book. Longtermism suggests that we should be concerned with the potential future of our species, even if it lies in the distant future, and take steps to reduce existential risks that could cause our species to self-destruct.
+Longtermism is a controversial concept which is often seen as a way of de-emphasizing the needs of the present in favour of potential future benefits. It is argued that allocating resources towards innovation or disaster mitigation could do more collective good than alleviating human suffering in the short run. However, this approach is strongly opposed by those on the political left who believe that the polity should respond to human suffering. Longtermism is often argued for by people with analytical inclinations, coming from fields such as economics and philosophy, and it is argued that the true disagreements over longtermism are rooted in our emotions and personal temperaments.
+The right wing has its own version of scepticism about longtermism, questioning the potential for achieving distant, ill-defined benefits. There is a debate over how much longtermism truly changes our decision calculus and whether it is possible to be truly longtermist in our thinking. One response to longtermism is to invest in human talent, high-quality institutions and flexible responses today as a preparation for the long run. However, there are also potential downsides to investing in these areas and questions about whether or not this should always be the priority for dealing with longer-term and existential risks.
+
+
+GENERAL SUMMARY OR OVERVIEW:
+
+==========
+
+RESPONSE:
+
+Longtermism is a radical philosophy that has recently become a subject of philosophical and political debate. It suggests that we should be concerned with the future of our species, even if it is far away, and take steps to reduce existential risks that could cause our species to self-destruct. This concept is controversial, as it is seen as de-emphasizing the needs of the present in favour of potential future benefits. While the effective altruism movement has been at the forefront of this discussion, both the political left and right have expressed scepticism about longtermism. There is a debate over how much it changes our decision calculus and how to best invest in human talent, quality institutions, and flexible responses in order to prepare for the long run.

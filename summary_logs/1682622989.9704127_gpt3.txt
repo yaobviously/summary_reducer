@@ -1,0 +1,17 @@
+PROMPT:
+
+Write a general summary or overview of the following.
+
+
+Sherlock Holmes and Dr. Watson are on the pursuit of a fugitive who has been caught in a marshland. They bring him aboard the launch and find an iron chest of Indian workmanship on deck. Despite searching with a searchlight, the Islander is not found but a dart is discovered. The suspect, Jonathan Small, is revealed to be a sunburned man with a network of lines and wrinkles over his mahogany features. He admits to Holmes that he had intended to kill Major Sholto if the room had been empty. They are then interrupted by Scotland Yard's Athelney Jones who suggests that they congratulate each other for capturing the suspect. Dr. Watson is then tasked with taking the criminal's treasure-box back to Baker Street, where he finds Miss Morstan dressed in white diaphanous material with a touch of scarlet at the neck and waist.
+Dr. Watson, Mrs. Forrester and Thaddeus Sholto are shocked to find that the box of treasure they have opened is empty. They must investigate to find out what happened to the treasure and why it is gone. Jonathan Small, a former convict, reveals that he had earned the Agra treasure and had put it away in a safe place when he saw their launch was catching up with them. He expresses his frustration at the idea of justice and speaks passionately about his experience, which Holmes and Jones understand as to why Major Sholto was so terrified when he learned that the injured convict was after him.
+The protagonist is a former soldier who takes a job as an overseer of a plantation in India. He is soon caught up in the Great Mutiny, with the whole sky alight with burning villages and the country in chaos. Mr. Abelwhite refuses to believe the situation has been exaggerated and is found dead with four Sepoys in front of him. English people become helpless fugitives and fight against their own troops whom they had taught and trained. The protagonist is selected to take charge of a small isolated door on the southwest side of the old fort at Agra, with two Sikhs placed under his command. He keeps watch for two nights, looking down on the river and the twinkling lights of the city, while hearing drums, tomtoms, and howls from the rebels across the river.
+
+
+GENERAL SUMMARY OR OVERVIEW:
+
+==========
+
+RESPONSE:
+
+Sherlock Holmes and Dr. Watson are on the pursuit of a fugitive who has been caught in a marshland and find an iron chest of Indian workmanship on deck. The suspect, Jonathan Small, is revealed to be a sunburned man with a network of lines and wrinkles over his mahogany features. They are then interrupted by Scotland Yard's Athelney Jones who suggests that they congratulate each other for capturing the suspect. When they open the chest, they find that it is empty and must investigate to find out what happened to the treasure and why it is gone. Jonathan Small reveals that he had earned the Agra treasure and had put it away in a safe place when he saw their launch was catching up with them. The protagonist, a former soldier, had taken a job as an overseer of a plantation in India and is caught up in the Great Mutiny. He is selected to take charge of a small isolated door on the southwest side of the old fort at Agra, with two Sikhs placed under his command.

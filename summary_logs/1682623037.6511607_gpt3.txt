@@ -1,0 +1,17 @@
+PROMPT:
+
+Write an executive summary of the following:
+
+
+Sherlock Holmes is called to investigate a mysterious death in a large, dark, and silent house. After being approached by Miss Mary Morstan, Holmes deduces information from observation and deduction and accompanies her to the Lyceum Theatre to investigate a mysterious letter. Through further investigation, Holmes discovers evidence of treasure-seekers, a garret containing a treasure chest worth half a million sterling, and clues that point to murder. He then sends another man to the police station to report the incident and uses the remaining time to examine evidence. Holmes discovers a trapdoor that leads to the roof and explores the secret room in which the treasure was found. Through his detective work, Holmes is able to uncover the truth behind Captain Morstans disappearance four years earlier and solve the mystery.
+Sherlock Holmes and Dr. Watson are on the hunt for a criminal with knowledge of buried treasure. Along their journey, they observe the hustle and bustle of everyday life in London and come across a small pocket pouch and a dog named Toby that help them track the criminal. They eventually find Jonathan Small, the suspect in the Norwood tragedy, and his companion who had planned to take revenge on Major Sholto. However, they escape and Holmes must decide between his love for Miss Morstan and his sense of honor and fairness towards her. Scotland Yard is searching for clues regarding the real culprits, and Sherlock Holmes has placed an advertisement in the agony column offering a reward for information on the whereabouts of Mordecai Smith and the launch Aurora. After a dinner of oysters and grouse, they set out on their mission and eventually catch up to the Aurora in the Thames River, but the criminals escape.
+Sherlock Holmes and Dr. Watson have apprehended Jonathan Small, a fugitive who was found in a marshland with an iron chest of Indian workmanship. Upon opening the chest, they find it is empty and must investigate to find out what happened to the treasure. It is revealed that Jonathan Small had earned the Agra treasure and had put it away in a safe place when he saw their launch was catching up with them. Major Sholto and Captain Morstan agree to look into the story of a hidden treasure worth half a million, and they seal the agreement with solemn oaths. The protagonists must now embark on a journey to uncover the mystery behind the missing treasure and why it is gone.
+
+
+EXECUTIVE SUMMARY:
+
+==========
+
+RESPONSE:
+
+Sherlock Holmes and Dr. Watson have been called to investigate a mysterious death in a large, dark, and silent house. Through observation and deduction, they are able to uncover evidence of treasure-seekers and a secret room containing a treasure chest worth half a million sterling. With the help of Miss Mary Morstan, they are able to apprehend Jonathan Small, the suspect in the Norwood tragedy. However, the treasure chest is found to be empty and the protagonists must now embark on a journey to uncover the mystery of the missing treasure and why it is gone.

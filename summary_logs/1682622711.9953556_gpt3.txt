@@ -1,0 +1,17 @@
+PROMPT:
+
+Write an executive summary of the following:
+
+
+will be wanted at the trial. Good-night toyou.""Good-night, gentlemen both," said Jonathan Small."You first, Small," remarked the wary Jones as they left the room."I'll take particular care that you don't club me with your woodenleg, whatever you may have done to the gentleman at the AndamanIsles.""Well, and there is the end of our little drama," I remarked, afterwe had set some time smoking in silence. "I fear that it may be thelast investigation in which I shall have the chance of studying yourmethods. Miss Morstan has done me the honor to accept me as a husbandin prospective."He gave a most dismal groan. "I feared as much," said he. "I reallycannot congratulate you."I was a little hurt. "Have you any reason to be dissatisfied with mychoice?" I asked."Not at all. I think she is one of the most charming young ladies Iever met, and might have been most useful in such work as we havebeen doing. She had a decided genius that way: witness the way inwhich she preserved that Agra plan from
+all the other papers of herfather. But love is an emotional thing, and whatever is emotional isopposed to that true cold reason which I place above all things. Ishould never marry myself, lest I bias my judgment.""I trust," said I, laughing, "that my judgment may survive theordeal. But you look weary.""Yes, the reaction is already upon me. I shall be as limp as a ragfor a week.""Strange," said I, "how terms of what in another man I should calllaziness alternate with your fits of splendid energy and vigor.""Yes," he answered, "there are in me the makings of a very fineloafer and also of a pretty spry sort of fellow. I often think ofthose lines of old Goethe,-- Schade, da die Natur nur einen Mensch aus Dir schuf,Denn zum wrdigen Mann war und zum Schelmen der Stoff."By the way, a propos of this Norwood business, you see that theyhad, as I surmised, a confederate in the house, who could be noneother than Lal Rao, the butler: so Jones actually has the undividedhonor of having caught one
+fish in his great haul.""The division seems rather unfair," I remarked. "You have done allthe work in this business. I get a wife out of it, Jones gets thecredit, pray what remains for you?""For me," said Sherlock Holmes, "there still remains thecocaine-bottle." And he stretched his long white hand up for it.
+
+
+EXECUTIVE SUMMARY:
+
+==========
+
+RESPONSE:
+
+Sherlock Holmes and Dr. Watson have successfully solved a mysterious case involving the disappearance of Miss Mary Morstan's father. After a series of investigations, they were able to identify the culprits and catch them. As a result, Miss Morstan has accepted Dr. Watson's proposal of marriage. While Dr. Watson is pleased with the outcome, Sherlock Holmes is not as he believes that love can be an emotional thing that can bias judgment. As a consolation prize, he takes the cocaine-bottle as a reminder of their successful case.
