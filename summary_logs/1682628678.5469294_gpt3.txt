@@ -1,0 +1,17 @@
+PROMPT:
+
+Write a general summary or overview of the following.
+
+
+Huck and Jim are on a raft and come across two men who think they have smallpox. The men give them money and tell them to float down the river twenty miles to a town where they can get help. They eventually pass Cairo, which was their original destination, and continue on their journey down the river. Eventually they come across a steamboat and light a lantern to signal it. The steamboat comes close but doesn't touch them, and they continue on their journey after dark in search of a place to buy a canoe so they can go back upstream.
+The story follows George Jackson, a young boy who falls overboard from a steamboat and is rescued by an old man and his family. The family takes him in, giving him dry clothes and something to eat, and asking him questions about himself and the Shepherdson family. George is then allowed to stay the night, and the next day he is sent on his way.
+The narrator is welcomed into a family's home in the country and is amazed at the style and sophistication of the house. He is offered a place to stay, and in the morning he has forgotten his name. He is able to recall it with the help of Buck, one of the family members. The house has many luxuries, including a brass door knob, a big fireplace, brass dog-irons, a clock with a picture of a town painted on it, two big parrots made of chalk, crockery cat and dog, a crockery basket with fruit in it, books on the table, split-bottom chairs, pictures on the walls, and more. The narrator also mentions a deceased daughter who had made crayon drawings and was working on more before her death.
+
+
+GENERAL SUMMARY OR OVERVIEW:
+
+==========
+
+RESPONSE:
+
+Huck and Jim are on a raft, and encounter two men who think they have smallpox. The men give them money and tell them to float down the river twenty miles to a town where they can get help. They eventually pass Cairo, and come across a steamboat. The story then follows George Jackson, a young boy who falls overboard from a steamboat and is rescued by an old man and his family. The narrator is welcomed into a family's home in the country and is amazed at the style and sophistication of the house. He is offered a place to stay and in the morning he has forgotten his name. He is able to recall it with the help of Buck, one of the family members. The house has many luxuries, including a brass door knob, a big fireplace, brass dog-irons, a clock with a picture of a town painted on it, two big parrots made of chalk, crockery cat and dog, a crockery basket with fruit in it, books on the table, split-bottom chairs, pictures on the walls, and more.

@@ -1,0 +1,17 @@
+PROMPT:
+
+Write a general summary or overview of the following.
+
+
+This story is about Emmeline Grangerford, a young girl who was working on her greatest painting when she became ill and passed away. The painting was of a woman in a long white gown, standing on the rail of a bridge ready to jump off and looking up to the moon with tears running down her face. Emmeline was known for her skill in writing poetry about people who had died. The Grangerfords were a high-class aristocratic family, while the Shepherdsons were another family living in the same area who had been feuding with the Grangerfords for 30 years. This feud had caused many deaths on both sides and continued to be a source of tension between the two families. On Sunday, everyone went to church together carrying their guns in case of any trouble.
+The story follows two young boys, Buck and Joe, as they try to escape from a group of men who are trying to kill them. They manage to get away and find refuge on a raft on the Mississippi River. Along the way, they experience the beauty of nature, pass by steamboats, rafts, and scows, and meet an old man with a slouch hat. Later, they meet two men on a trail outside of town: one bald and one about thirty. The latter reveals himself to be the rightful Duke of Bridgewater and the two men try to comfort him. In the end, the boys find freedom on the raft and the Duke finds solace in his companions.
+Jim and Huck meet two men claiming to be a king and a duke, who are actually frauds. In order to keep the peace, they go along with it. The two men then travel to a camp-meeting in Pokeville, where the king speaks to the people and collects eighty-seven dollars and seventy-five cents. The duke also works in the printing office. Later that night, they set off on their raft again, planning to run during the day if necessary. During a storm, Jim stands watch for Huck so he can rest.
+
+
+GENERAL SUMMARY OR OVERVIEW:
+
+==========
+
+RESPONSE:
+
+The story follows Emmeline Grangerford, a young girl who was working on her greatest painting when she passed away. It also follows two young boys, Buck and Joe, as they try to escape from a group of men trying to kill them. Along the way, they experience the beauty of nature, pass by steamboats, rafts, and scows, and meet an old man with a slouch hat. Eventually, they meet two men claiming to be a king and a duke who are actually frauds. In order to keep the peace, they go along with it. The two men then travel to a camp-meeting in Pokeville, where the king speaks to the people and collects money. Later that night, they set off on their raft again, planning to run during the day if necessary. In the end, the boys find freedom on the raft and the Duke finds solace in his companions.

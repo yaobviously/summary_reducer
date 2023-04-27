@@ -1,0 +1,17 @@
+PROMPT:
+
+Write a general summary or overview of the following.
+
+
+The story follows Emmeline Grangerford, a young girl who was working on her greatest painting when she passed away. It also follows two young boys, Buck and Joe, as they try to escape from a group of men trying to kill them. Along the way, they experience the beauty of nature, pass by steamboats, rafts, and scows, and meet an old man with a slouch hat. Eventually, they meet two men claiming to be a king and a duke who are actually frauds. In order to keep the peace, they go along with it. The two men then travel to a camp-meeting in Pokeville, where the king speaks to the people and collects money. Later that night, they set off on their raft again, planning to run during the day if necessary. In the end, the boys find freedom on the raft and the Duke finds solace in his companions.
+This passage is set in a small town in Arkansas and tells of a group of people who come to the town and put on a show. After a commotion caused by a drunk man named Boggs, Colonel Sherburn shoots him dead. A mob of people then gathers around Colonel Sherburn's house, intent on lynching him, but Sherburn intimidates them and the crowd disperses. The narrator and the Duke of Bilgewater then put on their own show and make a lot of money from the audience. They then reunite with their nieces and discover that the amount of money left in the deceased man's estate is four hundred and fifteen dollars short. An iron-jawed man then accuses the King of being a fraud, and everyone tries to protect the feelings of the girls and convince the iron-jawed man that the King is not a fraud.
+In this chapter, Mary Jane Wilks and her sisters are offered a large sum of money to turn out a pitiful rascal. Meanwhile, the King and Duke are plotting to steal money from an estate. The story follows two sets of brothers - the King and Duke, and the Wilks brothers - who are all competing for the inheritance of Peter Wilks. The King and Duke attempt to pass themselves off as the Wilks brothers, but eventually they are exposed as frauds and the real Wilks brothers are able to claim their inheritance. Along the way, the group must investigate Peter Wilks' corpse in order to determine his true identity and uncover a bag of gold on his chest. The King takes advantage of the distraction to escape with his friend Jim on a borrowed boat.
+
+
+GENERAL SUMMARY OR OVERVIEW:
+
+==========
+
+RESPONSE:
+
+The story follows the adventures of Emmeline Grangerford, two young boys, Buck and Joe, and the King and Duke of Bilgewater. They experience the beauty of nature, pass by steamboats, rafts, and scows, and meet an old man with a slouch hat. The two men claiming to be a king and a duke are eventually exposed as frauds. Later, the group must investigate Peter Wilks' corpse in order to determine his true identity and uncover a bag of gold on his chest. In the end, the boys find freedom on the raft and the Duke finds solace in his companions.

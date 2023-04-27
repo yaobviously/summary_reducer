@@ -1,0 +1,17 @@
+PROMPT:
+
+Write a general summary or overview of the following.
+
+
+The narrator is traveling with the King and Duke and they come across a young man walking who is trying to get to the steamboat. The King offers to help him with his bags and the young man explains he's going to Orleans. The King then explains he's on his way to visit an old friend on a farm up the river. The young man thinks the King is Mr. Wilks, but the King explains he's called Reverend Elexander Blodgett. They then talk about Mr. Wilks, who has died the night before, and his two brothers Harvey and William. Harvey lives in England and William is deaf and dumb. Peter left a letter behind for Harvey with instructions on how to divide his property. They all go on their separate ways, with the King and Duke heading to the steamboat, while the narrator goes back to fetch the Duke. They eventually get on a steamboat headed for Rio Janeiro and ask around town about Peter Wilks, finding out where he lived the day before.
+In this chapter, two men, the King and the Duke, reunite with their nieces after a long journey. Everyone in the town is thrilled to see them and they are welcomed with open arms. The King then announces that he and his brother have left a large inheritance for their nieces and nephews. The men then go to the cellar to collect the inheritance, which consists of gold coins. They are extremely excited by the sight of the coins and celebrate their good fortune.
+This story follows a group of characters who are trying to settle the estate of a recently deceased man. They discover that the amount of money left in the estate is four hundred and fifteen dollars short. The King and Duke decide to make up the deficit by taking money out of their own pockets, and then suggest using the remaining money to give to the deceased man's bereaved daughters. After some discussion, they are interrupted by an iron-jawed man who accuses the King of being a fraud and an impostor. The story ends with everyone trying to protect the feelings of the girls and convince the iron-jawed man that the King is not a fraud.
+
+
+GENERAL SUMMARY OR OVERVIEW:
+
+==========
+
+RESPONSE:
+
+In this chapter, two men, the King and the Duke, reunite with their nieces after a long journey. They discover that the amount of money left in the deceased man's estate is four hundred and fifteen dollars short. The King and Duke make up the deficit by taking money out of their own pockets, and then suggest using the remaining money to give to the deceased man's bereaved daughters. However, they are interrupted by an iron-jawed man who accuses the King of being a fraud and an impostor. The story ends with everyone trying to protect the feelings of the girls and convince the iron-jawed man that the King is not a fraud.

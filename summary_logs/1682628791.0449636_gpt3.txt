@@ -1,0 +1,17 @@
+PROMPT:
+
+Write a general summary or overview of the following.
+
+
+Tom and his friend Jim, a slave, devise a plan to escape from captivity. Tom comes up with an idea to capture rats and other animals with a jews-harp, and to raise a flower in the corner of the prison. Jim is reluctant to do this as he thinks it is too much work, and he doesn't believe that he can raise a flower with spring water. After some persuasion from Tom, Jim agrees to try. Tom also buys a wire rat-trap and they manage to capture fifteen of the biggest rats. They also get a bag full of spiders, bugs, frogs, caterpillars and other creatures. They are almost successful in getting a hornet's nest, but the family is at home and they have to give it up. After all the work they did, they get a scolding from Aunt Sally when they return home. Despite this, they are proud of their accomplishments and feel that it was a successful day's work.
+Tom Sawyer and Huck Finn have been working hard to help Jim, a runaway slave, escape from the plantation. They have come up with a plan to use a pie, pens, a grindstone, and a bed-leg to help Jim escape. They also plan on using anonymous letters, disguises, and false keys to help him along the way. The boys are determined to do whatever it takes for Jim to escape, even if it means getting into trouble themselves. In the end, they manage to pull off the escape successfully and with no one the wiser.
+Tom Sawyer and Huck Finn, two young boys, hatch a plan to rescue Jim, a runaway slave. To do this, they plan to stuff straw into Jim's clothes to represent his mother in disguise. They sneak down to the cellar to get a hunk of butter, then make their way up to the main floor. However, they are caught by Aunt Sally who demands to know what they were doing. The boys are scared and unable to answer her questions. Eventually, Aunt Sally believes them and sends them off to bed. They sneak out of the house and make their way to the lean-to where Jim is waiting for them. As they escape, they hear men coming and hide under the bed. The men enter the house and prepare to ambush the robbers they believe are coming. The boys make their way out of the house and towards the mill, but they are followed by dogs. They wait until the dogs catch up with them and then continue on their journey. They eventually reach the mill and escape with Jim.
+
+
+GENERAL SUMMARY OR OVERVIEW:
+
+==========
+
+RESPONSE:
+
+Tom Sawyer and Huck Finn devise a plan to help Jim, a runaway slave, escape captivity. They use a variety of tactics, including disguises and false keys, to help Jim escape. After sneaking out of the house, they make their way to the lean-to where Jim is waiting for them. They are followed by dogs, but manage to escape to the mill and free Jim.

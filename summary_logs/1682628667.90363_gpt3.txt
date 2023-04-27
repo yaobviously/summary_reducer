@@ -1,0 +1,17 @@
+PROMPT:
+
+Write a general summary or overview of the following.
+
+
+Huck and Jim are travelling down the river in a raft and get caught in a fog. Huck attempts to tie the raft to a towhead, but the current is too strong and the raft is pulled away. He jumps into the canoe and chases after it, but gets lost in the fog and finds himself surrounded by towheads. He calls out, but the only response he hears is from another raftsman, so he follows the sound until he finds Jim and the raft.
+Huck and Jim have been floating down the river in a canoe and have been separated by a fog. Huck finds the raft again, and Jim is asleep with his arm hanging over the steering-oar. Jim explains that he had been worried about Huck and had nearly drowned due to the fog, islands, and troubles they encountered. After some conversation, Jim realizes that he had been dreaming and they had not actually encountered any of these difficulties. They then sleep for most of the day before starting out again behind a long raft with thirty men aboard.
+This passage tells the story of two men, Huck and Jim, who are on a raft together. They are trying to make their way to Cairo, a free state, so that Jim can be free from slavery. Along the way, they discuss their plans and Huck begins to feel guilty for not helping Jim escape his enslavement. As they approach Cairo, they are stopped by two men with guns who ask if the person on the raft is white or black. Huck is unable to answer and eventually admits that the person on the raft is white. The men help Huck and Jim tow the raft ashore, and it is revealed that the person on the raft is Huck's father, who is ill.
+
+
+GENERAL SUMMARY OR OVERVIEW:
+
+==========
+
+RESPONSE:
+
+Huck and Jim are travelling down the river on a raft in order to reach the free state of Cairo, where Jim can be free from slavery. Along the way, they are separated by a fog and Huck attempts to tie the raft to a towhead, but the current is too strong. He jumps into a canoe and chases after it, eventually reuniting with Jim. When they reach Cairo, they are stopped by two men with guns who ask if the person on the raft is white or black. It is revealed that it is Huck's father, who is ill, and the men help Huck and Jim tow the raft ashore.

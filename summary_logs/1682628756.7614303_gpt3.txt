@@ -1,0 +1,17 @@
+PROMPT:
+
+Write a general summary or overview of the following.
+
+
+In this chapter of the novel, Huck and Jim escape from the King and the Duke, who had been trying to exploit them for their own gain. They set off down the river in a canoe, but are soon followed by the King and Duke. The King is furious with Huck for trying to escape, but the Duke defends him. The King then admits that he had intended to keep the money from the Nonesuch for himself, but the Duke points out that he was able to make up the deficit from his own money. Finally, the King and Duke reconcile and fall asleep in each other's arms. Huck and Jim then have a chance to talk about their situation and plan for the future.
+The narrator and the Duke are traveling down the river when they come across Spanish moss, which is a new sight for the narrator. The Duke and the King engage in various activities to make money, such as lecturing on temperance, starting a dancing school, and telling fortunes, but they are unsuccessful. They eventually get very low on money, and the King goes to a nearby village to check if anyone has heard of them. The Duke and narrator wait for him, but when midday comes and the King still hasn't returned, they go to the village and find him in a bar, very drunk. The narrator takes this as an opportunity to escape and runs away with Jim on the raft. They eventually get caught by people who are offering a reward for Jim's capture. The narrator is left feeling guilty and ashamed for his part in helping a slave escape.
+Huck Finn is reflecting on how he almost got away with stealing a poor old woman's nigger. He realizes that he was doing wrong and decides to try and pray, but he can't because his heart isn't right. He then decides to go and write a letter to the nigger's owner, which makes him feel light and clean of sin. He reflects on his journey down the river with Jim, and decides to go against his own plan and try to free Jim from slavery. He then goes to town and meets the Duke, who is trying to put up a sign for the Royal Nonesuch performance. Huck then goes on with his plan, hiding his bundle in the woods and sinking his canoe. He then goes into town and finds the Duke again.
+
+
+GENERAL SUMMARY OR OVERVIEW:
+
+==========
+
+RESPONSE:
+
+In this chapter of the novel, Huck Finn and Jim escape from the King and the Duke, who had been exploiting them for their own gain. Huck reflects on his wrongdoing and decides to try to free Jim from slavery. He hides his bundle in the woods and sinks his canoe, and then goes into town to meet the Duke again. The King and Duke eventually reconcile and fall asleep in each other's arms, giving Huck and Jim a chance to talk about their situation and plan for the future.

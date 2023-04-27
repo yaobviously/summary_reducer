@@ -1,0 +1,17 @@
+PROMPT:
+
+Write a general summary or overview of the following.
+
+
+The story follows two young boys, Buck and Joe, as they try to escape from a group of men who are trying to kill them. They manage to get away and find refuge on a raft on the Mississippi River. They spend the next few days and nights floating down the river, feeling free and comfortable on the raft.
+Two men jump on a raft and spend their days lazily floating down the river, taking in the peacefulness of their surroundings. They fish and cook meals, watch the sunrise and sunset, and listen to the sounds of nature. They occasionally pass by steamboats, rafts, and scows and hear the conversations of those on board. When night falls, they drift away into the darkness, and when morning comes they hide in the cottonwood trees to avoid being discovered. They experience a foggy morning with spirits in the air and a bald-headed old man with a slouch hat, blue jeans, and a long-tailed coat.
+Two men, one bald and one about thirty, meet on a trail outside of town and agree to travel together. The younger man reveals that he is a printer by trade, actor, lecturer, and does a variety of other jobs. The bald man reveals that he is a doctor and preacher. They then discover that the younger man is actually the rightful Duke of Bridgewater, having been displaced from his high estate due to trouble. They both feel sorry for him and try to comfort him, but he believes that nothing can make him feel better except death.
+
+
+GENERAL SUMMARY OR OVERVIEW:
+
+==========
+
+RESPONSE:
+
+The story follows two young boys, Buck and Joe, as they try to escape from a group of men who are trying to kill them. They manage to get away and find refuge on a raft on the Mississippi River. Along the way, they experience the beauty of nature, pass by steamboats, rafts, and scows, and meet an old man with a slouch hat. Later, they meet two men on a trail outside of town: one bald and one about thirty. The latter reveals himself to be the rightful Duke of Bridgewater and the two men try to comfort him. In the end, the boys find freedom on the raft and the Duke finds solace in his companions.

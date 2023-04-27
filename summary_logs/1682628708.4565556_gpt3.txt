@@ -1,0 +1,17 @@
+PROMPT:
+
+Write a general summary or overview of the following.
+
+
+This text is about a group of people on a raft who come across a small one-horse town in a big bend. The Duke of the group hires the courthouse and puts up showbills for their show, which includes a performance of Shakespeare's "Balcony Scene in Romeo and Juliet," a broadsword conflict from "Richard III," and Hamlet's soliloquy. They then explore the town, which consists of old, dried-up frame houses on stilts, little gardens, and stores along one street. The people in the town are described as lazy and unkempt, wearing yellow straw hats and whittling with their Barlow knives. They are heard saying things like "Gimme a chaw 'v tobacker, Hank" and borrowing chawing tobacco from each other.
+This passage is set in a small town in Arkansas and describes the people and their activities. It tells of a man named Lafe Buckner who loans out tobacco and how people borrow it and pay it back. The streets are muddy, and there are hogs roaming around. There is also a man named Boggs who comes into town for his monthly drunk and causes a commotion. Colonel Sherburn then steps out of the store and warns Boggs to leave him alone until one o'clock or else he will find him. When Boggs refuses, Sherburn shoots him dead.
+A mob of people gathers around Colonel Sherburn's house, intent on lynching him for killing Boggs. Sherburn steps out on his porch with a double-barrel gun and calmly and scornfully calls out the crowd for their cowardice. He tells them that a real lynching would be done in the dark, Southern fashion, and with masks and a man at the head of it. The crowd is intimidated by his words and disperses.
+
+
+GENERAL SUMMARY OR OVERVIEW:
+
+==========
+
+RESPONSE:
+
+This passage is set in a small town in Arkansas and tells of a group of people who come to the town and put on a show. It describes the townspeople as lazy and unkempt, wearing yellow straw hats and whittling with their Barlow knives. The text then tells of a man named Boggs who comes into town for his monthly drunk and causes a commotion. Colonel Sherburn then steps out of the store and warns Boggs to leave him alone or else he will find him. When Boggs refuses, Sherburn shoots him dead. A mob of people then gathers around Colonel Sherburn's house, intent on lynching him for killing Boggs, but Sherburn intimidates them with his words and the crowd disperses.

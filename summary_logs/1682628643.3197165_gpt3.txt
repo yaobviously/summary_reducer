@@ -1,0 +1,17 @@
+PROMPT:
+
+Write a general summary or overview of the following.
+
+
+GPT3 error: This model's maximum context length is 4097 tokens, however you requested 4152 tokens (2152 in your prompt; 2000 for the completion). Please reduce your prompt; or completion length.
+Jim and Huck are on an island in the river and have found a good place to build a fire and cook their dinner. They set up a makeshift camp and soon a summer storm begins to brew. The storm gets so intense that the trees look like spider webs and the thunder roars. After the storm passes, they find a frame house down the river and explore it. Inside they find a dead man who has been shot in the back, as well as other items such as old cards, whisky bottles, masks, clothing, and a tin lantern. They take all of these items with them in their canoe when they leave and head back home.
+Two friends, Jim and the narrator, are discussing bad luck when the narrator brings up a snake skin he found. Jim warns him of the bad luck associated with it, but the narrator doesn't take heed. A few days later, Jim is bitten by a rattlesnake in their camp, and the narrator realizes it was because of the snake skin he brought. Jim recovers from the bite and they catch a huge catfish. The narrator decides to cross the river to find out what's going on in town and disguises himself as a girl. He meets a woman in an abandoned shanty who helps him find his uncle Abner Moore.
+
+
+GENERAL SUMMARY OR OVERVIEW:
+
+==========
+
+RESPONSE:
+
+Jim and Huck are on an island in the river and have a summer storm. After the storm passes, they find a frame house down the river and explore it. Inside they find a dead man, as well as other items such as old cards, whisky bottles, masks, clothing, and a tin lantern. The narrator brings up a snake skin he found and Jim warns him of the bad luck associated with it. Jim is then bitten by a rattlesnake in their camp and recovers from the bite. The narrator then decides to cross the river to find out what's going on in town and disguises himself as a girl. He meets a woman in an abandoned shanty who helps him find his uncle Abner Moore.

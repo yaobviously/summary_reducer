@@ -1,0 +1,17 @@
+PROMPT:
+
+Write a general summary or overview of the following.
+
+
+The story follows two sets of brothers - the King and Duke, and the Wilks brothers - who are all competing for the inheritance of Peter Wilks. The King and Duke pretend to be the Wilks brothers in order to get the inheritance, while the real Wilks brothers arrive in town after their baggage is mistakenly left at a nearby town. The King and Duke try to convince everyone that they are the real Wilks brothers, but eventually the truth is revealed when the real Wilks brothers show up. In the end, the King and Duke are exposed as frauds and the real Wilks brothers are able to claim their inheritance.
+In this passage, a group of people are discussing the identity of two newcomers who claim to be related to the late Peter Wilks. One of the newcomers, a king, is accused of being a fraud and liar by one of the locals. To prove their innocence, the group decides to take the newcomers to a nearby tavern and compare them to another couple who were claiming to be related to Peter Wilks. After much discussion and investigation, it is revealed that neither of the newcomers are related to Peter Wilks, but they had been framed by an old gentleman who was actually related to Peter Wilks.
+In this story, a group of people are trying to figure out what was tattooed on the breast of a deceased man, Peter Wilks. The King tries to bluff his way out of the situation but eventually the lawyer suggests digging up the corpse to find the answer. Everyone agrees and they set off for the graveyard, with the King and four other men in tow. When they arrive, they are unable to find a lantern and send someone to borrow one from a nearby house. After much digging, they find the coffin and unscrew the lid to find a bag of gold on the deceased's chest with a small dim P, B (initial he dropped when he was young) and W with dashes between them. The main character takes advantage of the distraction to escape and runs for home, where he finds his house in darkness but is relieved to see the light in his sister's window. He then borrows a boat and makes his way back to the raft, where he is reunited with his friend Jim.
+
+
+GENERAL SUMMARY OR OVERVIEW:
+
+==========
+
+RESPONSE:
+
+The story follows two sets of brothers - the King and Duke, and the Wilks brothers - who are all competing for the inheritance of Peter Wilks. The King and Duke try to pass themselves off as the Wilks brothers, but eventually they are exposed as frauds and the real Wilks brothers are able to claim their inheritance. Along the way, the group must investigate Peter Wilks' corpse in order to determine his true identity and uncover a bag of gold on his chest. The King takes advantage of the distraction to escape, and is reunited with his friend Jim after borrowing a boat and making his way back to the raft.

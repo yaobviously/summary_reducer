@@ -1,0 +1,17 @@
+PROMPT:
+
+Write a general summary or overview of the following.
+
+
+In this chapter, Mary Jane Wilks and her sisters are offered six thousand dollars to turn out a pitiful rascal. Mary Jane accepts the offer and puts the money in the king's hands. Everyone is pleased, and the doctor warns them that a time will come when they will regret their decision. Mary Jane then shows the king and his companions their rooms, which are plain but nice. Later, they have a big supper with all the men and women present. Mary Jane is forced to answer questions about England, and she has to think of ways to answer them without revealing that she knows more than she should. Finally, she is asked about how servants are treated in England, which she answers truthfully.
+In this passage, a group of characters, including the King, Duke and Mary Jane, are discussing a plan to steal money from an estate. The Duke suggests that they leave before three in the morning and take the money with them. The King argues that they should stay and take all of the property from the orphans. The Duke eventually agrees but is still concerned about the money being discovered. The King reassures him by saying that the people who buy the property will be the ones to suffer and that the orphans will get their house back. They then decide to go downstairs and the Duke expresses concern about where they have hidden the money.
+The story is about a man who is trying to steal money from the King and Duke, hiding it in a coffin during a funeral. The protagonist manages to hide the money successfully, but worries that it will be found when the coffin is closed. He listens as Mary Jane cries beside the coffin and eventually slips away unnoticed. The next day, the undertaker notices a rat in the coffin and chases it away. The money is safe, and the people are relieved to know what was causing the disturbance.
+
+
+GENERAL SUMMARY OR OVERVIEW:
+
+==========
+
+RESPONSE:
+
+In this chapter, Mary Jane Wilks and her sisters are offered a large sum of money to turn out a pitiful rascal. Mary Jane accepts the offer and puts the money in the king's hands. Later, they have a big supper and Mary Jane is asked questions about England. Finally, she is asked about how servants are treated in England, which she answers truthfully. Meanwhile, the King and Duke are discussing a plan to steal money from an estate, which they eventually succeed in doing by hiding it in a coffin during a funeral. The money is safe, and the people are relieved to know what was causing the disturbance.

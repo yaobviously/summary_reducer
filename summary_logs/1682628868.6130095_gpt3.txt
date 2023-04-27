@@ -1,0 +1,17 @@
+PROMPT:
+
+Write a general summary or overview of the following.
+
+
+In this chapter, Mary Jane Wilks and her sisters are offered a large sum of money to turn out a pitiful rascal. Mary Jane accepts the offer and puts the money in the king's hands. Later, they have a big supper and Mary Jane is asked questions about England. Finally, she is asked about how servants are treated in England, which she answers truthfully. Meanwhile, the King and Duke are discussing a plan to steal money from an estate, which they eventually succeed in doing by hiding it in a coffin during a funeral. The money is safe, and the people are relieved to know what was causing the disturbance.
+In this chapter, the main character witnesses the King and Duke selling the family's slaves at auction and is worried about being discovered. The townspeople are outraged and the girls are devastated by the separation of their family. The King and Duke argue over why they sold the slaves so quickly with no profit. To prevent being discovered, the main character comes up with a plan to get rid of the two frauds and instructs Mary Jane on what to do if he doesn't make it out. He also gives her directions to a town called Bricksville, where she can find witnesses to testify against the frauds. He also explains how he had stolen a bag of money from her uncles and hidden it in a coffin, but fears it is no longer there. Finally, he tells her that one of her uncles' people is sick with a new kind of mumps and she must go to them quickly.
+The story follows two sets of brothers - the King and Duke, and the Wilks brothers - who are all competing for the inheritance of Peter Wilks. The King and Duke try to pass themselves off as the Wilks brothers, but eventually they are exposed as frauds and the real Wilks brothers are able to claim their inheritance. Along the way, the group must investigate Peter Wilks' corpse in order to determine his true identity and uncover a bag of gold on his chest. The King takes advantage of the distraction to escape, and is reunited with his friend Jim after borrowing a boat and making his way back to the raft.
+
+
+GENERAL SUMMARY OR OVERVIEW:
+
+==========
+
+RESPONSE:
+
+In this chapter, Mary Jane Wilks and her sisters are offered a large sum of money to turn out a pitiful rascal. Meanwhile, the King and Duke are plotting to steal money from an estate. The story follows two sets of brothers - the King and Duke, and the Wilks brothers - who are all competing for the inheritance of Peter Wilks. The King and Duke attempt to pass themselves off as the Wilks brothers, but eventually they are exposed as frauds and the real Wilks brothers are able to claim their inheritance. Along the way, the group must investigate Peter Wilks' corpse in order to determine his true identity and uncover a bag of gold on his chest. The King takes advantage of the distraction to escape with his friend Jim on a borrowed boat.

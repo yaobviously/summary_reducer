@@ -1,0 +1,17 @@
+PROMPT:
+
+Write a general summary or overview of the following.
+
+
+Jim and Huck are on a raft, and they meet two men claiming to be a king and a duke. The two men are actually frauds, but Huck and Jim go along with it and let them have their way in order to keep peace. Eventually, the weather takes a turn for the worse and the two of them must stay on watch until the storm passes. The storm is especially intense, with lightning and thunder, but Huck doesn't mind because he doesn't have any clothes on. In the end, Jim stands the first half of the watch for Huck so he can rest.
+The Duke and the King, along with Jim, travel down a river and stop at a little one-horse town. The Duke and the King go to the town to look for work while Jim goes to get coffee. The King and the Duke then head to a nearby camp-meeting where they find a thousand people from twenty miles around. Here, the Duke finds a printing-office and the King attempts to make money. The camp-meeting is filled with singing, shouting, and preaching as people flock to the mourners' bench.
+The king and the duke are two pirates who have been travelling around in the Indian Ocean for 30 years. After they were robbed and put ashore off of a steamboat without any money, they arrive at a camp-meeting in Pokeville. The king speaks to the people and tells them his story, and the people are so moved by it that they take up a collection for him. The king collects eighty-seven dollars and seventy-five cents, and he also finds a three-gallon jug of whisky. The duke has also been doing some work in the printing office, taking in advertisements and printing off jobs for farmers. He then sets up a poem he wrote himself, called "Yes, Crush, Cold World, This Breaking Heart." Later that night, they set off on their raft again, planning to run during the day if necessary. They eventually settle down for the night and the king and duke practice their sword fight and recite lines from Romeo and Juliet.
+
+
+GENERAL SUMMARY OR OVERVIEW:
+
+==========
+
+RESPONSE:
+
+Jim and Huck meet two men claiming to be a king and a duke, who are actually frauds. In order to keep the peace, they go along with it. The two men then travel to a camp-meeting in Pokeville, where the king speaks to the people and collects eighty-seven dollars and seventy-five cents. The duke also works in the printing office. Later that night, they set off on their raft again, planning to run during the day if necessary. During a storm, Jim stands watch for Huck so he can rest.

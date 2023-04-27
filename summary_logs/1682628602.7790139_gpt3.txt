@@ -1,0 +1,17 @@
+PROMPT:
+
+Write a general summary or overview of the following.
+
+
+The Adventures of Huckleberry Finn by Mark Twain is a classic novel set in the Mississippi Valley about forty to fifty years ago. It follows the adventures of Huck, a young boy who runs away from his home in an effort to escape the strict rules of his guardians, the Widow Douglas and her sister Miss Watson. Huck eventually meets up with Tom Sawyer and they find a hidden stash of money that makes them both rich. The novel follows Huck's journey as he attempts to find freedom, while also dealing with the moral implications of his actions. Along the way, he encounters a variety of characters and dialects, as well as a range of emotions including loneliness, fear, and joy. The novel ultimately ends with Huck deciding to stay with the Widow Douglas and be respectable, while still retaining his own sense of freedom.
+In this chapter, Tom Sawyer and the narrator sneak out of the widow's house and into the woods. They meet up with Jim, who is standing between them, and they all remain still and quiet. Tom then decides to go into the kitchen to get more candles, and while he's gone the narrator begins to itch all over from not being able to scratch himself. Jim then falls asleep and Tom returns, so they crawl away on their hands and knees. Tom then takes them to a hilltop where he shows them a hole in the hill and they crawl in on their hands and knees. They eventually find a room in the cave where Tom proposes to start a gang of robbers and make everyone swear an oath written in blood.
+Tom Sawyer and his gang of friends have come up with an oath that if anyone reveals their secrets, they will have their throat cut and their name cursed and blotted off the list forever. The gang then discusses what kind of activities they will partake in, and decide to become highwaymen, robbing people on the road and killing them for their watches and money. They also decide that they will keep people they capture in a cave until they are "ransomed to death." After Little Tommy Barnes falls asleep, the gang decides to wait until Sunday to start their activities, since it would be considered wicked to start on a Sunday. After returning home, Tom gets a scolding from Miss Watson for his clothes, but the widow only cleans off the grease and clay. Miss Watson then tells Tom he should pray for what he wants and he will get it, but this does not seem to be true. She then explains that he should help others and not think about himself in order to get spiritual gifts.
+
+
+GENERAL SUMMARY OR OVERVIEW:
+
+==========
+
+RESPONSE:
+
+The Adventures of Huckleberry Finn is a classic novel by Mark Twain set in the Mississippi Valley about forty to fifty years ago. It follows the adventures of Huck, a young boy who runs away from his home in an effort to escape the strict rules of his guardians. On his journey, he meets up with Tom Sawyer and they find a hidden stash of money. Along the way, Huck encounters a variety of characters and dialects, as well as a range of emotions including loneliness, fear, and joy. The novel ultimately ends with Huck deciding to stay with the Widow Douglas and be respectable, while still retaining his own sense of freedom. In this chapter, Tom Sawyer and the gang of friends come up with an oath and plan to become highwaymen, robbing people on the road and killing them for their watches and money. Miss Watson then explains to Tom that he should help others and not think about himself in order to get spiritual gifts.

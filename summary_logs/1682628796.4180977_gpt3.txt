@@ -1,0 +1,17 @@
+PROMPT:
+
+Write a general summary or overview of the following.
+
+
+In this chapter, Huck and Jim have freed Jim from slavery and are now on the run. They come across a village and Huck goes to find a doctor to help Tom, who has been shot in the leg. After finding a doctor, they devise a plan to keep him from knowing where they are. When they get back to the village, Huck is surprised to find his uncle there. He lies about where they have been and they all go back home, where Aunt Sally is relieved to see them.
+GPT3 error: This model's maximum context length is 4097 tokens, however you requested 4233 tokens (2233 in your prompt; 2000 for the completion). Please reduce your prompt; or completion length.
+The story follows the adventures of Tom Sawyer and his friend Jim, who is a runaway slave. Tom's aunt is worried about him and keeps a light burning so he can find his way home. She talks to Tom about her worries for her son, Sid, and expresses her gratitude for the help Jim has given. Later, the old man discovers a letter from St. Petersburg addressed to his wife and discovers that Tom is alive. Jim is captured by some men and taken back to the same cabin he was held in before. The old doctor examines him and realizes that Jim had been helping him with the boy, risking his freedom in the process. The doctor defends Jim's character, saying that he is worth a thousand dollars and deserves kind treatment. The men eventually agree not to hang Jim and he is returned to the cabin with more chains.
+
+
+GENERAL SUMMARY OR OVERVIEW:
+
+==========
+
+RESPONSE:
+
+In this chapter, Huck and Jim are on the run after freeing Jim from slavery. They come across a village and Huck goes to find a doctor to help Tom, who has been shot in the leg. After finding a doctor, they devise a plan to keep him from knowing where they are. When they get back to the village, Huck is surprised to find his uncle there. He lies about where they have been and they all go back home, where Aunt Sally is relieved to see them. Meanwhile, Jim is captured and taken back to the cabin he was held in before, but the old doctor defends his character and he is eventually returned with more chains.

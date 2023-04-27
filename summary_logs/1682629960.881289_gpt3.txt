@@ -1,0 +1,16 @@
+PROMPT:
+
+Write an executive summary of the following:
+
+
+Capitalism is the engine that has driven the world's wealth over the last few centuries. It is a powerful system that allows free trade, risky ventures, and ambitious teams to bet on big changes to production methods and distributions. However, when it comes to more important and sacred areas of life, people are less likely to give capitalists free rein. This results in black markets, government and non-profit organizations taking over these areas, and heavy regulations and taxes preventing people from paying outsiders for certain services. As a result, capitalists are only able to change a quarter of what they would be able to in a completely capitalist economy. To combat this, the idea of 'sacred money' has been proposed, which would enable capitalists to invest in sacred ventures with the promise that the money would only be used for sacred ends.
+This proposal suggests a way to distinguish between sacred and profane assets and ventures, by allowing the value in sacred assets to only be used for achieving sacred ends. It outlines possible problems with the proposal such as disagreements over what are considered sacred ends, and what non-sacred services can be sold by sacred ventures. Tax and accounting rules are also discussed in order to prevent the laundering of assets. The proposal also suggests prohibiting trades between sacred money and ordinary money in order to protect the sacred image of all sacred capitalists. In conclusion, this proposal provides a way to allow capitalism to induce adaptation and innovation for sacred assets, while protecting the sanctity of these assets.
+
+
+EXECUTIVE SUMMARY:
+
+==========
+
+RESPONSE:
+
+This proposal outlines a way to enable capitalists to invest in sacred ventures without compromising their sanctity. It suggests a distinction between sacred and profane assets, and outlines possible problems with the proposal such as disagreements over what are considered sacred ends, and what non-sacred services can be sold by sacred ventures. Tax and accounting rules are discussed in order to prevent the laundering of assets, and the proposal suggests prohibiting trades between sacred money and ordinary money in order to protect the sacred image of all sacred capitalists. This proposal provides a way to allow capitalism to induce adaptation and innovation for sacred assets, while protecting their sanctity.

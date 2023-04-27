@@ -1,0 +1,17 @@
+PROMPT:
+
+Write a general summary or overview of the following.
+
+
+Tom Sawyer is telling the story of his adventures with his friend, Huck Finn. They pretend to be robbers and go on adventures together, but they never actually do any harm. Tom also tells Huck stories about magicians, genies, and treasure, which Huck doesn't believe. Eventually, Huck goes to school and gets used to the widow's ways. He also plays hookey whenever he gets tired, which cheers him up.
+Huckleberry Finn is living with the Widow Douglas and is adjusting to life in a house and sleeping in a bed. After accidentally turning over the salt-cellar at breakfast, he sets out on a journey to Judge Thatcher's. Along the way, he notices someone has been around the stile and left tracks with a cross in the boot-heel made with big nails, for protection from the devil. When he reaches Judge Thatcher's, he finds out he has a fortune of over a hundred and fifty dollars. He then goes to see Jim, Miss Watson's slave, who uses a hair-ball to tell Huck's fortune. Through this, Huck finds out his father is back and that he will face both trouble and joy in his life. He will marry two women, one poor and one rich, and should stay away from water as much as possible. When he goes back home, he finds his father there.
+In this chapter, a man enters the narrator's house and berates him for trying to be better than his father. The man then demands money from the narrator, which he does not have. Judge Thatcher and the widow go to court to try to take the narrator away from his father but the new judge says courts shouldn't interfere with families. The old man then goes to Judge Thatcher's house and bullies him, but is unsuccessful in getting the money. The judge then takes the old man into his home and tries to reform him, but he ends up getting drunk and breaking his arm. Finally, the old man goes to court to try and get the money from Judge Thatcher, as well as punish the narrator for not stopping school.
+
+
+GENERAL SUMMARY OR OVERVIEW:
+
+==========
+
+RESPONSE:
+
+In this chapter of Tom Sawyer, the narrator, Huck Finn, is adjusting to life with the Widow Douglas and comes across a mysterious set of tracks leading to Judge Thatcher's. At Judge Thatcher's, he finds out he has a fortune of over a hundred and fifty dollars. He then goes to see Jim, Miss Watson's slave, who uses a hair-ball to tell Huck's fortune. After returning home, Huck finds his father there. An old man then enters the house and demands money from the narrator, which he does not have. Judge Thatcher and the widow go to court to try to take the narrator away from his father but the new judge says courts shouldn't interfere with families. The old man then goes to Judge Thatcher's house and bullies him, but is unsuccessful in getting the money. The judge then takes the old man into his home and tries to reform him, but he ends up getting drunk and breaking his arm. Finally, the old man goes to court to try and get the money from Judge Thatcher, as well as punish the narrator for not stopping school.

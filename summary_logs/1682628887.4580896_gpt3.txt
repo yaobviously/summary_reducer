@@ -1,0 +1,17 @@
+PROMPT:
+
+Write a general summary or overview of the following.
+
+
+Tom Sawyer and Huck Finn devise a plan to help Jim escape from prison. They make a rope ladder out of their sheets and gather other items such as tin plates and a white shirt to help Jim escape. They also decide to use case-knives to dig the foundations out from under the cabin, but eventually give up and use picks instead. They sneak into Jim's cabin late at night and explain their plan to him. They acquire items such as a tin washpan and two shingle-nails for Jim to use, then drop a pewter spoon into Uncle Silas's coat pocket. Finally, they make a witch-pie for the hounds that are guarding Jim.
+Tom Sawyer, Huck, and Jim are trying to devise a plan to help Jim escape from slavery. They make a rope ladder, a shirt, a sheet, a spoon, and candles, as well as a pie with a rope ladder inside of it. To make the escape look more realistic, they decide to carve a 'mournful inscription' into a rock. Tom suggests they get a grindstone from the mill and use it to carve the inscription and make tools for their escape. Jim is also encouraged to tame a rattlesnake and use a jews-harp to train rats for his escape. In the end, Jim is able to escape successfully with the help of Tom Sawyer and Huck.
+Tom Sawyer and Huck Finn devise a plan to help Jim, a runaway slave, escape captivity. They use a variety of tactics, including disguises and false keys, to help Jim escape. After sneaking out of the house, they make their way to the lean-to where Jim is waiting for them. They are followed by dogs, but manage to escape to the mill and free Jim.
+
+
+GENERAL SUMMARY OR OVERVIEW:
+
+==========
+
+RESPONSE:
+
+Tom Sawyer and Huck Finn devise a plan to help Jim, a runaway slave, escape captivity. They use a variety of tactics, including disguises and false keys, to help Jim escape. They also make a rope ladder out of their sheets, gather other items such as tin plates and a white shirt to help Jim escape, and create a witch-pie for the hounds that are guarding Jim. After sneaking out of the house, they make their way to the lean-to where Jim is waiting for them and use a grindstone from the mill to carve a 'mournful inscription' into a rock and make tools for their escape. In the end, Jim is able to escape successfully with the help of Tom Sawyer and Huck.

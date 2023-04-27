@@ -1,0 +1,16 @@
+PROMPT:
+
+Write an executive summary of the following:
+
+
+In this chapter, Huck and Jim are on the run after freeing Jim from slavery. They come across a village and Huck goes to find a doctor to help Tom, who has been shot in the leg. After finding a doctor, they devise a plan to keep him from knowing where they are. When they get back to the village, Huck is surprised to find his uncle there. He lies about where they have been and they all go back home, where Aunt Sally is relieved to see them. Meanwhile, Jim is captured and taken back to the cabin he was held in before, but the old doctor defends his character and he is eventually returned with more chains.
+Tom Sawyer and Huck Finn, two young boys, successfully manage to free Jim, a runaway slave, from captivity. With the help of Aunt Polly and Uncle Silas, Jim is rewarded with forty dollars for his faithful service. Tom then suggests they all go on an adventure to the Indian Territory, and Huck reveals that he doesn't have enough money to fund the trip. Fortunately, Tom reveals that his Pap has left six thousand dollars behind. With this money, the three of them prepare to embark on their two-week adventure.
+
+
+EXECUTIVE SUMMARY:
+
+==========
+
+RESPONSE:
+
+Tom Sawyer and Huck Finn, two young boys, successfully free Jim, a runaway slave, from captivity. With the help of Aunt Polly and Uncle Silas, they are rewarded with forty dollars for their faithful service. Tom then suggests they all go on an adventure to the Indian Territory, and reveals that his Pap has left six thousand dollars behind. With this money, the three of them embark on their two-week adventure. Along the way, they come across a village and Huck goes to find a doctor to help Tom, who has been shot in the leg. When they get back to the village, Huck is surprised to find his uncle there. He lies about where they have been and they all go back home, where Aunt Sally is relieved to see them. However, Jim is captured and taken back to the cabin he was held in before, but the old doctor defends his character and he is eventually returned with more chains.

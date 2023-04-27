@@ -1,0 +1,16 @@
+PROMPT:
+
+Write an executive summary of the following:
+
+
+This story follows the adventures of two boys, Tom and Sid, as they attempt to help a runaway slave, Jim, escape. They plan and execute a daring escape plan involving stealing items from Aunt Sally's house, making fake coffins, and sending in a rope ladder in a pie. In the end, Jim is set free and Tom and Sid are proud of their accomplishment. However, their celebration is cut short when Aunt Polly arrives and reveals that Jim has been recaptured and is now back in the cabin on bread and water. Tom is outraged by this news and declares that he will go free Jim himself.
+Tom Sawyer and Huck Finn have successfully managed to free Jim, a slave, from captivity. Aunt Polly and Uncle Silas are overjoyed and reward Jim with forty dollars for his faithful service. Tom then suggests that the three of them go on an adventure to the Indian Territory for two weeks. Huck reveals that he doesn't have enough money to fund the trip but Tom reveals that his Pap has left six thousand dollars behind. Jim then reveals that his Pap is not coming back. The novel concludes with Tom almost fully recovered from his injury and the three of them preparing to embark on their adventure.
+
+
+EXECUTIVE SUMMARY:
+
+==========
+
+RESPONSE:
+
+Tom Sawyer and Huck Finn, two young boys, successfully manage to free Jim, a runaway slave, from captivity. With the help of Aunt Polly and Uncle Silas, Jim is rewarded with forty dollars for his faithful service. Tom then suggests they all go on an adventure to the Indian Territory, and Huck reveals that he doesn't have enough money to fund the trip. Fortunately, Tom reveals that his Pap has left six thousand dollars behind. With this money, the three of them prepare to embark on their two-week adventure.

@@ -1,0 +1,17 @@
+PROMPT:
+
+Write a general summary or overview of the following.
+
+
+The narrator is searching for his runaway slave, Jim. He meets two men who have lost their raft and are looking for a way to make money. The narrator promises not to blow their cover in exchange for information on where to find Jim. He sets off on foot to the back country and finds the plantation of Silas Phelps. The place is quiet and Sunday-like, with hounds asleep in the sun. He is met by a nigger woman with a rolling pin in her hand, and eventually makes friends with the hounds. He eventually finds out that Jim was sold to Abram Foster, who lives forty miles away.
+Tom Sawyer has just arrived in town and is greeted with joy by his Aunt Sally. She is eager to hear all about his family and he tells her everything he can think of. Meanwhile, her husband is worried about where Tom has been and why he wasn't met on the road. Eventually, Aunt Sally realizes that it is Tom and they celebrate his arrival with joy.
+Tom Sawyer is pretending to be a stranger named William Thompson and is taken in by a family. He has been trying to steal a slave named Jim from slavery and has asked his friend to help him. The family offers to take Tom to the place he was looking for and he agrees. They take him in for dinner and he talks about his home in Hicksville, Ohio. Tom's friend eventually comes to pick him up and they continue on their mission to help Jim escape.
+
+
+GENERAL SUMMARY OR OVERVIEW:
+
+==========
+
+RESPONSE:
+
+The narrator is on a mission to find his runaway slave, Jim. Along the way he meets two men who help him in exchange for secrecy. He eventually finds Jim at a plantation and discovers that he has been sold to Abram Foster, who lives forty miles away. Tom Sawyer arrives in town and greets his Aunt Sally with joy. He is pretending to be a stranger named William Thompson and is taken in by a family. He has been trying to steal Jim from slavery and his friend helps him on his mission. The family takes Tom in for dinner and then his friend picks him up so they can continue their mission to help Jim escape.

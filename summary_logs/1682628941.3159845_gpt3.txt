@@ -1,0 +1,17 @@
+PROMPT:
+
+Write an executive summary of the following:
+
+
+The Adventures of Huckleberry Finn is a classic novel by Mark Twain set in the Mississippi Valley about forty to fifty years ago. It follows the adventures of Huck, a young boy who runs away from his home in an effort to escape the strict rules of his guardians. Along his journey, Huck meets Tom Sawyer and they find a hidden stash of money. He also encounters a variety of characters, dialects, and emotions. In this chapter, Huck is adjusting to life with the Widow Douglas and discovers a fortune of money. He then goes to see Jim, Miss Watson's slave, and finds his father at home. An old man then enters the house demanding money and Judge Thatcher and the widow go to court to try to take Huck away from his father. To escape, Huck gathers supplies and sets off in a drift-canoe, leaving clues that make it seem like he was attacked. Jim and the narrator then travel down the Missouri River on a raft, encountering two men discussing what to do with a man they have tied up and setting off on their journey. They eventually reach Cairo and are welcomed into a family's home in the country, where Huck is reunited with his father.
+The story follows the adventures of Emmeline Grangerford, two young boys, Buck and Joe, and the King and Duke of Bilgewater. They experience the beauty of nature, pass by steamboats, rafts, and scows, and meet an old man with a slouch hat. The two men claiming to be a king and a duke are eventually exposed as frauds. Later, the group must investigate Peter Wilks' corpse in order to determine his true identity and uncover a bag of gold on his chest. In the end, the boys find freedom on the raft and the Duke finds solace in his companions.
+Tom Sawyer and Huck Finn devise a plan to help Jim, a runaway slave, escape captivity. They use a variety of tactics, including disguises and false keys, to help Jim escape. After successfully freeing Jim, they are rewarded with forty dollars and embark on an adventure to the Indian Territory. Along the way, they come across a village where Huck finds a doctor to help Tom, who has been shot in the leg. When they get back to the village, Huck is surprised to find his uncle there. He lies about where they have been and they all go back home, where Aunt Sally is relieved to see them. Unfortunately, Jim is captured and taken back to the cabin he was held in before, but the old doctor defends his character and he is eventually returned with more chains.
+
+
+EXECUTIVE SUMMARY:
+
+==========
+
+RESPONSE:
+
+The Adventures of Huckleberry Finn is a classic novel by Mark Twain set in the Mississippi Valley about forty to fifty years ago. It follows the adventures of Huck, a young boy who runs away from his home in an effort to escape the strict rules of his guardians. Along his journey, Huck meets Tom Sawyer and they find a hidden stash of money. They then devise a plan to help Jim, a runaway slave, escape captivity. After successfully freeing Jim, they are rewarded with forty dollars and embark on an adventure to the Indian Territory. In the end, Huck is reunited with his father while Jim is returned with more chains. The story highlights the beauty of nature, dialects, and emotions while exploring themes of freedom, justice, and morality.

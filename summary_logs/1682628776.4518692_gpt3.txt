@@ -1,0 +1,17 @@
+PROMPT:
+
+Write a general summary or overview of the following.
+
+
+Tom Sawyer and Huck Finn are discussing how to help Jim escape from prison. Tom believes that Jim needs a rope ladder, and they decide to make one out of their sheets. Tom also suggests they make a pen out of an old pewter spoon or a piece of an old iron barrel-hoop and make Jim's ink out of their own blood. They also decide to get Jim some tin plates and a white shirt. They borrow the items and hide them in a sack, then talk about needing case-knives in order to dig the foundations out from under the cabin.
+Tom Sawyer and Huck Finn devise a plan to break Jim out of prison. They decide to dig him out with case-knives, but realize that this would take too long. They then decide to use picks and pretend they used the case-knives, and also steal some items to help Jim escape. They dig for a while, but eventually give up and decide to use the picks. They then plan on how to get the items to Jim, and eventually come up with a plan.
+Tom Sawyer and Huck Finn sneak into Jim's cabin late at night to free him from his chains. Tom explains their plan to Jim, which involves sneaking items in to him from outside the cabin by way of Uncle Silas and Aunt Sally's pockets and apron strings. Jim agrees to the plan, and they all have a good time talking before heading home. The next morning, they acquire a tin washpan and steal some flour for a witch-pie, which Tom plans to make for the hounds that are guarding Jim. They also acquire two shingle-nails for Jim to use to scratch his name and sorrows onto the dungeon walls with, and place them in Uncle Silas's hat and Aunt Sally's apron pocket. Finally, they drop a pewter spoon into Uncle Silas's coat pocket.
+
+
+GENERAL SUMMARY OR OVERVIEW:
+
+==========
+
+RESPONSE:
+
+Tom Sawyer and Huck Finn devise a plan to help Jim escape from prison. They make a rope ladder out of their sheets and gather other items such as tin plates and a white shirt to help Jim escape. They also decide to use case-knives to dig the foundations out from under the cabin, but eventually give up and use picks instead. They sneak into Jim's cabin late at night and explain their plan to him. They acquire items such as a tin washpan and two shingle-nails for Jim to use, then drop a pewter spoon into Uncle Silas's coat pocket. Finally, they make a witch-pie for the hounds that are guarding Jim.

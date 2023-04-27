@@ -1,0 +1,17 @@
+PROMPT:
+
+Write a general summary or overview of the following.
+
+
+The narrator is in a canoe on the river and is planning to hide on Jackson's Island. He is successful in hiding from his father and eventually makes it to the island. He spends three days and nights exploring the island, catching fish to eat, and watching the smoke from the cannon fire that people were using to search for his body. On the fourth day, he hears horses coming and hides in his canoe, which turns out to be Pap, Judge Thatcher, Bessie Thatcher, Jo Harper, Tom Sawyer, his old Aunt Polly, Sid and Mary. They are searching for a corpse but eventually give up and go home. The narrator is relieved that nobody else is going to come looking for him and continues living on the island for some time.
+Jim and Huck are on an island in the river and have a summer storm. After the storm passes, they find a frame house down the river and explore it. Inside they find a dead man, as well as other items such as old cards, whisky bottles, masks, clothing, and a tin lantern. The narrator brings up a snake skin he found and Jim warns him of the bad luck associated with it. Jim is then bitten by a rattlesnake in their camp and recovers from the bite. The narrator then decides to cross the river to find out what's going on in town and disguises himself as a girl. He meets a woman in an abandoned shanty who helps him find his uncle Abner Moore.
+This passage follows two characters, Jim and the narrator, as they travel down the Missouri River on a raft. Along the way, they take advantage of the darkness to stop in small villages and buy food, borrow items from cornfields, and catch fish. They also come across a steamboat that has wrecked on a rock, and debate whether or not to explore it. Meanwhile, a woman stops a runaway 'prentice and provides them with a snack and advice before they set off on their journey. The woman also reveals that they are in St. Petersburg, not Goshen as they had thought. Finally, Jim and the narrator board the steamboat in search of something of value in the captain's stateroom.
+
+
+GENERAL SUMMARY OR OVERVIEW:
+
+==========
+
+RESPONSE:
+
+Jim and the narrator are travelling down the Missouri River on a raft. Along the way, they take advantage of the darkness to stop in small villages and buy food, borrow items from cornfields, and catch fish. They also come across a steamboat that has wrecked on a rock, and debate whether or not to explore it. A woman stops a runaway 'prentice and provides them with a snack and advice before they set off on their journey. The woman also reveals that they are in St. Petersburg, not Goshen as they had thought. Finally, Jim and the narrator board the steamboat in search of something of value in the captain's stateroom.

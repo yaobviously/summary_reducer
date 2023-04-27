@@ -1,0 +1,17 @@
+PROMPT:
+
+Write a general summary or overview of the following.
+
+
+Two men, Bill and Jake Packard, are discussing what to do with Jim Turner, who they have tied up and is begging them not to hurt him. Jake suggests that they leave him on the wreck and let him drown, as it would be a better fate than killing him. They start to gather their belongings to leave, and Tom Sawyer and Jim hear them. Tom comes up with a plan to find their boat and set it adrift so the men can't escape from the wreck. They search the ship but can't find the boat until they get to the cross-hall door, where they discover it.
+In this passage, a young boy is recounting his journey down the river on a raft with his friend Jim. They are trying to escape from a gang of criminals who have stolen their skiff, and they have just come across the wreckage of the Walter Scott. The boy then spots a light on shore and decides to go ashore to get help. He finds a ferryboat watchman and tells him that his family and Miss Hooker are stuck on the wreckage and in need of help. The watchman agrees to take his ferryboat up to the wreckage, and the boy goes off to find Miss Hooker's uncle, Jim Hornback, who will pay for the rescue mission.
+In this chapter, Huck and Jim discuss kings, dukes, earls, and other royalty. Huck explains to Jim how these people live, how they are given money and don't have to do anything, and how they keep their wives in a harem. Jim is unimpressed, saying that Solomon was not wise for wanting to cut a baby in half just because he had so many children. They then discuss Louis Sixteen, the French king who lost his head.
+
+
+GENERAL SUMMARY OR OVERVIEW:
+
+==========
+
+RESPONSE:
+
+This chapter follows two men, Bill and Jake Packard, who are discussing what to do with Jim Turner, who they have tied up. They eventually decide to leave him on the wreck and let him drown. Meanwhile, Tom Sawyer and Jim hear them and devise a plan to find their boat and set it adrift so they can't escape. Later, a young boy recounts his journey down the river on a raft with his friend Jim, who are trying to escape from a gang of criminals who have stolen their skiff. Finally, Huck and Jim discuss kings, dukes, earls, and other royalty, as well as Louis Sixteen, the French king who lost his head.

@@ -1,0 +1,187 @@
+AI go Foom?
+By Foom I refer to the specific idea/model (as popularized by EY, MIRI, etc) that near future AGI will undergo a rapid intelligence explosion (hard takeoff) to become orders of magnitude more intelligent (ex from single human capability to human civilization capability) - in a matter of only days or hours - and then dismantle humanity (figuratively as in disempower or literally as in "use your atoms for something else"). Variants of this idea still seems important/relevant drivers of AI risk arguments today: Rob Besinger recently says "STEM-capable artificial general intelligence (AGI) is likely to vastly outperform human intelligence immediately (or very quickly)."
+
+I believe the probability of these scenarios is probably small and the current arguments lack technical engineering prowress concerning the computational physics of - and derived practical engineering constraints on - intelligence. Nonetheless these hypothetical scenarios where the AI system fooms suddenly (perhaps during training) appear to be the most obviously dangerous, as they seemingly lead to a "one critical try" situation where humanity can't learn and adapt from alignment failures.
+
+During the manhattan project some physicists became concerned about the potential of a nuke detonation igniting the atmosphere. Even a small non-epsilon possibility of destroying the entire world should be taken very seriously. So they did some detailed technical analysis which ultimately output a probability below their epsilon allowing them to continue on their merry task of creating weapons of mass destruction.
+
+Today of course there is another option, which you could consider the much more detailed version of analysis: we can (and do) test nuclear weapons in simulations, and a simulation could be used to assess atmosphere ignition risks. This simulation analogy carries over directly as my mainline hope for safely aligning new AGI. But as it currently doesn't seem the world is coordinating towards the effort to standardize on safe simulation testing, we are left with rough foom arguments and their analysis .
+
+In the 'ideal' scenario, the doom foomers (EY/MIRI) would present a detailed technical proposal that could be risk evaluated. They of course have not provided that, and indeed it would seem to be an implausible ask. Even if they were claiming to have the technical knowledge on how to produce a fooming AGI, providing that analysis itself could cause someone to create said AGI and thereby destroy the world![1] In the historical precedent of the manhattan project, the detailed safety analysis only finally arrived during the first massive project that succeeded at creating the technology to destroy the world.
+
+So we are left with indirect, often philosophical arguments, which I find unsatisfying. To the extent that EY/MIRI has produced some technical work related to AGI[2], I find it honestly to be more philosophical than technical, and in the latter capacity more amateurish than expert.
+
+I have spent a good chunk of my life studying the AGI problem as an engineer (neuroscience, deep learning, hardware, GPU programming, etc), and reached the conclusion that fast FOOM is possible but unlikely. Proving that of course is very difficult, so I instead gather much of the evidence that led me to that conclusion. However I can't reveal all of the evidence, as the process is rather indistinguishable from searching for the design of AGI itself.[3]
+
+The valid technical arguments for/against the Foom mostly boils down to various efficiency considerations.
+
+Quick background: pareto optimality/efficiency
+Engineering is complex and full of fundamental practical tradeoffs:
+
+larger automobiles are safer via higher mass, but have lower fuel economy
+larger wings produce more lift but also more drag at higher speeds
+highly parallel circuits can do more total work per clock and are more energy efficient but the corresponding parallel algorithms are more complex to design/code, require somewhat more work to accomplish a task, delay/latency becomes more problematic for larger circuits, etc
+adiabatic and varying degrees of reversible circuit designs are possible but they are slower, larger, more complex, less noise tolerant, and still face largely unresolved design challenges with practical clock synchronization, etc
+quantum computers are possible but are enormously challenging to scale to useful size, are incredibly sensitive to noise/heat, and don't necessarily provide useful speedup for most problems of interest
+Pareto optimality is when a design is on a pareto surface such that no improvement in any key variable/dimension of interest is possible without sacrifice in some other important variable/dimension.
+
+In a nascent engineering field solutions start far from the pareto frontier and evolve towards it, so in the early days strict true efficiency improvements are possible: improvements in variables of interest without any or much sacrifice in other variables of interest. But as a field matures these low hanging fruit are tapped out, and solutions evolve towards the pareto frontier. Moore's Law is the canonical example of starting many OOM from the pareto frontier and steadily relentlessly climbing towards it, year after year.
+
+The history of video game evolution provides an interesting case history in hardware/software coevolution around pareto frontiers. Every few years the relentless march of moore's law produced a new hardware platform with several times greater flops/bandwidth/RAM/etc which could be used to just run last generation algorithms faster, but is often best used to run new algorithms. In short each new hardware generation partially reset the software pareto frontier. The key lesson here is the software lag was/is short, and it does not take humans decades to explore the space of what is possible with each new hardware generation.
+
+The potential of the old Atari hardware was fully maxed out long ago: no engineer, no matter how clever, is at all likely to find a way to run unreal engine 5 on even a Geforce 2, let alone an Atari 2600.
+
+EY/MIRI also rely on the claim that human brains are "riddled with cognitive biases" that AGI will not have. I am skeptical of the strong cognitive biases claims and have argued that they stem from a flawed and now discredited theory of the brain. Regardless it is rather obvious that these so called cognitive biases did not prevent programmers like John Carmack from rather quickly reaching the software pareto frontier for each new hardware generation. Moreover, to the extent cognitive biases are real, the AGI we actually have simply reproduces them, because we train AI on human thoughts, distilling human minds: humans in produces humans out.[4] I predicted this in advance and the evidence continues to pile up for my position.
+
+Efficiency drives intelligence
+Intelligence for our purposes - the kind of intelligence AI doomers worry about - is dangerous because it provides capacity to optimize the world. We could specifically quantize intelligence power as the mutual information between an agent's potential current actions and future observable states of the world, let's denote that 
+I
+.
+
+High intelligence power requires high computational power, because high mutual information between potential current actions and future observable states only comes from modeling/predicting the future consequences of current actions. This in turn requires approx bayesian inference over observations to learn a powerful efficient model of the world - ie a computationally expensive learning/training process. This is always necessarily some efficient scalable (and thus highly parallel) approximation to solomonoff induction (and in practice, the useful approximations always end up looking like neural networks ).
+
+Foom thus requires an AGI to rapidly acquire many OOM increase in some combination of compute resources (flops, watts), software efficiency in intelligence per unit compute ( 
+I
+/flop ) or hardware efficiency (flops/J or flops/$), as the total intelligence will be limited by something like:
+
+I
+ = min(
+I
+/flop * flop/J *J, 
+I
+/flop * flop/$ *$)
+
+Most of the variance around feasibility of very rapid OOM improvement seems to be in software efficiency, but let's discuss hardware first.
+
+EY on brain efficiency and the scope for improvement
+EY believes the brain is inefficient by about 6 OOM:
+
+Which brings me to the second line of very obvious-seeming reasoning that converges upon the same conclusion - that it is in principle possible to build an AGI much more computationally efficient than a human brain - namely that biology is simply not that efficient, and especially when it comes to huge complicated things that it has started doing relatively recently.
+
+ATP synthase may be close to 100% thermodynamically efficient, but ATP synthase is literally over 1.5 billion years old and a core bottleneck on all biological metabolism. Brains have to pump thousands of ions in and out of each stretch of axon and dendrite, in order to restore their ability to fire another fast neural spike. The result is that the brain's computation is something like half a million times less efficient than the thermodynamic limit for its temperature - so around two millionths as efficient as ATP synthase. And neurons are a hell of a lot older than the biological software for general intelligence!
+
+The software for a human brain is not going to be 100% efficient compared to the theoretical maximum, nor 10% efficient, nor 1% efficient, even before taking into account the whole thing with parallelism vs. serialism, precision vs. imprecision, or similarly clear low-level differences.
+
+I see two main ways to interpret this statement: EY could be saying 1.) that the brain is ~6 OOM from a pareto optimality frontier, or 2.) that the brain is ~6 OOM from the conservative thermodynamic limit for hypothetical fully reversible computers.
+
+The last paragraph in particular suggests EY believes something more like 1.) - that it is possible to build something as intelligent as the brain that uses 6 OOM less energy, without any ridiculous tradeoffs in size, speed, etc. I believe that is most likely what he meant, and thus he is mistaken.
+
+If the brain performs perhaps 1e14 analog synaptic spike ops/s in 10W, improving that by 6 OOM works out to just 1eV per synaptic spike op[5] - below the practical landauer bound for reliable irreversible computation given what it does. A hypothetical fully reversible computer could likely achieve that nominal energy efficiency, but all extant research indicates it would necessarily make various enormous tradeoffs somewhere: size (ex optical computers have fully reversible interconnect but are enormous), error resilience/correction, exotic/rare expensive materials, etc and the requirement for full reversible logic induces much harder to quantify but probably very limiting constraints on the types of computations you can even do (quantum computers are reversible computers that additionally exploit coherence, and quantum computation does not provide large useful speedup for all useful algorithms).
+
+So either EY believes 1.) the brain is just very far from the pareto efficiency frontier - just not very well organized given its design constraints - in which case he is uninformed, or 2.) that the brain is near some pareto efficiency frontier but very far from the thermodynamic limits for theoretical reversible computers. If interpretation 2 is correct then he essentially agrees with me which undermines the doom argument regardless.
+
+The fact that the brain is OOM from the conservative theoretical limits for thermodynamic efficiency does not imply it is overall inefficient as a computational hardware for intelligence, at least in how I or many would use the term - anymore than the fact that your car being far from the hard limit for areodynamic efficiency or the speed of light implies it is overall inefficient as a transportation vehicle.
+
+Just preceding the 6 OOM claim, EY provides a different naive technical argument as to why he is confident that it is possible to create a mind more powerful than the human brain using much less compute:
+
+Since modern chips are massively serially faster than the neurons in a brain, and the direction of conversion is asymmetrical, we should expect that there are tasks which are immensely expensive to perform in a massively parallel neural setup, which are much cheaper to do with serial processing steps, and the reverse is not symmetrically true.
+
+A sufficiently adept builder can build general intelligence more cheaply in total operations per second, if they're allowed to line up a billion operations one after another per second, versus lining up only 100 operations one after another. I don't bother to qualify this with "very probably" or "almost certainly"; it is the sort of proposition that a clear thinker should simply accept as obvious and move on.
+
+A modern GPU or large CPU contains almost 100 billion transistors (and the cerebras wafer chip contains trillions). A pure serial processor is - by definition - limited to executing only a single instruction per clock cycle, and thus unnecessarily wastes the vast potential of a sea of circuitry. The pure parallel processor instead can execute billions of operations per clock cycle.
+
+Serial programming is a convenient myth, a facade used to ease programming. Physics in practice only permits efficient parallel computation. A huge 100 billion circuit can - in one cycle - simulate serial computation to run one op of a javascript program, or it could perform tens perhaps hundreds of thousands of low precision flops in tensorcores, or billions of operations in a neuromorphic configuration.
+
+There is a reason Nvidia eclipsed Intel in stock price, and as I predicted long ago moore's law obviously becomes increasingly parallel over time.
+
+The DL systems which are actually leading to AGI - as I predicted (and EY did not) - are in fact all GPU simulations of brain-inspired low depth highly parallel circuits. Transformers are not even recurrent, and in that sense are shallower than the brain.
+
+Rapid hardware leverage probably requires nanotech
+The lead time for new GPUs is measured in months or years, not days or weeks, and high end CMOS tech is approaching a pareto frontier regardless.
+
+Many OOM increase in compute also mostly rules out scaling up through GPU rental or hacking operations, because the initial AGI training itself will likely already require a GPT4 level or larger supercomputer[6], and you can't hack/rent your way out to a many OOM larger supercomputer because it probably doesn't exist, and systems of this scale are extensively monitored regardless. The difference in compute between my home GPU rig and the world's largest supercomputers is not quite 4 OOM.
+
+So EY puts much hope in nanotech, which is a completely forlorn hope, because nanotech is probably mostly a pipe dream, biological cells are already pareto optimal nanobots, and brains are already reasonably pareto-efficient in terms of the kind of intelligence you can build from practical nanobots (ie bio cells). Don't mistake substitute any of these arguments for their strawmen: this doesn't mean brains are near conservative thermodynamic energy efficient limits which only apply to future exotic reversible computers, this doesn't mean that the human brain is perfectly optimized for intelligence, etc.
+
+Instead it simply means that the nanotech path is very unlikely to result in the required many OOM in a short amount of time. The types of nanotech that are most viable are very similar to biology so you just end up with something that looks like a million vat-brains in a supercomputer, but the kind of brains you can build out of that toolkit sacrifice speed for energy efficiency and so would take years/decades to learn/train - useless for foom.
+
+Bounding hardware foom (without software improvement)
+The brain is efficient, so absent many OOM from software (bounded in the next section), the requisite many OOM must come from hardware. As nanotech is infeasible, and foundry ramp up takes much longer than the weeks/months of foom, any many OOM rapid ramp up from hardware must come from rapid acquisition/control of current hardware (ie GPUs).
+
+Foom results from recursive self improvement which requires that the AGI design a better initial architectural prior and or learning algorithms and then run a new training cycle. So we can bound a step of RSI by bounding compute requirements for retraining cycles.[7]
+
+Nvidia dominates the AI hardware landscape and produces only a few 100k high end GPUs suitable for AI per year[8], and they depreciate in a few years, so the entire pool of high end GPUs is less than 1M. If the brain is reasonably efficient then training just human-level AGI probably requires 1e24 to 1e26 flops[9]. Even if an AGI gained control of all 1M GPUs somehow, this would only produce about 1e26 flops per day, or about 4e24 flops per hour, which puts a bound on the duration of the first cycle of recursion. To reach the next level of capability, it will then need to expend 10x compute (or whatever your assumed growth factor is - the gap between GPTNs seems to be 100x).
+
+So if human-level requires 1e26 flops training, using all the world's compute doesn't quite achieve 1 level above human in a week[10]. But if human-level requires only 1e24 flops, then perhaps 3 levels above human can be achieved in a week.
+
+I put a low probability on the specific required combination of:
+
+an initial near human-level AGI having the funds/hacks to acquire a very large fraction of GPU compute for even a day (I estimate rental liquidity at 10%, and cost of renting all flagship GPUs is over $1M/hour, $20M/day )
+a huge design advantage over what other teams are already doing
+distributed training across all of earth not having major disadvantages compared to centralized training
+human-level AGI training at the lower end (1e24 flops or less)
+Without 3 in particular - highly efficient distributed training - the max useful compute be 10x to 100x less and thus minimal recursion cycle time will be 10x to 100x longer.
+
+Obviously as moore's law continues that multiplies GPU power per year, eventually noticeably shifting these estimates. However Moore's law is already soon approaching the limits of miniaturization, and regardless every year of hardware increase without foom also raises the bar for foom by increasing the (AI assisted) capabilities of our human/machine civilization.
+
+So the core uncertainty boils down to how much compute does it require to surpass humans?
+
+The human brain has perhaps 10TB of size/capacity, around ~1e14 sparse synaptic ops/s throughput (equivalent to perhaps 1e16 dense flops/s) , and a 1e9s (32 year) training cycle - so roughly (1e23/1e25 flops, 1e23/1e25 memops). A high end GPU has 100GB capacity, 1e15 dense flop/s but only ~1e12 memops/s. Thus I estimate the equivalent ANN training compute at 1e24 to 1e26 flops equivalent on GPUs (variance depending mostly on important of mem bandwidth and alu/mem ratio interacting with software/arch designs). The largest general ANNs trained so far like GPT4 have used perhaps (1e25 flops, 1e22 memops) and achieve proto-AGI.
+
+Obviously architecture/algorithms determine whether a 1e25 flops computation results in an AGI or a weather simulation or noise, but the brain lifetime net training compute sets expectations for successful training runs.
+
+Many OOM sudden increase in software efficiency unlikely
+The software for a human brain is not going to be 100% efficient compared to the theoretical maximum, nor 10% efficient, nor 1% efficient, even before taking into account the whole thing with parallelism vs. serialism, precision vs. imprecision, or similarly clear low-level differences.
+
+Evolution has ran vast experiments for hundreds of millions of years and extensively explored the design space of computational circuits for intelligence. It found similar general solutions again and again across multiple distant lineages. Human researchers have now copied/replicated much of that exploratory search at higher speed, and (re)discovered the same set of universal solutions: approximate bayesian inference using neural networks.
+
+Thus the prior that there is some dramatically better approach sufficient to suddenly provide many OOM improvement is now low. Giant inscrutable matrices is probably about as good as it gets, as I predicted a while ago.
+
+A many OOM sudden increase in software efficiency requires a rare isolated incredibly difficult to find region in design space containing radically different designs that are still fully general but also many OOM more efficient on current hardware - hardware increasingly optimized for the current paradigm.
+
+Intelligence requires/consumes compute in predictable ways, and progress is largely smooth.
+
+Every year that passes without foom is further evidence against its possibility, as we advance ever closer to the vast expanse of the pareto frontier. Every year of further smooth progress exploring the algorithmic landscape we gather more evidence that the big many-OOM better design is all that much harder to find, all while the requisite bar to vastly outcompete our increasingly capable human/AI cyborg civilization rises.
+
+On Biology
+biology is simply not that efficient, and especially when it comes to huge complicated things that it has started doing relatively recently.
+
+Biology has been doing neural networks for half a billion years, so EY's primary argument for the FOOM here is the claim that biology/evolution is just not that efficient.
+
+Biology is quite efficient, for any reasonable meaning of efficient. Here are a few interesting examples (the first two cherrypicked in the adversarial sense that they have been brought up before here as evidence of inefficiency of evolution):
+
+The best (impractical) research solar cells reach 47.6% efficiency[11], compared to 46.8% for this (also probably impractical) Chlorella biomass experiment.
+The inverted retina, often claimed as evidence of evolutionary optimization failure, is in fact superior or at least equally effective to the everted retina[12], and is limited by the physics of light regardless.
+Biological cells are highly efficient as physical nanobots, operating near thermodynamic limits for most key operations such as replication
+
+Lest anyone has forgotten, the brain is generally efficient
+
+About AlphaZero
+In AGI Ruin, EY uses AlphaZero as a more specific example of the potential for large software efficiency advantage of AGI:
+
+Alpha Zero blew past all accumulated human knowledge about Go after a day or so of self-play, with no reliance on human playbooks or sample games.
+
+AlphaZero's Go performance predictably eclipsed humans and then its predecessor AlphaGo zero when it had trained (using 5000 TPUs) on far more Go games than any expert human lifetime's. Like other largescale DL systems, it shows zero advantage over the human brain in terms of data efficiency in virtual/real experience consumed, and achieves higher capability by training on vastly more data.
+
+Go is extremely simple: the entire world of Go can be precisely predicted by trivial tiny low depth circuits/programs. This means that the Go predictive capability of a NN model as a function of NN size completely flatlines at an extremely small size. A massive NN like the brain's cortex is mostly wasted for Go, with zero advantage vs the tiny NN AlphaZero uses for predicting the tiny simple world of Go.
+
+Games like Go or chess are far too small for a vast NN like the brain, so the vast bulk of its great computational power is wasted. The ideal NN for these simple worlds is very small and very fast - like AlphaZero. So for these domains the ANN system has a large net efficiency advantage over the brain.
+
+The real world is essentially infinitely vaster and more complex than Go, so the model scaling has no limit in sight - ever larger NNs result in ever more capable predictive models, bounded only by the data/experience/time/compute required to train them effectively. The brain's massive size is ideally suited for modeling the enormous complexity of the real world. So when we apply the same general NN techniques to the real world - via LLMs or similar - we see that even when massively scaled up on enormous supercomputers to train with roughly similar compute than that used by the brain during a lifetime[13], on orders of magnitude more data - the resulting models are only able to capture some of human intelligence; they are not yet full AGI. Obviously AGI is close, but will require a bit more compute and/or efficiency.
+
+There are and will continue to be many specialist subsystems NNs (alphacode, alphafold, stable diffusion, etc) trained on specific subdomains that greatly exceed human performance through using specialized smaller models trained on far more data, but general performance in the real world is the key domain for which huge NNs like the brain are uniquely suited.
+
+This has nothing to do with the brain's architectural prior, it's just a relation on how compute is invested in size vs speed and the resulting scaling functions with respect to world complexity.
+
+Seeking true Foom
+In some sense the Foom already occurred - it was us. But it wasn't the result of any new feature in the brain - our brains are just standard primate brains, scaled up a bit[14] and trained for longer.
+
+Human intelligence is the result of a complex one time meta-systems transition: brains networking together and organizing into families, tribes, nations, and civilizations through language. Animal brains learn for a lifetime then die without transmission, humans are turing universal generalists with cultural programming. Humans are in fact not much smarter than apes sans culture/knowledge. That transition only happens once - there are not ever more and more levels of universality or linguistic programmability. AGI does not FOOM again in the same way.
+
+As I and others predicted[15], AGI will be (and already is) made from the same stuff as our minds, literally trained on externalized human thoughts, distilling human mindware via brain-inspired neural networks trained with massive compute on one to many lifetimes of internet data. The post training/education capability of such systems is a roughly predictable function of net training compute.
+
+AGI systems are fundamentally different from humans in a few key respects:
+
+By using enormous resources, they can operate much faster than us (and indeed transformer based LLMs already are trained with many thousand-fold time acceleration), however this requires staying in the ultra-parallel low circuit depth regime, constraining AGI to brain-like designs.
+They are potentially immortal and can continue to grow and absorb knowledge indefinetly
+These two main differences will lead to enormous transformation, but probably not the foom Yudkowsky has expected for 20 some years, which largely seems to be a continuation of his rather miscalibrated model of nanotech:
+
+bribes/persuades some human who has no idea they're dealing with an AGI to mix proteins in a beaker, which then form a first-stage nanofactory which can build the actual nanomachinery.[16]
+
+The analysis in the hardware section leaves open the possibility for some forms of foom, especially if we see signs:
+
+replicating brain performance requires the lower end of compute estimates
+there are large breakthroughs in decentralized training
+large increases in global GPU/accelerator liquidity
+increase in the pace of Moore's Law (rather than the expected decrease)
+Part of my intent in writing this posts is a call for better arguments/analysis. A highly detailed plan for replicating brain performance with less than 1e24 training flops is obviously not something to research/discuss in public, but surely there are better public arguments/analysis for foom that don't noticeably make it more likely.

@@ -1,0 +1,17 @@
+PROMPT:
+
+Write a general summary or overview of the following.
+
+
+The Adventures of Huckleberry Finn is a classic novel by Mark Twain set in the Mississippi Valley about forty to fifty years ago. It follows the adventures of Huck, a young boy who runs away from his home in an effort to escape the strict rules of his guardians. On his journey, he meets up with Tom Sawyer and they find a hidden stash of money. Along the way, Huck encounters a variety of characters and dialects, as well as a range of emotions including loneliness, fear, and joy. The novel ultimately ends with Huck deciding to stay with the Widow Douglas and be respectable, while still retaining his own sense of freedom. In this chapter, Tom Sawyer and the gang of friends come up with an oath and plan to become highwaymen, robbing people on the road and killing them for their watches and money. Miss Watson then explains to Tom that he should help others and not think about himself in order to get spiritual gifts.
+In this chapter of Tom Sawyer, the narrator, Huck Finn, is adjusting to life with the Widow Douglas and comes across a mysterious set of tracks leading to Judge Thatcher's. At Judge Thatcher's, he finds out he has a fortune of over a hundred and fifty dollars. He then goes to see Jim, Miss Watson's slave, who uses a hair-ball to tell Huck's fortune. After returning home, Huck finds his father there. An old man then enters the house and demands money from the narrator, which he does not have. Judge Thatcher and the widow go to court to try to take the narrator away from his father but the new judge says courts shouldn't interfere with families. The old man then goes to Judge Thatcher's house and bullies him, but is unsuccessful in getting the money. The judge then takes the old man into his home and tries to reform him, but he ends up getting drunk and breaking his arm. Finally, the old man goes to court to try and get the money from Judge Thatcher, as well as punish the narrator for not stopping school.
+Huck Finn is trying to escape his father and the widow who are seeking to take him away from his father and put him under the widow's guardianship. He finds an old rusty saw and begins sawing a section of the cabin's log to make an escape. He gathers supplies, including a gun, ammunition, food, and a jug of whisky, in preparation for his journey. Along the way, he comes across a drift-canoe and devises a plan to keep his pursuers at bay by leaving clues that make them think he was attacked. He takes provisions with him before setting off in the canoe.
+
+
+GENERAL SUMMARY OR OVERVIEW:
+
+==========
+
+RESPONSE:
+
+The Adventures of Huckleberry Finn is a classic novel by Mark Twain set in the Mississippi Valley about forty to fifty years ago. It follows the adventures of Huck, a young boy who runs away from his home in an effort to escape the strict rules of his guardians. On his journey, he meets up with Tom Sawyer and they find a hidden stash of money. Huck also encounters a variety of characters, dialects, and emotions along the way. In this chapter, Huck is adjusting to life with the Widow Douglas and discovers a fortune of money. He then goes to see Jim, Miss Watson's slave, and finds his father at home. An old man then enters the house demanding money and Judge Thatcher and the widow go to court to try to take Huck away from his father. The old man then bullies Judge Thatcher but is unsuccessful in getting the money. To escape, Huck gathers supplies and sets off in a drift-canoe, leaving clues that make it seem like he was attacked.

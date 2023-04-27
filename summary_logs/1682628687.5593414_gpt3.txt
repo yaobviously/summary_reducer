@@ -1,0 +1,17 @@
+PROMPT:
+
+Write a general summary or overview of the following.
+
+
+This story is about a young girl named Emmeline Grangerford who was working on what she thought was her greatest picture when she became ill and passed away. The picture was of a young woman in a long white gown, standing on the rail of a bridge ready to jump off, and looking up to the moon with tears running down her face. Emmeline was known for her skill in writing poetry, which she often did about people who had died. The Grangerford family is described as being of the highest aristocracy in the town, and Col. Grangerford is described as a gentleman all over. He had a darkish-pale complexion, black eyes and black hair, and was always well-dressed. Everyone in the family was always well-mannered, and Col. Grangerford had a presence that made people feel confident and at ease.
+The Grangerfords and the Shepherdsons were two families living in the same area who had been feuding for 30 years. The feud had caused a lot of deaths on both sides and continued to be a source of tension between the two families. The Grangerford family consisted of Bob and Tom, two tall men with broad shoulders, Charlotte and Sophia, and their father. The Shepherdsons had five or six families in their clan and were considered to be as high-class as the Grangerfords. One day, Buck and his friend were hunting when they encountered Harney Shepherdson. Buck shot his hat off and they ran away. When they got home, the old gentleman scolded Buck for shooting from behind a bush. Buck explained that it was because of the feud. He also explained what a feud was, how it started, how many people had been killed, and how it continued to this day. Everyone went to church together on Sunday, carrying their guns with them in case of any trouble.
+GPT3 error: This model's maximum context length is 4097 tokens, however you requested 4113 tokens (2113 in your prompt; 2000 for the completion). Please reduce your prompt; or completion length.
+
+
+GENERAL SUMMARY OR OVERVIEW:
+
+==========
+
+RESPONSE:
+
+This story is about Emmeline Grangerford, a young girl who was working on her greatest painting when she became ill and passed away. The painting was of a woman in a long white gown, standing on the rail of a bridge ready to jump off and looking up to the moon with tears running down her face. Emmeline was known for her skill in writing poetry about people who had died. The Grangerfords were a high-class aristocratic family, while the Shepherdsons were another family living in the same area who had been feuding with the Grangerfords for 30 years. This feud had caused many deaths on both sides and continued to be a source of tension between the two families. On Sunday, everyone went to church together carrying their guns in case of any trouble.

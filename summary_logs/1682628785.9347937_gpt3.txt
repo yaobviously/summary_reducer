@@ -1,0 +1,17 @@
+PROMPT:
+
+Write a general summary or overview of the following.
+
+
+Uncle Silas has lost a shirt and a spoon, and when Sally discovers this, she is outraged. After some investigation, Uncle Silas finds the spoon in his pocket and is able to explain the mystery of the missing shirt. However, Sally then discovers that six candles and a sheet are also missing. When a brass candlestick is found to be missing as well, Sally is in a rage. Tom and the narrator take advantage of the situation to plug up all of the rat-holes in the cellar without anyone knowing. When Uncle Silas returns with a candle and a bundle of stuff, he is unable to remember when he had taken the items. Tom and the narrator then sneak away, leaving Uncle Silas to ponder the mystery. Later, when Aunt Sally counts the spoons in the basket, she finds ten instead of nine and is perplexed. Tom suggests that there are only nine spoons, but Aunt Sally insists on counting them again. In the end, it is revealed that Tom has slyly returned one of the spoons to the basket, thus solving the mystery of the missing items.
+Tom, Huck, and Jim are trying to make a rope ladder, a shirt, a sheet, a spoon, and candles to help Jim escape from slavery. They also have to make a pie with a rope ladder inside of it. After much trouble, they succeed in making all of these items and Jim is able to escape. They also make a coat of arms for Jim which includes a bend or in the dexter base, a saltire murrey in the fess, with a dog, couchant, for common charge, and under his foot a chain embattled, for slavery.
+Tom Sawyer and Jim hatch a plan to escape from Jim's captivity. To make the escape look more realistic, they decide to carve a 'mournful inscription' into a rock. Tom suggests they get a grindstone from the mill and use it to carve the inscription and make tools for their escape. Jim is afraid of a rattlesnake, but Tom encourages him to try and tame it for a pet. Tom also suggests getting some rats for Jim to train, as prisoners often have them as pets. In the end, Jim agrees to try and tame the rattlesnake and use a jews-harp to train the rats.
+
+
+GENERAL SUMMARY OR OVERVIEW:
+
+==========
+
+RESPONSE:
+
+Tom Sawyer, Huck, and Jim are trying to devise a plan to help Jim escape from slavery. They make a rope ladder, a shirt, a sheet, a spoon, and candles, as well as a pie with a rope ladder inside of it. To make the escape look more realistic, they decide to carve a 'mournful inscription' into a rock. Tom suggests they get a grindstone from the mill and use it to carve the inscription and make tools for their escape. Jim is also encouraged to tame a rattlesnake and use a jews-harp to train rats for his escape. In the end, Jim is able to escape successfully with the help of Tom Sawyer and Huck.

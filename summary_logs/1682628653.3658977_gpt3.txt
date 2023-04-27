@@ -1,0 +1,17 @@
+PROMPT:
+
+Write a general summary or overview of the following.
+
+
+This passage is about a conversation between a woman and a stranger. The woman is talking about her husband and her relations, as well as the murder of Huck Finn. She reveals that everyone initially thought old Finn killed him, but then they changed their minds and decided it was done by a runaway nigger named Jim. She also reveals that there is a reward out for Jim, and that some people think he is not far from where they are. The stranger, Mary Williams, is trying to leave before the woman's husband returns, while the woman continues to talk and asks Mary questions. Mary has to pretend to be interested in the conversation while trying to make her escape.
+In this passage, a runaway 'prentice is stopped by a woman who promises to keep their secret and help them. The woman tests the 'prentice's knowledge of country life before revealing that they are in St. Petersburg, not Goshen as they had thought. She then provides them with a snack and advice before they set off on their journey. The 'prentice and their companion then make their way to the Illinois side of the river, where they cover up their raft with cottonwood branches to avoid detection from any boats that may pass by.
+This passage follows two characters, Jim and the narrator, as they travel down the Missouri River on a raft. Along their journey, they take advantage of the darkness to stop in small villages and buy food, borrow items from cornfields, and catch fish. As they drift down the river, they observe steamboats and towns lit up with lights in the night sky. They eventually come across a steamboat that has wrecked on a rock, and debate whether or not it would be a good idea to explore it. Eventually Jim gives in and they board the boat, hoping to find something of value in the captain's stateroom.
+
+
+GENERAL SUMMARY OR OVERVIEW:
+
+==========
+
+RESPONSE:
+
+This passage follows two characters, Jim and the narrator, as they travel down the Missouri River on a raft. Along the way, they take advantage of the darkness to stop in small villages and buy food, borrow items from cornfields, and catch fish. They also come across a steamboat that has wrecked on a rock, and debate whether or not to explore it. Meanwhile, a woman stops a runaway 'prentice and provides them with a snack and advice before they set off on their journey. The woman also reveals that they are in St. Petersburg, not Goshen as they had thought. Finally, Jim and the narrator board the steamboat in search of something of value in the captain's stateroom.

@@ -1,0 +1,17 @@
+PROMPT:
+
+Write a general summary or overview of the following.
+
+
+In this chapter of the novel, Tom and Huck discuss the recent events in their town of Hicksville. They had heard that the King and the Duke had been tarred and feathered and run out of town. Tom and Huck then recall how they had arrived in town earlier, with Tom posing as a stranger while Huck was expected, but they had not been able to warn the King and Duke about the impending danger. They reflect on how cruel people can be to one another, and Tom expresses his opinion that a person's conscience is no good.
+Tom Sawyer and Huck Finn devise a plan to help Jim escape from slavery. They come up with a plan to steal the key to the hut where Jim is being held, and then use a canoe and a raft to escape down the river. They plan to hide during the day and travel at night. Tom has an even better plan, and they decide to go with his plan instead. They sneak into the hut and discover that Jim is indeed the prisoner, and then they return home to prepare for the escape. They plan to dig Jim out of the hut, but Tom realizes that it will take about a week. The next morning, they go to the nigger cabins to meet the nigger who is feeding Jim, and get the key from him.
+Tom and Huck are trying to figure out a plan to free Jim, a runaway slave, from his chains. Tom suggests digging a moat around the cabin, but eventually decides against it. He then suggests sawing off Jim's leg in order to get the chain off. Huck is shocked by this suggestion and suggests that they just lift up the bedstead and slip the chain off, which Tom agrees is a better plan. Tom also suggests that they find something to make a saw out of, in case they need it. They then leave to find some fox-fire to help them see while they dig.
+
+
+GENERAL SUMMARY OR OVERVIEW:
+
+==========
+
+RESPONSE:
+
+In this chapter, Tom Sawyer and Huck Finn discuss the recent events in their town of Hicksville. They devise a plan to help Jim, a runaway slave, escape from slavery. They come up with a plan to steal the key to the hut where Jim is being held, and then use a canoe and a raft to escape down the river. Tom then suggests sawing off Jim's leg in order to get the chain off, but Huck suggests that they just lift up the bedstead and slip the chain off, which Tom agrees is a better plan. They then leave to find some fox-fire to help them see while they dig.

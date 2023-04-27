@@ -1,0 +1,17 @@
+PROMPT:
+
+Write a general summary or overview of the following.
+
+
+This passage is set in a small town in Arkansas and tells of a group of people who come to the town and put on a show. It describes the townspeople as lazy and unkempt, wearing yellow straw hats and whittling with their Barlow knives. The text then tells of a man named Boggs who comes into town for his monthly drunk and causes a commotion. Colonel Sherburn then steps out of the store and warns Boggs to leave him alone or else he will find him. When Boggs refuses, Sherburn shoots him dead. A mob of people then gathers around Colonel Sherburn's house, intent on lynching him for killing Boggs, but Sherburn intimidates them with his words and the crowd disperses.
+The narrator visits a circus and is impressed by the show. He then meets a drunk man who insists on riding a horse, which stirs up the crowd and causes the ringmaster to make a speech. Later, the narrator and the Duke of Bilgewater put on their own show, a tragedy called The King's Cameleopard or The Royal Nonesuch. The show is a success, and they make a lot of money from the audience. On their way to the village, they meet a young man with two carpet bags who turns out to be a duke. The King talks about other kings throughout history and how they all acted in a similar way. Jim then tells Huck a story about how he once treated his daughter Elizabeth harshly, and how it made him regretful. The three of them travel together to the village.
+In this chapter, two men, the King and the Duke, reunite with their nieces after a long journey. They discover that the amount of money left in the deceased man's estate is four hundred and fifteen dollars short. The King and Duke make up the deficit by taking money out of their own pockets, and then suggest using the remaining money to give to the deceased man's bereaved daughters. However, they are interrupted by an iron-jawed man who accuses the King of being a fraud and an impostor. The story ends with everyone trying to protect the feelings of the girls and convince the iron-jawed man that the King is not a fraud.
+
+
+GENERAL SUMMARY OR OVERVIEW:
+
+==========
+
+RESPONSE:
+
+This passage is set in a small town in Arkansas and tells of a group of people who come to the town and put on a show. After a commotion caused by a drunk man named Boggs, Colonel Sherburn shoots him dead. A mob of people then gathers around Colonel Sherburn's house, intent on lynching him, but Sherburn intimidates them and the crowd disperses. The narrator and the Duke of Bilgewater then put on their own show and make a lot of money from the audience. They then reunite with their nieces and discover that the amount of money left in the deceased man's estate is four hundred and fifteen dollars short. An iron-jawed man then accuses the King of being a fraud, and everyone tries to protect the feelings of the girls and convince the iron-jawed man that the King is not a fraud.

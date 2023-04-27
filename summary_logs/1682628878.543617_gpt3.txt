@@ -1,0 +1,17 @@
+PROMPT:
+
+Write a general summary or overview of the following.
+
+
+In this chapter of the novel, Huck Finn and Jim escape from the King and the Duke, who had been exploiting them for their own gain. Huck reflects on his wrongdoing and decides to try to free Jim from slavery. He hides his bundle in the woods and sinks his canoe, and then goes into town to meet the Duke again. The King and Duke eventually reconcile and fall asleep in each other's arms, giving Huck and Jim a chance to talk about their situation and plan for the future.
+The narrator is on a mission to find his runaway slave, Jim. Along the way he meets two men who help him in exchange for secrecy. He eventually finds Jim at a plantation and discovers that he has been sold to Abram Foster, who lives forty miles away. Tom Sawyer arrives in town and greets his Aunt Sally with joy. He is pretending to be a stranger named William Thompson and is taken in by a family. He has been trying to steal Jim from slavery and his friend helps him on his mission. The family takes Tom in for dinner and then his friend picks him up so they can continue their mission to help Jim escape.
+In this chapter, Tom Sawyer and Huck Finn discuss the recent events in their town of Hicksville. They devise a plan to help Jim, a runaway slave, escape from slavery. They come up with a plan to steal the key to the hut where Jim is being held, and then use a canoe and a raft to escape down the river. Tom then suggests sawing off Jim's leg in order to get the chain off, but Huck suggests that they just lift up the bedstead and slip the chain off, which Tom agrees is a better plan. They then leave to find some fox-fire to help them see while they dig.
+
+
+GENERAL SUMMARY OR OVERVIEW:
+
+==========
+
+RESPONSE:
+
+In this chapter of the novel, Huck Finn and Tom Sawyer devise a plan to help Jim, a runaway slave, escape from slavery. They come up with a plan to steal the key to the hut where Jim is being held, and then use a canoe and a raft to escape down the river. They also discuss using fox-fire to help them see while they dig. Along the way, they encounter the King and Duke who had been exploiting them for their own gain, but eventually reconcile and fall asleep in each other's arms, giving Huck and Jim a chance to talk about their situation and plan for the future.

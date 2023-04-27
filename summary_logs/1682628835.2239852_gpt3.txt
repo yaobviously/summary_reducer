@@ -1,0 +1,17 @@
+PROMPT:
+
+Write a general summary or overview of the following.
+
+
+This chapter follows two men, Bill and Jake Packard, who are discussing what to do with Jim Turner, who they have tied up. They eventually decide to leave him on the wreck and let him drown. Meanwhile, Tom Sawyer and Jim hear them and devise a plan to find their boat and set it adrift so they can't escape. Later, a young boy recounts his journey down the river on a raft with his friend Jim, who are trying to escape from a gang of criminals who have stolen their skiff. Finally, Huck and Jim discuss kings, dukes, earls, and other royalty, as well as Louis Sixteen, the French king who lost his head.
+Huck and Jim are travelling down the river on a raft in order to reach the free state of Cairo, where Jim can be free from slavery. Along the way, they are separated by a fog and Huck attempts to tie the raft to a towhead, but the current is too strong. He jumps into a canoe and chases after it, eventually reuniting with Jim. When they reach Cairo, they are stopped by two men with guns who ask if the person on the raft is white or black. It is revealed that it is Huck's father, who is ill, and the men help Huck and Jim tow the raft ashore.
+Huck and Jim are on a raft, and encounter two men who think they have smallpox. The men give them money and tell them to float down the river twenty miles to a town where they can get help. They eventually pass Cairo, and come across a steamboat. The story then follows George Jackson, a young boy who falls overboard from a steamboat and is rescued by an old man and his family. The narrator is welcomed into a family's home in the country and is amazed at the style and sophistication of the house. He is offered a place to stay and in the morning he has forgotten his name. He is able to recall it with the help of Buck, one of the family members. The house has many luxuries, including a brass door knob, a big fireplace, brass dog-irons, a clock with a picture of a town painted on it, two big parrots made of chalk, crockery cat and dog, a crockery basket with fruit in it, books on the table, split-bottom chairs, pictures on the walls, and more.
+
+
+GENERAL SUMMARY OR OVERVIEW:
+
+==========
+
+RESPONSE:
+
+This chapter follows the adventures of Huck and Jim as they travel down the Mississippi River on a raft. Along the way, they encounter two men, Bill and Jake Packard, who are discussing what to do with a man they have tied up. They eventually decide to leave him on the wreck and let him drown. Meanwhile, Tom Sawyer and Jim overhear their conversation and devise a plan to find their boat and set it adrift so they can't escape. Later, a young boy recounts his journey down the river on a raft with his friend Jim, who are trying to escape from a gang of criminals who have stolen their skiff. Finally, Huck and Jim discuss kings, dukes, earls, and other royalty, as well as Louis Sixteen, the French king who lost his head. They eventually reach Cairo and are welcomed into a family's home in the country. There, Huck is reunited with his father and offered a place to stay. The house is filled with luxuries like brass door knobs, big fireplaces, brass dog-irons, clocks with pictures painted on them, split-bottom chairs and more.

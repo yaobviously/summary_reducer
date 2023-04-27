@@ -1,0 +1,17 @@
+PROMPT:
+
+Write a general summary or overview of the following.
+
+
+The narrator visits a circus and is impressed by the show. He encounters a drunk man who insists on riding a horse, which stirs up the crowd and causes the ringmaster to make a speech. The drunk man manages to stay on the horse and impresses the crowd with his skill. Later, the narrator and the Duke of Bilgewater put on their own show, a tragedy called The King's Cameleopard or The Royal Nonesuch. The show is a success, attracting a large crowd.
+The Duke and King put on a show in a small town, fooling the audience and making them laugh. After the show, the Duke and King go back to their raft and talk about the success of the show. They had made a lot of money from the audience and were proud of their trickery. The King then goes on to talk about other kings throughout history, such as Henry VIII, Charles II, Louis XIV and XV, James II, Edward II, Richard III, and others. He talks about how they all acted in a similar way, taking advantage of people and never giving them a chance. The King then concludes that if Henry VIII had been around instead of their own kings, he would have fooled the town even more.
+Huck and Jim are traveling down the river and come across a group of kings and dukes. They realize they have to make allowances for them, as they can't tell them apart from the real kind. Jim then tells Huck a story about how he once treated his daughter Elizabeth harshly, and how it made him regretful. The two then come across a young man with two carpet bags, and the king tells Huck to run the canoe in shore. The young man turns out to be a duke, who is traveling to the same village as them, and the three of them travel together to the village.
+
+
+GENERAL SUMMARY OR OVERVIEW:
+
+==========
+
+RESPONSE:
+
+The narrator visits a circus and is impressed by the show. He then meets a drunk man who insists on riding a horse, which stirs up the crowd and causes the ringmaster to make a speech. Later, the narrator and the Duke of Bilgewater put on their own show, a tragedy called The King's Cameleopard or The Royal Nonesuch. The show is a success, and they make a lot of money from the audience. On their way to the village, they meet a young man with two carpet bags who turns out to be a duke. The King talks about other kings throughout history and how they all acted in a similar way. Jim then tells Huck a story about how he once treated his daughter Elizabeth harshly, and how it made him regretful. The three of them travel together to the village.
